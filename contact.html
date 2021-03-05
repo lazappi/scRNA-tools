@@ -46,8 +46,8 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@scRNAtools" />
-    <meta name="twitter:title" content="scRNA-tools FAQs page" />
-    <meta name="twitter:description" content="FAQs about scRNA-tools.org" />
+    <meta name="twitter:title" content="scRNA-tools contact page" />
+    <meta name="twitter:description" content="Contact the scRNA-tools team" />
     <meta name="twitter:image" content="https://www.scrna-tools.org/img/square.png" />
 
     <meta name="description" content="A catalogue of single-cell RNA-sequencing analysis tools" />
@@ -67,6 +67,7 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" type="text/css" href="css/layout.css" />
+    <link rel="stylesheet" type="text/css" href="css/submit.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -86,7 +87,7 @@
 
   </head>
 
-  <body id="page-faqs">
+  <body id="page-submit">
     <!--// Header --------------------------------------------------------->
 
     <div id="frame-header" class="container-fluid">
@@ -105,7 +106,7 @@
         <li><a href="analysis.html">Analysis</a></li>
         <li><a href="updates.html">Updates</a></li>
         <li><a href="submit.html">Submit</a></li>
-        <li class="active"><a href="#">FAQs</a></li>
+        <li><a href="faqs.html">FAQs</a></li>
       </ul>
       <ul id="navbar-util">
         <li>
@@ -119,74 +120,80 @@
 
     <div id="page-title" class="container-fluid">
       <div class="col-lg-12">
-        <h1>FAQs</h1>
-        <h2>Frequently asked questions about scRNA-tools</h2>
+        <h1>Contact</h1>
+        <h2>Get in touch with the scRNA-tools team</h2>
       </div>
     </div>
 
-    <!--// Content --------------------------------------------------------->
     <div id="frame-content" class="container-fluid">
-      <!--// JSON Table ---------------------------------------------- -->
+      <div id="intro" class="col-lg-12">
+        <h2>Join the scRNA-tools team!</h2>
+        <h3>
+          scRNA-tools aims to be a comprehensive resource for the single-cell RNA-seq analysis
+          community but to make it as good possible we need your help. This may be by submitting new
+          tools or updates via our <a href="submit.html">submission form</a> but if you would like
+          to contribute further please consider joining the scRNA-tools team.
+        </h3>
+        <br />
+        <h3>
+          No matter your skill set or the time you can commit there is sure to be some way you can
+          contribute and we would love to have you on board!
+        </h3>
+      </div>
+
+      <!--// Submission form ----------------------------------------- -->
 
       <img id="logo-square" alt="scRNA-tools" src="img/square.svg" />
 
-      <dl id="faqs-list">
-        <dt>What is scRNA-tools?</dt>
-        <dd>
-          scRNA-tools is a catalogue of software packages designed for the analysis of single-cell
-          RNA-sequencing data. We aim to record details of all tools for working with this data
-          type.
-        </dd>
-        <dt>Where is my tool?</dt>
-        <dd>
-          If you have a tool that we are missing please fill in our
-          <a href="submit.html">submission form</a> or submit an issue to our
-          <a href="https://github.com/scRNA-tools/scRNA-tools/issues">GitHub repository</a>. We would
-          love to add it!
-        </dd>
-        <dt>That's not right, can you fix it?</dt>
-        <dd>
-          We try to keep everything up to date but it's a difficult task. If you notice that the
-          details for a tool are incorrect or need updating please fill in our
-          <a href="submit.html">submission form</a> or submit an issue to our
-          <a href="https://github.com/scRNA-tools/scRNA-tools/issues">GitHub repository</a>.
-        </dd>
-        <dt>I'm on Safari, why do things look funny?</dt>
-        <dd>
-          The site has been developed using Chrome. While we try to accommodate other browsers this
-          can be difficult and there are some known issues with Safari. If you run into problems try
-          loading scRNA-tools.org in Chrome.
-        </dd>
-        <dt>Who are we?</dt>
-        <dd>
-          scRNA-tools.org was created by the
-          <a href="http://oshlacklab.com">Oshlack lab</a>, a bioinformatics lab based in Melbourne,
-          Australia. <br /><br />
-          The resource is now maintained by a team of volunteers around the world including at the
-          <a href="https://www.helmholtz-muenchen.de/icb/index.html"
-            >Institute of Computational Biology</a
-          >
-          in Munich, Germany.
-        </dd>
-        <dt>How can I get involved?</dt>
-        <dd>
-          We encourage and welcome contributions from the community via our
-          <a href="submit.html">submission form</a> and
-          <a href="https://github.com/scRNA-tools/scRNA-tools">GitHub repository</a>. <br /><br />
-          We are always look for volunteers to join the scRNA-tools team. If you are interested in
-          becoming involved in a more formal way please
-          <a href="contact.html">contact us</a>.
-        </dd>
-        <dt>How can I cite scRNA-tools.org?</dt>
-        <dd>
-          If you find the scRNA-tools database useful for your work please cite our paper:
-          <br /><br />
-          Zappia L, Phipson B, Oshlack A. "Exploring the single-cell RNA-seq analysis landscape with
-          the scRNA-tools database", PLOS Computational Biology (2018), DOI:
-          <a href="https://doi.org/10.1371/journal.pcbi.1006245">10.1371/journal.pcbi.1006245</a>
-        </dd>
-      </dl>
+      <form action="https://formspree.io/scrna.tools@gmail.com" method="POST">
+        <legend>
+          Please use this form if you are interested in joining the scRNA-tools team or want to
+          contact us for any other reason.
+        </legend>
+        <fieldset>
+          <div class="form-group">
+            <label for="name">Your name:</label>
+            <input type="text" class="form-control" id="name" name="name" placeholder="Your name" />
+          </div>
+          <div class="form-group">
+            <label for="email">Email:</label>
+            <input
+              type="email"
+              class="form-control"
+              id="email"
+              name="_replyto"
+              placeholder="Your email"
+            />
+          </div>
+          <div class="full-group form-group">
+            <label for="notes">Message:</label>
+            <textarea
+              type="text"
+              class="form-control"
+              id="message"
+              name="message"
+              placeholder="Your message for the scRNA-tools team"
+            ></textarea>
+          </div>
+
+          <button type="submit" class="btn btn-default">Submit</button>
+          <div class="clear"></div>
+        </fieldset>
+      </form>
     </div>
+
+    <!-- <div class="alert-banner" style="display: none;">
+      <div class="banner-wrapper">
+        <p>
+          We are currently looking for people to join the scRNA-tools team.<a href="contact.html"
+            >Learn more here.</a
+          >
+        </p>
+        <button aria-label="Close" type="button">
+          <span aria-hidden="true"><i class="fa fa-times" aria-hidden="true"></i></span>
+        </button>
+      </div>
+    </div> -->
 
     <footer id="frame-footer">
       <div class="container">
@@ -221,19 +228,6 @@
         </div>
       </div>
     </footer>
-
-    <!-- <div class="alert-banner" style="display: none;">
-      <div class="banner-wrapper">
-        <p>
-          We are currently looking for people to join the scRNA-tools team.<a href="contact.html"
-            >Learn more here.</a
-          >
-        </p>
-        <button aria-label="Close" type="button">
-          <span aria-hidden="true"><i class="fa fa-times" aria-hidden="true"></i></span>
-        </button>
-      </div>
-    </div> -->
 
     <script type="application/javascript" src="js/jquery-banner.js"></script>
   </body>

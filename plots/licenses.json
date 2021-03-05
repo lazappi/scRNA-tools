@@ -5,8 +5,8 @@
       "width": 0.95,
       "base": 0,
       "x": [1],
-      "y": [209],
-      "text": "License: GPL<br />Count: 209<br />Percent: 41.9",
+      "y": [342],
+      "text": "License: GPL<br />Count: 342<br />Percent: 38.8",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -29,8 +29,8 @@
       "width": 0.95,
       "base": 0,
       "x": [2],
-      "y": [103],
-      "text": "License: MIT<br />Count: 103<br />Percent: 20.6",
+      "y": [209],
+      "text": "License: MIT<br />Count: 209<br />Percent: 23.7",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -53,36 +53,12 @@
       "width": 0.95,
       "base": 0,
       "x": [3],
-      "y": [22],
-      "text": "License: Apache<br />Count:  22<br />Percent: 4.4",
+      "y": [50],
+      "text": "License: BSD<br />Count:  50<br />Percent: 5.7",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
         "color": "rgba(141,198,63,1)",
-        "line": {
-          "width": 1.88976377952756,
-          "color": "transparent"
-        }
-      },
-      "name": "(Apache,1)",
-      "legendgroup": "(Apache,1)",
-      "showlegend": true,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "orientation": "v",
-      "width": 0.95,
-      "base": 0,
-      "x": [4],
-      "y": [19],
-      "text": "License: BSD<br />Count:  19<br />Percent: 3.8",
-      "type": "bar",
-      "marker": {
-        "autocolorscale": false,
-        "color": "rgba(0,183,198,1)",
         "line": {
           "width": 1.88976377952756,
           "color": "transparent"
@@ -98,11 +74,35 @@
     },
     {
       "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [4],
+      "y": [35],
+      "text": "License: Apache<br />Count:  35<br />Percent: 4",
+      "type": "bar",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,183,198,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(Apache,1)",
+      "legendgroup": "(Apache,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
       "width": 0.949999999999999,
       "base": 0,
       "x": [5],
-      "y": [12],
-      "text": "License: Artistic<br />Count:  12<br />Percent: 2.4",
+      "y": [17],
+      "text": "License: Artistic<br />Count:  17<br />Percent: 1.9",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -125,8 +125,8 @@
       "width": 0.949999999999999,
       "base": 0,
       "x": [6],
-      "y": [17],
-      "text": "License: Other<br />Count:  17<br />Percent: 3.4",
+      "y": [23],
+      "text": "License: Other<br />Count:  23<br />Percent: 2.6",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -149,8 +149,8 @@
       "width": 0.949999999999999,
       "base": 0,
       "x": [7],
-      "y": [117],
-      "text": "License: Unknown<br />Count: 117<br />Percent: 23.4",
+      "y": [206],
+      "text": "License: Unknown<br />Count: 206<br />Percent: 23.4",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -170,9 +170,9 @@
     },
     {
       "x": [1],
-      "y": [184.05],
-      "text": "GPL<br />41.9%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 184.05<br />License: GPL<br />Count: 184.05<br />Percent: 41.9",
+      "y": [297.9],
+      "text": "GPL<br />38.8%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 297.9<br />License: GPL<br />Count: 297.9<br />Percent: 38.8",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(255,255,255,1)"
@@ -190,9 +190,9 @@
     },
     {
       "x": [2],
-      "y": [127.95],
-      "text": "MIT<br />20.6%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 127.95<br />License: MIT<br />Count: 127.95<br />Percent: 20.6",
+      "y": [253.1],
+      "text": "MIT<br />23.7%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 253.1<br />License: MIT<br />Count: 253.1<br />Percent: 23.7",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(0,173,239,1)"
@@ -210,32 +210,12 @@
     },
     {
       "x": [3],
-      "y": [46.95],
-      "text": "Apache<br />4.4%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  46.95<br />License: Apache<br />Count:  46.95<br />Percent: 4.4",
+      "y": [94.1],
+      "text": "BSD<br />5.7%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  94.1<br />License: BSD<br />Count:  94.1<br />Percent: 5.7",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(141,198,63,1)"
-      },
-      "type": "scatter",
-      "mode": "text",
-      "hoveron": "points",
-      "name": "Apache",
-      "legendgroup": "Apache",
-      "showlegend": true,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [4],
-      "y": [43.95],
-      "text": "BSD<br />3.8%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  43.95<br />License: BSD<br />Count:  43.95<br />Percent: 3.8",
-      "textfont": {
-        "size": 18.8976377952756,
-        "color": "rgba(0,183,198,1)"
       },
       "type": "scatter",
       "mode": "text",
@@ -249,10 +229,30 @@
       "frame": null
     },
     {
+      "x": [4],
+      "y": [79.1],
+      "text": "Apache<br />4%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  79.1<br />License: Apache<br />Count:  79.1<br />Percent: 4",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(0,183,198,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "Apache",
+      "legendgroup": "Apache",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
       "x": [5],
-      "y": [36.95],
-      "text": "Artistic<br />2.4%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  36.95<br />License: Artistic<br />Count:  36.95<br />Percent: 2.4",
+      "y": [61.1],
+      "text": "Artistic<br />1.9%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  61.1<br />License: Artistic<br />Count:  61.1<br />Percent: 1.9",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(244,121,32,1)"
@@ -270,9 +270,9 @@
     },
     {
       "x": [6],
-      "y": [41.95],
-      "text": "Other<br />3.4%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  41.95<br />License: Other<br />Count:  41.95<br />Percent: 3.4",
+      "y": [67.1],
+      "text": "Other<br />2.6%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  67.1<br />License: Other<br />Count:  67.1<br />Percent: 2.6",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(122,82,199,1)"
@@ -290,9 +290,9 @@
     },
     {
       "x": [7],
-      "y": [141.95],
+      "y": [250.1],
       "text": "Unknown<br />23.4%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 141.95<br />License: Unknown<br />Count: 141.95<br />Percent: 23.4",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 250.1<br />License: Unknown<br />Count: 250.1<br />Percent: 23.4",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(153,153,153,1)"
@@ -328,10 +328,10 @@
       "autorange": false,
       "range": [0.4, 7.6],
       "tickmode": "array",
-      "ticktext": ["GPL", "MIT", "Apache", "BSD", "Artistic", "Other", "Unknown"],
+      "ticktext": ["GPL", "MIT", "BSD", "Apache", "Artistic", "Other", "Unknown"],
       "tickvals": [1, 2, 3, 4, 5, 6, 7],
       "categoryorder": "array",
-      "categoryarray": ["GPL", "MIT", "Apache", "BSD", "Artistic", "Other", "Unknown"],
+      "categoryarray": ["GPL", "MIT", "BSD", "Apache", "Artistic", "Other", "Unknown"],
       "nticks": null,
       "ticks": "",
       "tickcolor": null,
@@ -367,12 +367,12 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-10.45, 219.45],
+      "range": [-17.1, 359.1],
       "tickmode": "array",
-      "ticktext": ["0", "50", "100", "150", "200"],
-      "tickvals": [0, 50, 100, 150, 200],
+      "ticktext": ["0", "100", "200", "300"],
+      "tickvals": [0, 100, 200, 300],
       "categoryorder": "array",
-      "categoryarray": ["0", "50", "100", "150", "200"],
+      "categoryarray": ["0", "100", "200", "300"],
       "nticks": null,
       "ticks": "",
       "tickcolor": null,
@@ -443,14 +443,14 @@
   },
   "source": "A",
   "attrs": {
-    "2a5d101c5ddc": {
+    "3f7d33bcf79c": {
       "x": {},
       "y": {},
       "fill": {},
       "text": {},
       "type": "bar"
     },
-    "2a5d5844bc18": {
+    "3f7d5f453f52": {
       "y": {},
       "label": {},
       "colour": {},
@@ -460,10 +460,10 @@
       "text": {}
     }
   },
-  "cur_data": "2a5d101c5ddc",
+  "cur_data": "3f7d33bcf79c",
   "visdat": {
-    "2a5d101c5ddc": ["function (y) ", "x"],
-    "2a5d5844bc18": ["function (y) ", "x"]
+    "3f7d33bcf79c": ["function (y) ", "x"],
+    "3f7d5f453f52": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
@@ -476,6 +476,6 @@
     },
     "debounce": 0
   },
-  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot"],
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
   "base_url": "https://plot.ly"
 }
