@@ -489,11 +489,11 @@
         "Title": "Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq",
         "DOI": "10.1126/science.aaa1934",
         "Date": "2015-02-19",
-        "Citations": 1681
+        "Citations": 1682
       }
     ],
     "Preprints": [],
-    "Citations": 1681,
+    "Citations": 1682,
     "NumPubs": 1,
     "NumPreprints": 0,
     "PyPI": "backspinpy",
@@ -682,11 +682,11 @@
         "Title": "Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors",
         "DOI": "10.1038/nbt.4091",
         "Date": "2018-04-02",
-        "Citations": 602
+        "Citations": 603
       }
     ],
     "Preprints": [],
-    "Citations": 602,
+    "Citations": 603,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "batchelor",
@@ -2402,7 +2402,7 @@
         "Title": "Single-cell reconstruction of the early maternal–fetal interface in humans",
         "DOI": "10.1038/s41586-018-0698-6",
         "Date": "2018-11",
-        "Citations": 546
+        "Citations": 547
       },
       {
         "Title": "CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes",
@@ -2418,7 +2418,7 @@
         "Citations": 29
       }
     ],
-    "Citations": 782,
+    "Citations": 783,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "CellPhoneDB",
@@ -2437,11 +2437,11 @@
         "Title": "Massively parallel digital transcriptional profiling of single cells",
         "DOI": "10.1038/ncomms14049",
         "Date": "2017-01-16",
-        "Citations": 1723
+        "Citations": 1724
       }
     ],
     "Preprints": [],
-    "Citations": 1723,
+    "Citations": 1724,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "10XGenomics/cellranger"
@@ -5079,7 +5079,7 @@
         "Title": "DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors",
         "DOI": "10.1016/j.cels.2019.03.003",
         "Date": "2019-04",
-        "Citations": 220
+        "Citations": 221
       }
     ],
     "Preprints": [
@@ -5089,7 +5089,7 @@
         "Citations": 17
       }
     ],
-    "Citations": 237,
+    "Citations": 238,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "chris-mcginnis-ucsf/DoubletFinder"
@@ -7497,10 +7497,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -7883,11 +7883,11 @@
         "Title": "Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma",
         "DOI": "10.1126/science.1254257",
         "Date": "2014-06-12",
-        "Citations": 2047
+        "Citations": 2048
       }
     ],
     "Preprints": [],
-    "Citations": 2047,
+    "Citations": 2048,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "infercnv",
@@ -8162,7 +8162,7 @@
         "Title": "Isoform-level gene expression patterns in single-cell RNA-sequencing data",
         "DOI": "10.1093/bioinformatics/bty100",
         "Date": "2018-02-27",
-        "Citations": 8
+        "Citations": 9
       }
     ],
     "Preprints": [
@@ -8172,7 +8172,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 8,
+    "Citations": 9,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "nghiavtr/ISOP"
@@ -8482,7 +8482,7 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 3224
+        "Citations": 3225
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
@@ -8503,7 +8503,7 @@
         "Citations": 48
       }
     ],
-    "Citations": 3286,
+    "Citations": 3287,
     "NumPubs": 2,
     "NumPreprints": 2,
     "GitHub": "pachterlab/kallisto"
@@ -12510,7 +12510,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 2441
+        "Citations": 2443
       },
       {
         "Title": "Alevin efficiently estimates accurate gene abundances from dscRNA-seq data",
@@ -12536,7 +12536,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 2574,
+    "Citations": 2576,
     "NumPubs": 2,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -14118,10 +14118,10 @@
       {
         "Title": "scDD: A statistical approach for identifying differential distributions in single-cell RNA-seq experiments",
         "DOI": "10.1101/035501",
-        "Citations": 3
+        "Citations": 4
       }
     ],
-    "Citations": 122,
+    "Citations": 123,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scDD",
@@ -15959,11 +15959,11 @@
         "Title": "Cell-level somatic mutation detection from single-cell RNA sequencing",
         "DOI": "10.1093/bioinformatics/btz288",
         "Date": "2019-04-26",
-        "Citations": 8
+        "Citations": 9
       }
     ],
     "Preprints": [],
-    "Citations": 8,
+    "Citations": 9,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "nghiavtr/SCmut"
@@ -16730,7 +16730,7 @@
         "Title": "Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors",
         "DOI": "10.1038/nbt.4091",
         "Date": "2018-04-02",
-        "Citations": 602
+        "Citations": 603
       },
       {
         "Title": "Pooling across cells to normalize single-cell RNA sequencing data with many zero counts",
@@ -16746,7 +16746,7 @@
         "Citations": 16
       }
     ],
-    "Citations": 1081,
+    "Citations": 1082,
     "NumPubs": 2,
     "NumPreprints": 1,
     "Bioc": "scran",
@@ -18193,7 +18193,7 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 2272
+        "Citations": 2275
       },
       {
         "Title": "Spatial reconstruction of single-cell gene expression data",
@@ -18205,7 +18205,7 @@
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
         "DOI": "10.1038/nbt.4096",
         "Date": "2018-04-02",
-        "Citations": 3246
+        "Citations": 3247
       }
     ],
     "Preprints": [
@@ -18230,7 +18230,7 @@
         "Citations": 60
       }
     ],
-    "Citations": 7361,
+    "Citations": 7365,
     "NumPubs": 3,
     "NumPreprints": 4,
     "CRAN": "Seurat",
@@ -19898,7 +19898,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 14693
+        "Citations": 14703
       }
     ],
     "Preprints": [
@@ -19908,7 +19908,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 14693,
+    "Citations": 14703,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -20831,11 +20831,11 @@
         "Title": "Genomic encoding of transcriptional burst kinetics",
         "DOI": "10.1038/s41586-018-0836-1",
         "Date": "2019-01",
-        "Citations": 151
+        "Citations": 152
       }
     ],
     "Preprints": [],
-    "Citations": 151,
+    "Citations": 152,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "sandberg-lab/txburst"
@@ -20951,7 +20951,7 @@
         "Title": "Power analysis of single-cell RNA-sequencing experiments",
         "DOI": "10.1038/nmeth.4220",
         "Date": "2017-03-06",
-        "Citations": 308
+        "Citations": 309
       }
     ],
     "Preprints": [
@@ -20961,7 +20961,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 314,
+    "Citations": 315,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "umis",
