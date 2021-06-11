@@ -30,6 +30,9 @@
         "Tool": "DrSeq2"
       },
       {
+        "Tool": "eQTLsingle"
+      },
+      {
         "Tool": "Falco"
       },
       {
@@ -201,6 +204,9 @@
       },
       {
         "Tool": "scDAPA"
+      },
+      {
+        "Tool": "scDaPars"
       },
       {
         "Tool": "scisorseqr"
@@ -536,6 +542,10 @@
         "PyPI": "moana"
       },
       {
+        "Tool": "mtSC",
+        "PyPI": "mtSC"
+      },
+      {
         "Tool": "northstar",
         "PyPI": "northstar"
       },
@@ -589,6 +599,12 @@
         "Tool": "scConsensus"
       },
       {
+        "Tool": "scDECAF"
+      },
+      {
+        "Tool": "scDetect"
+      },
+      {
         "Tool": "scdney"
       },
       {
@@ -630,6 +646,9 @@
       },
       {
         "Tool": "SCSA"
+      },
+      {
+        "Tool": "scSimClassify"
       },
       {
         "Tool": "scSorter",
@@ -720,6 +739,9 @@
         "Tool": "ascend"
       },
       {
+        "Tool": "ASURAT"
+      },
+      {
         "Tool": "BackSPIN",
         "PyPI": "backspinpy"
       },
@@ -728,6 +750,9 @@
       },
       {
         "Tool": "BasisVAE"
+      },
+      {
+        "Tool": "BayesEATS"
       },
       {
         "Tool": "BEARscc",
@@ -1012,8 +1037,7 @@
         "Bioc": "iterClust"
       },
       {
-        "Tool": "jackstraw",
-        "CRAN": "jackstraw"
+        "Tool": "jackstraw"
       },
       {
         "Tool": "JOINT"
@@ -1184,8 +1208,7 @@
         "Tool": "RGGC"
       },
       {
-        "Tool": "robustSingleCell",
-        "CRAN": "robustSingleCell"
+        "Tool": "robustSingleCell"
       },
       {
         "Tool": "ROGUE"
@@ -1358,6 +1381,9 @@
         "Tool": "scRNA"
       },
       {
+        "Tool": "SCSC"
+      },
+      {
         "Tool": "scScope",
         "PyPI": "scScope"
       },
@@ -1474,6 +1500,9 @@
       },
       {
         "Tool": "SSrGE"
+      },
+      {
+        "Tool": "SuperCell"
       },
       {
         "Tool": "TBSP",
@@ -2150,7 +2179,8 @@
         "Tool": "Haisu"
       },
       {
-        "Tool": "Harmony"
+        "Tool": "Harmony",
+        "CRAN": "harmony"
       },
       {
         "Tool": "HD-AE"
@@ -2186,8 +2216,7 @@
         "PyPI": "ivis"
       },
       {
-        "Tool": "jackstraw",
-        "CRAN": "jackstraw"
+        "Tool": "jackstraw"
       },
       {
         "Tool": "JSOM"
@@ -2368,8 +2397,7 @@
         "Tool": "RCAv2"
       },
       {
-        "Tool": "robustSingleCell",
-        "CRAN": "robustSingleCell"
+        "Tool": "robustSingleCell"
       },
       {
         "Tool": "rpca",
@@ -2438,6 +2466,9 @@
         "Tool": "scCCESS"
       },
       {
+        "Tool": "scDA"
+      },
+      {
         "Tool": "scDART"
       },
       {
@@ -2459,6 +2490,10 @@
       },
       {
         "Tool": "scEpath"
+      },
+      {
+        "Tool": "scETM",
+        "PyPI": "scETM"
       },
       {
         "Tool": "scGAE"
@@ -2911,8 +2946,7 @@
         "Tool": "iS-CellR"
       },
       {
-        "Tool": "jackstraw",
-        "CRAN": "jackstraw"
+        "Tool": "jackstraw"
       },
       {
         "Tool": "Linnorm",
@@ -3395,6 +3429,9 @@
         "PyPI": "AltAnalyze"
       },
       {
+        "Tool": "ASURAT"
+      },
+      {
         "Tool": "BESCA"
       },
       {
@@ -3511,6 +3548,9 @@
       {
         "Tool": "SCDE",
         "Bioc": "scde"
+      },
+      {
+        "Tool": "scDECAF"
       },
       {
         "Tool": "scdNet"
@@ -3956,6 +3996,9 @@
         "Tool": "BATMAN"
       },
       {
+        "Tool": "BayesEATS"
+      },
+      {
         "Tool": "bbknn",
         "PyPI": "bbknn"
       },
@@ -4079,7 +4122,8 @@
         "Tool": "GLUER"
       },
       {
-        "Tool": "Harmony"
+        "Tool": "Harmony",
+        "CRAN": "harmony"
       },
       {
         "Tool": "HD-AE"
@@ -4174,6 +4218,10 @@
         "PyPI": "monet"
       },
       {
+        "Tool": "mtSC",
+        "PyPI": "mtSC"
+      },
+      {
         "Tool": "MultiMAP"
       },
       {
@@ -4211,8 +4259,7 @@
         "PyPI": "rnasieve"
       },
       {
-        "Tool": "robustSingleCell",
-        "CRAN": "robustSingleCell"
+        "Tool": "robustSingleCell"
       },
       {
         "Tool": "SAUCIE"
@@ -4264,6 +4311,10 @@
       },
       {
         "Tool": "scDGN"
+      },
+      {
+        "Tool": "scETM",
+        "PyPI": "scETM"
       },
       {
         "Tool": "scFBA"
@@ -4768,8 +4819,7 @@
         "Tool": "IKAP"
       },
       {
-        "Tool": "jackstraw",
-        "CRAN": "jackstraw"
+        "Tool": "jackstraw"
       },
       {
         "Tool": "LIGER",
@@ -4940,6 +4990,9 @@
       {
         "Tool": "SparseDC",
         "CRAN": "SparseDC"
+      },
+      {
+        "Tool": "SuperCell"
       },
       {
         "Tool": "TSCAN",
@@ -5175,8 +5228,7 @@
         "Tool": "RCAv2"
       },
       {
-        "Tool": "robustSingleCell",
-        "CRAN": "robustSingleCell"
+        "Tool": "robustSingleCell"
       },
       {
         "Tool": "sake"
@@ -5693,6 +5745,9 @@
         "Tool": "STREAM"
       },
       {
+        "Tool": "SuperCell"
+      },
+      {
         "Tool": "TASIC"
       },
       {
@@ -5796,6 +5851,10 @@
       },
       {
         "Tool": "PopAlign"
+      },
+      {
+        "Tool": "PRESCIENT",
+        "PyPI": "prescient"
       },
       {
         "Tool": "SCATTome"
@@ -6190,7 +6249,8 @@
         "PyPI": "AltAnalyze"
       },
       {
-        "Tool": "baredSC"
+        "Tool": "baredSC",
+        "PyPI": "baredSC"
       },
       {
         "Tool": "BCseq"
@@ -6224,6 +6284,9 @@
       },
       {
         "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "eQTLsingle"
       },
       {
         "Tool": "ESAT"
@@ -6295,6 +6358,9 @@
       {
         "Tool": "scruff",
         "Bioc": "scruff"
+      },
+      {
+        "Tool": "scSimClassify"
       },
       {
         "Tool": "scsnv"
@@ -6894,8 +6960,7 @@
         "Tool": "iS-CellR"
       },
       {
-        "Tool": "jackstraw",
-        "CRAN": "jackstraw"
+        "Tool": "jackstraw"
       },
       {
         "Tool": "LAmbDA"
@@ -7074,13 +7139,17 @@
         "Tool": "CONICS"
       },
       {
-        "Tool": "Demuxalot"
+        "Tool": "Demuxalot",
+        "PyPI": "demuxalot"
       },
       {
         "Tool": "demuxlet"
       },
       {
         "Tool": "DENDRO"
+      },
+      {
+        "Tool": "eQTLsingle"
       },
       {
         "Tool": "FLAMES"
@@ -7203,6 +7272,9 @@
         "Tool": "ascend"
       },
       {
+        "Tool": "ASURAT"
+      },
+      {
         "Tool": "AUCell",
         "Bioc": "AUCell"
       },
@@ -7210,7 +7282,8 @@
         "Tool": "badger"
       },
       {
-        "Tool": "baredSC"
+        "Tool": "baredSC",
+        "PyPI": "baredSC"
       },
       {
         "Tool": "BatchBench"
@@ -7982,8 +8055,7 @@
         "Tool": "redPATH"
       },
       {
-        "Tool": "robustSingleCell",
-        "CRAN": "robustSingleCell"
+        "Tool": "robustSingleCell"
       },
       {
         "Tool": "ROGUE"
@@ -8414,6 +8486,9 @@
       },
       {
         "Tool": "STREAM"
+      },
+      {
+        "Tool": "SuperCell"
       },
       {
         "Tool": "SWNE"
