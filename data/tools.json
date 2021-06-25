@@ -7928,10 +7928,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -12769,6 +12769,28 @@
     "GitHub": "seasamgo/rescue"
   },
   {
+    "Tool": "Revelio",
+    "Platform": "R",
+    "Code": "https://github.com/danielschw188/Revelio",
+    "Description": "The Revelio package is designed to extract cell cycle information from scRNA-seq experiments of cycling cells",
+    "Added": "2021-06-25",
+    "Updated": "2021-06-25",
+    "Categories": ["CellCycle", "Ordering", "Visualisation"],
+    "Publications": [
+      {
+        "Title": "The transcriptome dynamics of single cells during the cell cycle",
+        "DOI": "10.15252/msb.20209946",
+        "Date": "2020-11",
+        "Citations": 3
+      }
+    ],
+    "Preprints": [],
+    "Citations": 3,
+    "NumPubs": 1,
+    "NumPreprints": 0,
+    "GitHub": "danielschw188/Revelio"
+  },
+  {
     "Tool": "RGGC",
     "Platform": "MATLAB",
     "Code": "https://github.com/zliu3/RGGC",
@@ -14838,10 +14860,10 @@
       {
         "Title": "scDD: A statistical approach for identifying differential distributions in single-cell RNA-seq experiments",
         "DOI": "10.1101/035501",
-        "Citations": 4
+        "Citations": 3
       }
     ],
-    "Citations": 131,
+    "Citations": 130,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scDD",
@@ -22657,11 +22679,11 @@
         "Title": "A lineage-resolved molecular atlas of C. elegans embryogenesis at single-cell resolution",
         "DOI": "10.1126/science.aax1971",
         "Date": "2019-09-05",
-        "Citations": 99
+        "Citations": 100
       }
     ],
     "Preprints": [],
-    "Citations": 99,
+    "Citations": 100,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "tanlabcode/VisCello"

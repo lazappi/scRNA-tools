@@ -30,7 +30,7 @@
       "base": 0,
       "x": [2],
       "y": [238],
-      "text": "License: MIT<br />Count: 238<br />Percent: 24.3",
+      "text": "License: MIT<br />Count: 238<br />Percent: 24.2",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -149,8 +149,8 @@
       "width": 0.949999999999999,
       "base": 0,
       "x": [7],
-      "y": [230],
-      "text": "License: Unknown<br />Count: 230<br />Percent: 23.4",
+      "y": [231],
+      "text": "License: Unknown<br />Count: 231<br />Percent: 23.5",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -170,9 +170,9 @@
     },
     {
       "x": [1],
-      "y": [324.95],
+      "y": [324.9],
       "text": "GPL<br />38.1%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 324.95<br />License: GPL<br />Count: 324.95<br />Percent: 38.1",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 324.9<br />License: GPL<br />Count: 324.9<br />Percent: 38.1",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(255,255,255,1)"
@@ -190,9 +190,9 @@
     },
     {
       "x": [2],
-      "y": [287.05],
-      "text": "MIT<br />24.3%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 287.05<br />License: MIT<br />Count: 287.05<br />Percent: 24.3",
+      "y": [287.1],
+      "text": "MIT<br />24.2%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 287.1<br />License: MIT<br />Count: 287.1<br />Percent: 24.2",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(0,173,239,1)"
@@ -210,9 +210,9 @@
     },
     {
       "x": [3],
-      "y": [107.05],
+      "y": [107.1],
       "text": "BSD<br />5.9%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 107.05<br />License: BSD<br />Count: 107.05<br />Percent: 5.9",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 107.1<br />License: BSD<br />Count: 107.1<br />Percent: 5.9",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(141,198,63,1)"
@@ -230,9 +230,9 @@
     },
     {
       "x": [4],
-      "y": [88.05],
+      "y": [88.1],
       "text": "Apache<br />4%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  88.05<br />License: Apache<br />Count:  88.05<br />Percent: 4",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  88.1<br />License: Apache<br />Count:  88.1<br />Percent: 4",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(0,183,198,1)"
@@ -250,9 +250,9 @@
     },
     {
       "x": [5],
-      "y": [66.05],
+      "y": [66.1],
       "text": "Artistic<br />1.7%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  66.05<br />License: Artistic<br />Count:  66.05<br />Percent: 1.7",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  66.1<br />License: Artistic<br />Count:  66.1<br />Percent: 1.7",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(244,121,32,1)"
@@ -270,9 +270,9 @@
     },
     {
       "x": [6],
-      "y": [74.05],
+      "y": [74.1],
       "text": "Other<br />2.5%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  74.05<br />License: Other<br />Count:  74.05<br />Percent: 2.5",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  74.1<br />License: Other<br />Count:  74.1<br />Percent: 2.5",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(122,82,199,1)"
@@ -290,9 +290,9 @@
     },
     {
       "x": [7],
-      "y": [279.05],
-      "text": "Unknown<br />23.4%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 279.05<br />License: Unknown<br />Count: 279.05<br />Percent: 23.4",
+      "y": [280.1],
+      "text": "Unknown<br />23.5%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 280.1<br />License: Unknown<br />Count: 280.1<br />Percent: 23.5",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(153,153,153,1)"
@@ -443,14 +443,14 @@
   },
   "source": "A",
   "attrs": {
-    "20db6953dc91": {
+    "20db52ca7a4f": {
       "x": {},
       "y": {},
       "fill": {},
       "text": {},
       "type": "bar"
     },
-    "20db331ed5e4": {
+    "20db5d3bb3e5": {
       "y": {},
       "label": {},
       "colour": {},
@@ -460,10 +460,10 @@
       "text": {}
     }
   },
-  "cur_data": "20db6953dc91",
+  "cur_data": "20db52ca7a4f",
   "visdat": {
-    "20db6953dc91": ["function (y) ", "x"],
-    "20db331ed5e4": ["function (y) ", "x"]
+    "20db52ca7a4f": ["function (y) ", "x"],
+    "20db5d3bb3e5": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",

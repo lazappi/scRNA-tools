@@ -5,8 +5,8 @@
       "width": 0.95,
       "base": 0,
       "x": [1],
-      "y": [568],
-      "text": "Platform: R<br />Count: 568<br />Percent: 49.3",
+      "y": [569],
+      "text": "Platform: R<br />Count: 569<br />Percent: 49.3",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -30,7 +30,7 @@
       "base": 0,
       "x": [2],
       "y": [375],
-      "text": "Platform: Python<br />Count: 375<br />Percent: 32.6",
+      "text": "Platform: Python<br />Count: 375<br />Percent: 32.5",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -122,9 +122,9 @@
     },
     {
       "x": [1],
-      "y": [510.4],
+      "y": [511.35],
       "text": "R<br />49.3%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 510.4<br />Platform: R<br />Count: 510.4<br />Percent: 49.3",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 511.35<br />Platform: R<br />Count: 511.35<br />Percent: 49.3",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(255,255,255,1)"
@@ -142,9 +142,9 @@
     },
     {
       "x": [2],
-      "y": [432.6],
-      "text": "Python<br />32.6%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 432.6<br />Platform: Python<br />Count: 432.6<br />Percent: 32.6",
+      "y": [432.65],
+      "text": "Python<br />32.5%",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 432.65<br />Platform: Python<br />Count: 432.65<br />Percent: 32.5",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(0,173,239,1)"
@@ -162,9 +162,9 @@
     },
     {
       "x": [3],
-      "y": [166.6],
+      "y": [166.65],
       "text": "C++<br />9.5%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 166.6<br />Platform: C++<br />Count: 166.6<br />Percent: 9.5",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 166.65<br />Platform: C++<br />Count: 166.65<br />Percent: 9.5",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(141,198,63,1)"
@@ -182,9 +182,9 @@
     },
     {
       "x": [4],
-      "y": [126.6],
+      "y": [126.65],
       "text": "MATLAB<br />6%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 126.6<br />Platform: MATLAB<br />Count: 126.6<br />Percent: 6",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 126.65<br />Platform: MATLAB<br />Count: 126.65<br />Percent: 6",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(0,183,198,1)"
@@ -202,9 +202,9 @@
     },
     {
       "x": [5],
-      "y": [88.6],
+      "y": [88.65],
       "text": "Other<br />2.7%",
-      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  88.6<br />Platform: Other<br />Count:  88.6<br />Percent: 2.7",
+      "hovertext": "dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  88.65<br />Platform: Other<br />Count:  88.65<br />Percent: 2.7",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(244,121,32,1)"
@@ -279,10 +279,10 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-28.4, 596.4],
+      "range": [-28.45, 597.45],
       "tickmode": "array",
       "ticktext": ["0", "200", "400"],
-      "tickvals": [0, 200, 400],
+      "tickvals": [3.5527136788005e-15, 200, 400],
       "categoryorder": "array",
       "categoryarray": ["0", "200", "400"],
       "nticks": null,
@@ -355,7 +355,7 @@
   },
   "source": "A",
   "attrs": {
-    "20db73e202a7": {
+    "20db53f90d2": {
       "x": {},
       "y": {},
       "fill": {},
@@ -363,7 +363,7 @@
       "text": {},
       "type": "bar"
     },
-    "20db5dcecd19": {
+    "20db1983754d": {
       "y": {},
       "label": {},
       "x": {},
@@ -373,10 +373,10 @@
       "text": {}
     }
   },
-  "cur_data": "20db73e202a7",
+  "cur_data": "20db53f90d2",
   "visdat": {
-    "20db73e202a7": ["function (y) ", "x"],
-    "20db5dcecd19": ["function (y) ", "x"]
+    "20db53f90d2": ["function (y) ", "x"],
+    "20db1983754d": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
