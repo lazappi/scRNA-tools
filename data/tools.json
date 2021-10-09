@@ -1433,7 +1433,7 @@
         "Title": "Accurate estimation of cell composition in bulk expression through robust integration of single-cell information",
         "DOI": "10.1038/s41467-020-15816-6",
         "Date": "2020-04-24",
-        "Citations": 30
+        "Citations": 29
       }
     ],
     "Preprints": [
@@ -1443,7 +1443,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 32,
+    "Citations": 31,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "BisqueRNA",
@@ -2613,7 +2613,7 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 57
+        "Citations": 58
       }
     ],
     "Preprints": [
@@ -2623,7 +2623,7 @@
         "Citations": 18
       }
     ],
-    "Citations": 75,
+    "Citations": 76,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sqjin/CellChat"
@@ -2851,10 +2851,10 @@
       {
         "Title": "CellOracle: Dissecting cell identity via network inference and in silico gene perturbation",
         "DOI": "10.1101/2020.02.17.947416",
-        "Citations": 13
+        "Citations": 14
       }
     ],
-    "Citations": 13,
+    "Citations": 14,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "morris-lab/CellOracle"
@@ -5866,7 +5866,7 @@
         "Title": "Enhancing droplet-based single-nucleus RNA-seq resolution using the semi-supervised machine learning classifier DIEM",
         "DOI": "10.1038/s41598-020-67513-5",
         "Date": "2020-07-03",
-        "Citations": 11
+        "Citations": 12
       }
     ],
     "Preprints": [
@@ -5876,7 +5876,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 16,
+    "Citations": 17,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "marcalva/diem"
@@ -7075,11 +7075,11 @@
         "Title": "Ensemble dimensionality reduction and feature gene extraction for single-cell RNA-seq data",
         "DOI": "10.1038/s41467-020-19465-7",
         "Date": "2020-11-17",
-        "Citations": 4
+        "Citations": 3
       }
     ],
     "Preprints": [],
-    "Citations": 4,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "shawnstat/EDGE"
@@ -8489,7 +8489,7 @@
         "Title": "Single-cell RNA-seq and computational analysis using temporal mixture modeling resolves TH1/TFHfate bifurcation in malaria",
         "DOI": "10.1126/sciimmunol.aal2192",
         "Date": "2017-03-03",
-        "Citations": 172
+        "Citations": 173
       }
     ],
     "Preprints": [
@@ -8499,7 +8499,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 176,
+    "Citations": 177,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "Teichlab/GPfates"
@@ -9288,10 +9288,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -10387,7 +10387,7 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 3731
+        "Citations": 3732
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
@@ -10419,7 +10419,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 3873,
+    "Citations": 3874,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "pachterlab/kallisto"
@@ -12138,7 +12138,7 @@
         "Title": "Reversed graph embedding resolves complex single-cell trajectories",
         "DOI": "10.1038/nmeth.4402",
         "Date": "2017-08-21",
-        "Citations": 1053
+        "Citations": 1055
       }
     ],
     "Preprints": [
@@ -12148,7 +12148,7 @@
         "Citations": 42
       }
     ],
-    "Citations": 4018,
+    "Citations": 4020,
     "NumPubs": 3,
     "NumPreprints": 1,
     "Bioc": "monocle",
@@ -13808,10 +13808,10 @@
       {
         "Title": "Cancer phylogenetics using single-cell RNA-seq data",
         "DOI": "10.1101/2021.01.07.425804",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "bioDS/phyloRNA"
@@ -14499,7 +14499,7 @@
         "Title": "Block HSIC Lasso: model-free biomarker detection for ultra-high dimensional data",
         "DOI": "10.1093/bioinformatics/btz333",
         "Date": "2019-07-05",
-        "Citations": 10
+        "Citations": 9
       }
     ],
     "Preprints": [
@@ -14509,7 +14509,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 10,
+    "Citations": 9,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "pyHSICLasso",
@@ -14664,7 +14664,7 @@
         "Title": "De Novo Prediction of Stem Cell Identity using Single-Cell Transcriptome Data",
         "DOI": "10.1016/j.stem.2016.05.010",
         "Date": "2016-08",
-        "Citations": 324
+        "Citations": 325
       },
       {
         "Title": "Single-cell messenger RNA sequencing reveals rare intestinal cell types",
@@ -14680,7 +14680,7 @@
       }
     ],
     "Preprints": [],
-    "Citations": 1107,
+    "Citations": 1108,
     "NumPubs": 3,
     "NumPreprints": 0,
     "CRAN": "RaceID",
@@ -15592,7 +15592,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 3016
+        "Citations": 3017
       },
       {
         "Title": "A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification",
@@ -15624,7 +15624,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 3171,
+    "Citations": 3172,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -16523,11 +16523,11 @@
         "Title": "Cell-type-specific analysis of alternative polyadenylation using single-cell transcriptomics data",
         "DOI": "10.1093/nar/gkz781",
         "Date": "2019-09-10",
-        "Citations": 33
+        "Citations": 34
       }
     ],
     "Preprints": [],
-    "Citations": 33,
+    "Citations": 34,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ElkonLab/scAPA"
@@ -16546,11 +16546,11 @@
         "Title": "scAPAtrap: identification and quantification of alternative polyadenylation sites from single-cell RNA-seq data",
         "DOI": "10.1093/bib/bbaa273",
         "Date": "2020-11-03",
-        "Citations": 4
+        "Citations": 5
       }
     ],
     "Preprints": [],
-    "Citations": 4,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "BMILAB/scAPAtrap"
@@ -17451,10 +17451,10 @@
       {
         "Title": "Dynamic Analysis of Alternative Polyadenylation from Single-Cell RNA-Seq (scDaPars) Reveals Cell Subpopulations Invisible to Gene Expression Analysis",
         "DOI": "10.1101/2020.09.23.310649",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "YiPeng-Gao/scDaPars"
@@ -18059,7 +18059,7 @@
         "Title": "scds: Computational Annotation of Doublets in Single-Cell RNA Sequencing Data",
         "DOI": "10.1093/bioinformatics/btz698",
         "Date": "2019-09-10",
-        "Citations": 26
+        "Citations": 27
       }
     ],
     "Preprints": [
@@ -18069,7 +18069,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 30,
+    "Citations": 31,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scds",
@@ -19803,11 +19803,11 @@
         "Title": "Mapping the Mouse Cell Atlas by Microwell-Seq",
         "DOI": "10.1016/j.cell.2018.02.001",
         "Date": "2018-02",
-        "Citations": 403
+        "Citations": 404
       }
     ],
     "Preprints": [],
-    "Citations": 403,
+    "Citations": 404,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ggjlab/scMCA"
@@ -21293,10 +21293,10 @@
       {
         "Title": "Scrublet: computational identification of cell doublets in single-cell transcriptomic data",
         "DOI": "10.1101/357368",
-        "Citations": 25
+        "Citations": 24
       }
     ],
-    "Citations": 384,
+    "Citations": 383,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scrublet",
@@ -22112,10 +22112,10 @@
       {
         "Title": "Systematic comparative analysis of single cell RNA-sequencing methods",
         "DOI": "10.1101/632216",
-        "Citations": 44
+        "Citations": 43
       }
     ],
-    "Citations": 201,
+    "Citations": 200,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -22710,7 +22710,7 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 3215
+        "Citations": 3216
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
@@ -22728,7 +22728,7 @@
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
         "DOI": "10.1038/nbt.4096",
         "Date": "2018-04-02",
-        "Citations": 3985
+        "Citations": 3986
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
@@ -22759,7 +22759,7 @@
         "Citations": 66
       }
     ],
-    "Citations": 10029,
+    "Citations": 10031,
     "NumPubs": 5,
     "NumPreprints": 4,
     "CRAN": "Seurat",
@@ -24676,7 +24676,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 17065
+        "Citations": 17067
       }
     ],
     "Preprints": [
@@ -24686,7 +24686,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 17073,
+    "Citations": 17075,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -25868,11 +25868,11 @@
         "Title": "Genomic encoding of transcriptional burst kinetics",
         "DOI": "10.1038/s41586-018-0836-1",
         "Date": "2019-01-02",
-        "Citations": 193
+        "Citations": 195
       }
     ],
     "Preprints": [],
-    "Citations": 193,
+    "Citations": 195,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "sandberg-lab/txburst"
@@ -25971,10 +25971,10 @@
       {
         "Title": "UMI-tools: Modelling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy",
         "DOI": "10.1101/051755",
-        "Citations": 17
+        "Citations": 18
       }
     ],
-    "Citations": 566,
+    "Citations": 567,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "umi-tools",
