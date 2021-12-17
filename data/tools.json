@@ -8849,10 +8849,10 @@
       {
         "Title": "glmGamPoi: Fitting Gamma-Poisson Generalized Linear Models on Single Cell Count Data",
         "DOI": "10.1101/2020.08.13.249623",
-        "Citations": 3
+        "Citations": 2
       }
     ],
-    "Citations": 14,
+    "Citations": 13,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "glmGamPoi",
@@ -9804,10 +9804,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 2,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -10967,7 +10967,7 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 3969
+        "Citations": 3970
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
@@ -10999,7 +10999,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 4129,
+    "Citations": 4130,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "pachterlab/kallisto"
@@ -14677,10 +14677,10 @@
       {
         "Title": "Cancer phylogenetics using single-cell RNA-seq data",
         "DOI": "10.1101/2021.01.07.425804",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "bioDS/phyloRNA"
@@ -26428,7 +26428,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 18213
+        "Citations": 18214
       }
     ],
     "Preprints": [
@@ -26438,7 +26438,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 18226,
+    "Citations": 18227,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -27686,17 +27686,29 @@
     "Added": "2021-01-29",
     "Updated": "2021-12-17",
     "Categories": ["DifferentialExpression", "GeneSets", "Simulation"],
-    "Publications": [],
+    "Publications": [
+      {
+        "Title": "TWO‐SIGMA: A novel two‐component single cell model‐based association method for single‐cell RNA‐seq data",
+        "DOI": "10.1002/gepi.22361",
+        "Date": "2020-09-29",
+        "Citations": 3
+      }
+    ],
     "Preprints": [
       {
         "Title": "TWO-SIGMA-G: A New Competitive Gene Set Testing Framework for scRNA-seq Data Accounting for Inter-Gene and Cell-Cell Correlation",
         "DOI": "10.1101/2021.01.24.427979",
         "Citations": 0
+      },
+      {
+        "Title": "TWO-SIGMA: a novel TWO-component SInGle cell Model-based Association method for single-cell RNA-seq data",
+        "DOI": "10.1101/709238",
+        "Citations": 0
       }
     ],
-    "Citations": 0,
-    "NumPubs": 0,
-    "NumPreprints": 1,
+    "Citations": 3,
+    "NumPubs": 1,
+    "NumPreprints": 2,
     "CRAN": "twosigma",
     "GitHub": "edvanburen/twosigma"
   },
@@ -27809,7 +27821,7 @@
         "Title": "UMI-tools: modeling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy",
         "DOI": "10.1101/gr.209601.116",
         "Date": "2017-01-18",
-        "Citations": 594
+        "Citations": 595
       }
     ],
     "Preprints": [
@@ -27819,7 +27831,7 @@
         "Citations": 18
       }
     ],
-    "Citations": 612,
+    "Citations": 613,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "umi-tools",

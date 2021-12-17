@@ -3,10 +3,10 @@
     {
       "orientation": "v",
       "width": 0.9,
-      "base": 337,
+      "base": 336,
       "x": [1],
-      "y": [806],
-      "text": "Count: 806<br />Type: Published",
+      "y": [807],
+      "text": "Count: 807<br />Type: Published",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -29,8 +29,8 @@
       "width": 0.9,
       "base": 91,
       "x": [1],
-      "y": [246],
-      "text": "Count: 246<br />Type: Preprint",
+      "y": [245],
+      "text": "Count: 245<br />Type: Preprint",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -74,9 +74,9 @@
     },
     {
       "x": [1],
-      "y": [740],
-      "text": "Published 70.5%",
-      "hovertext": "Midpoint: 740.0<br />Count: 740.0<br />Type: Published",
+      "y": [739.5],
+      "text": "Published 70.6%",
+      "hovertext": "Midpoint: 739.5<br />Count: 739.5<br />Type: Published",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -94,9 +94,9 @@
     },
     {
       "x": [1],
-      "y": [214],
-      "text": "Preprint 21.5%",
-      "hovertext": "Midpoint: 214.0<br />Count: 214.0<br />Type: Preprint",
+      "y": [213.5],
+      "text": "Preprint 21.4%",
+      "hovertext": "Midpoint: 213.5<br />Count: 213.5<br />Type: Preprint",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -267,13 +267,13 @@
   },
   "source": "A",
   "attrs": {
-    "216135761db4": {
+    "215428151f3a": {
       "x": {},
       "y": {},
       "fill": {},
       "type": "bar"
     },
-    "21614bb8903": {
+    "215436ef3459": {
       "y": {},
       "label": {},
       "x": {},
@@ -281,10 +281,10 @@
       "fill": {}
     }
   },
-  "cur_data": "216135761db4",
+  "cur_data": "215428151f3a",
   "visdat": {
-    "216135761db4": ["function (y) ", "x"],
-    "21614bb8903": ["function (y) ", "x"]
+    "215428151f3a": ["function (y) ", "x"],
+    "215436ef3459": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
