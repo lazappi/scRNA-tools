@@ -488,7 +488,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 1043
+        "Citations": 1044
       }
     ],
     "Preprints": [
@@ -498,7 +498,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 1048,
+    "Citations": 1049,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "AUCell",
@@ -12379,7 +12379,7 @@
         "Title": "Differential abundance testing on single-cell data using k-nearest neighbor graphs",
         "DOI": "10.1038/s41587-021-01033-z",
         "Date": "2021-09-30",
-        "Citations": 2
+        "Citations": 1
       }
     ],
     "Preprints": [
@@ -12389,7 +12389,7 @@
         "Citations": 12
       }
     ],
-    "Citations": 14,
+    "Citations": 13,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "miloR",
@@ -12816,19 +12816,19 @@
         "Title": "The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells",
         "DOI": "10.1038/nbt.2859",
         "Date": "2014-03-23",
-        "Citations": 2489
+        "Citations": 2490
       },
       {
         "Title": "Single-cell mRNA quantification and differential analysis with Census",
         "DOI": "10.1038/nmeth.4150",
         "Date": "2017-01-23",
-        "Citations": 617
+        "Citations": 618
       },
       {
         "Title": "Reversed graph embedding resolves complex single-cell trajectories",
         "DOI": "10.1038/nmeth.4402",
         "Date": "2017-08-21",
-        "Citations": 1147
+        "Citations": 1148
       }
     ],
     "Preprints": [
@@ -12838,7 +12838,7 @@
         "Citations": 43
       }
     ],
-    "Citations": 4296,
+    "Citations": 4299,
     "NumPubs": 3,
     "NumPreprints": 1,
     "Bioc": "monocle",
@@ -14566,7 +14566,7 @@
         "Title": "Visualizing structure and transitions in high-dimensional biological data",
         "DOI": "10.1038/s41587-019-0336-3",
         "Date": "2019-12-03",
-        "Citations": 210
+        "Citations": 211
       }
     ],
     "Preprints": [
@@ -14576,7 +14576,7 @@
         "Citations": 21
       }
     ],
-    "Citations": 231,
+    "Citations": 232,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "phateR",
@@ -16559,7 +16559,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 3309
+        "Citations": 3310
       },
       {
         "Title": "A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification",
@@ -16591,7 +16591,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 3474,
+    "Citations": 3475,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -19322,7 +19322,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 1043
+        "Citations": 1044
       },
       {
         "Title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis",
@@ -19338,7 +19338,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 1125,
+    "Citations": 1126,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "pyscenic",
@@ -24313,7 +24313,7 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 3760
+        "Citations": 3761
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
@@ -24362,7 +24362,7 @@
         "Citations": 73
       }
     ],
-    "Citations": 11400,
+    "Citations": 11401,
     "NumPubs": 5,
     "NumPreprints": 4,
     "CRAN": "Seurat",
@@ -25304,7 +25304,7 @@
         "Title": "Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage",
         "DOI": "10.1038/s41590-018-0276-y",
         "Date": "2019-01-14",
-        "Citations": 655
+        "Citations": 656
       }
     ],
     "Preprints": [
@@ -25314,7 +25314,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 659,
+    "Citations": 660,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "SingleR",
@@ -26428,7 +26428,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 18337
+        "Citations": 18339
       }
     ],
     "Preprints": [
@@ -26438,7 +26438,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 18350,
+    "Citations": 18352,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -27828,10 +27828,10 @@
       {
         "Title": "UMI-tools: Modelling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy",
         "DOI": "10.1101/051755",
-        "Citations": 17
+        "Citations": 18
       }
     ],
-    "Citations": 616,
+    "Citations": 617,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "umi-tools",
@@ -28004,10 +28004,10 @@
       {
         "Title": "UniPath: A uniform approach for pathway and gene-set based analysis of heterogeneity in single-cell epigenome and transcriptome profiles",
         "DOI": "10.1101/864389",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "reggenlab/UniPath"
