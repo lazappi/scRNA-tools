@@ -1333,10 +1333,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 0,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "bedapub/besca"
@@ -1485,10 +1485,10 @@
       {
         "Title": "Unbiased integration of single cell multi-omics data",
         "DOI": "10.1101/2020.12.11.422014",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "KChen-lab/bindSC"
@@ -12651,10 +12651,10 @@
       {
         "Title": "Milo: differential abundance testing on single-cell data using k-NN graphs",
         "DOI": "10.1101/2020.11.23.393769",
-        "Citations": 12
+        "Citations": 11
       }
     ],
-    "Citations": 18,
+    "Citations": 17,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "miloR",
@@ -12963,10 +12963,10 @@
       {
         "Title": "Moana: A robust and scalable cell type classification framework for single-cell RNA-Seq data",
         "DOI": "10.1101/456129",
-        "Citations": 36
+        "Citations": 37
       }
     ],
-    "Citations": 36,
+    "Citations": 37,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "moana",
@@ -13937,11 +13937,11 @@
         "Title": "NicheNet: modeling intercellular communication by linking ligands to target genes",
         "DOI": "10.1038/s41592-019-0667-5",
         "Date": "2019-12-09",
-        "Citations": 227
+        "Citations": 228
       }
     ],
     "Preprints": [],
-    "Citations": 227,
+    "Citations": 228,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "saeyslab/nichenetr"
@@ -15002,10 +15002,10 @@
       {
         "Title": "Cancer phylogenetics using single-cell RNA-seq data",
         "DOI": "10.1101/2021.01.07.425804",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "bioDS/phyloRNA"
@@ -18114,7 +18114,7 @@
         "Title": "Detecting differential alternative splicing events in scRNA-seq with or without Unique Molecular Identifiers",
         "DOI": "10.1371/journal.pcbi.1007925",
         "Date": "2020-06-05",
-        "Citations": 8
+        "Citations": 7
       }
     ],
     "Preprints": [
@@ -18124,7 +18124,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 8,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "huyustats/SCATS"
@@ -18935,10 +18935,10 @@
       {
         "Title": "Dynamic Analysis of Alternative Polyadenylation from Single-Cell RNA-Seq (scDaPars) Reveals Cell Subpopulations Invisible to Gene Expression Analysis",
         "DOI": "10.1101/2020.09.23.310649",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 7,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "YiPeng-Gao/scDaPars"
@@ -22641,10 +22641,10 @@
       {
         "Title": "Design and power analysis for multi-sample single cell genomics experiments",
         "DOI": "10.1101/2020.04.01.019851",
-        "Citations": 6
+        "Citations": 7
       }
     ],
-    "Citations": 8,
+    "Citations": 9,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "heiniglab/scPower"
@@ -24944,7 +24944,7 @@
         "Title": "Spatial reconstruction of single-cell gene expression data",
         "DOI": "10.1038/nbt.3192",
         "Date": "2015-04-13",
-        "Citations": 2115
+        "Citations": 2116
       },
       {
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
@@ -24981,7 +24981,7 @@
         "Citations": 75
       }
     ],
-    "Citations": 12183,
+    "Citations": 12184,
     "NumPubs": 5,
     "NumPreprints": 4,
     "CRAN": "Seurat",
@@ -26509,7 +26509,7 @@
         "Title": "SoupX removes ambient RNA contamination from droplet-based single-cell RNA sequencing data",
         "DOI": "10.1093/gigascience/giaa151",
         "Date": "2020-12-26",
-        "Citations": 100
+        "Citations": 101
       }
     ],
     "Preprints": [
@@ -26519,7 +26519,7 @@
         "Citations": 73
       }
     ],
-    "Citations": 173,
+    "Citations": 174,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "SoupX",
@@ -27047,7 +27047,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 19001
+        "Citations": 19004
       }
     ],
     "Preprints": [
@@ -27057,7 +27057,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 19021,
+    "Citations": 19024,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
