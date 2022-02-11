@@ -3,10 +3,10 @@
     {
       "orientation": "v",
       "width": 0.9,
-      "base": 335,
+      "base": 338,
       "x": [1],
-      "y": [831],
-      "text": "Count: 831<br />Type: Published",
+      "y": [833],
+      "text": "Count: 833<br />Type: Published",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -29,8 +29,8 @@
       "width": 0.9,
       "base": 90,
       "x": [1],
-      "y": [245],
-      "text": "Count: 245<br />Type: Preprint",
+      "y": [248],
+      "text": "Count: 248<br />Type: Preprint",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -74,9 +74,9 @@
     },
     {
       "x": [1],
-      "y": [750.5],
-      "text": "Published 71.3%",
-      "hovertext": "Midpoint: 750.5<br />Count: 750.5<br />Type: Published",
+      "y": [754.5],
+      "text": "Published 71.1%",
+      "hovertext": "Midpoint: 754.5<br />Count: 754.5<br />Type: Published",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -94,9 +94,9 @@
     },
     {
       "x": [1],
-      "y": [212.5],
-      "text": "Preprint 21%",
-      "hovertext": "Midpoint: 212.5<br />Count: 212.5<br />Type: Preprint",
+      "y": [214],
+      "text": "Preprint 21.2%",
+      "hovertext": "Midpoint: 214.0<br />Count: 214.0<br />Type: Preprint",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -191,7 +191,7 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-58.3, 1224.3],
+      "range": [-58.55, 1229.55],
       "tickmode": "array",
       "ticktext": ["0", "300", "600", "900", "1200"],
       "tickvals": [0, 300, 600, 900, 1200],
@@ -267,13 +267,13 @@
   },
   "source": "A",
   "attrs": {
-    "218752645862": {
+    "218e28c045db": {
       "x": {},
       "y": {},
       "fill": {},
       "type": "bar"
     },
-    "21877ff4d3a7": {
+    "218e4f0bdc4a": {
       "y": {},
       "label": {},
       "x": {},
@@ -281,10 +281,10 @@
       "fill": {}
     }
   },
-  "cur_data": "218752645862",
+  "cur_data": "218e28c045db",
   "visdat": {
-    "218752645862": ["function (y) ", "x"],
-    "21877ff4d3a7": ["function (y) ", "x"]
+    "218e28c045db": ["function (y) ", "x"],
+    "218e4f0bdc4a": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
