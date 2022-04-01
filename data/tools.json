@@ -325,9 +325,16 @@
     "Description": "alevin-fry is a tool for the accurate, fast and memory frugal pre-processing of single-cell and single-nucleus RNA-seq data",
     "License": "BSD-3-Clause",
     "Added": "2021-05-21",
-    "Updated": "2021-07-02",
+    "Updated": "2022-04-01",
     "Categories": ["Alignment", "Quantification", "UMIs"],
-    "Publications": [],
+    "Publications": [
+      {
+        "Title": "Alevin-fry unlocks rapid, accurate and memory-frugal quantification of single-cell RNA-seq data",
+        "DOI": "10.1038/s41592-022-01408-3",
+        "Date": "2022-03",
+        "Citations": 0
+      }
+    ],
     "Preprints": [
       {
         "Title": "Alevin-fry unlocks rapid, accurate, and memory-frugal quantification of single-cell RNA-seq data",
@@ -336,7 +343,7 @@
       }
     ],
     "Citations": 3,
-    "NumPubs": 0,
+    "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "COMBINE-lab/alevin-fry"
   },
@@ -1468,10 +1475,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "bedapub/besca"
@@ -5871,11 +5878,11 @@
         "Title": "DC3 is a method for deconvolution and coupled clustering from bulk and single-cell genomics data",
         "DOI": "10.1038/s41467-019-12547-1",
         "Date": "2019-10-10",
-        "Citations": 29
+        "Citations": 28
       }
     ],
     "Preprints": [],
-    "Citations": 29,
+    "Citations": 28,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "SUwonglab/DC3"
@@ -10622,10 +10629,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 2,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -19991,10 +19998,10 @@
       {
         "Title": "Dynamic Analysis of Alternative Polyadenylation from Single-Cell RNA-Seq (scDaPars) Reveals Cell Subpopulations Invisible to Gene Expression Analysis",
         "DOI": "10.1101/2020.09.23.310649",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 9,
+    "Citations": 8,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "YiPeng-Gao/scDaPars"
@@ -30143,10 +30150,10 @@
       {
         "Title": "UniPath: A uniform approach for pathway and gene-set based analysis of heterogeneity in single-cell epigenome and transcriptome profiles",
         "DOI": "10.1101/864389",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 4,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "reggenlab/UniPath"

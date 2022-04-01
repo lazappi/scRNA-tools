@@ -3,10 +3,10 @@
     {
       "orientation": "v",
       "width": 0.9,
-      "base": 344,
+      "base": 343,
       "x": [1],
-      "y": [878],
-      "text": "Count: 878<br />Type: Published",
+      "y": [879],
+      "text": "Count: 879<br />Type: Published",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -29,8 +29,8 @@
       "width": 0.9,
       "base": 88,
       "x": [1],
-      "y": [256],
-      "text": "Count: 256<br />Type: Preprint",
+      "y": [255],
+      "text": "Count: 255<br />Type: Preprint",
       "type": "bar",
       "marker": {
         "autocolorscale": false,
@@ -74,9 +74,9 @@
     },
     {
       "x": [1],
-      "y": [783],
-      "text": "Published 71.8%",
-      "hovertext": "Midpoint: 783<br />Count: 783<br />Type: Published",
+      "y": [782.5],
+      "text": "Published 71.9%",
+      "hovertext": "Midpoint: 782.5<br />Count: 782.5<br />Type: Published",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -94,9 +94,9 @@
     },
     {
       "x": [1],
-      "y": [216],
+      "y": [215.5],
       "text": "Preprint 20.9%",
-      "hovertext": "Midpoint: 216<br />Count: 216<br />Type: Preprint",
+      "hovertext": "Midpoint: 215.5<br />Count: 215.5<br />Type: Preprint",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -116,7 +116,7 @@
       "x": [1],
       "y": [44],
       "text": "Not published 7.2%",
-      "hovertext": "Midpoint:  44<br />Count:  44<br />Type: Not published",
+      "hovertext": "Midpoint:  44.0<br />Count:  44.0<br />Type: Not published",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -267,13 +267,13 @@
   },
   "source": "A",
   "attrs": {
-    "21aee8176eb": {
+    "21e85890fe26": {
       "x": {},
       "y": {},
       "fill": {},
       "type": "bar"
     },
-    "21ae1fecacf6": {
+    "21e863b2455b": {
       "y": {},
       "label": {},
       "x": {},
@@ -281,10 +281,10 @@
       "fill": {}
     }
   },
-  "cur_data": "21aee8176eb",
+  "cur_data": "21e85890fe26",
   "visdat": {
-    "21aee8176eb": ["function (y) ", "x"],
-    "21ae1fecacf6": ["function (y) ", "x"]
+    "21e85890fe26": ["function (y) ", "x"],
+    "21e863b2455b": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
