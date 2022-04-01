@@ -1804,10 +1804,10 @@
     "Tool": "BLGGM",
     "Platform": "R/C++",
     "Code": "https://github.com/WgitU/BLGGM",
-    "Description": "A Bayesian latent mixture Gaussian graphical model to explicitly account for data heterogeneity and zero-inflation too cluster cells and obtain cellular gene regulatory networks simultaneously",
+    "Description": "BLGGM is a Bayesian latent mixture Gaussian graphical model to obtain cell-type-specific gene regulatory networks from heterogeneous and zero-inflated single-cell expression data",
     "License": "GPL-2.0-or-later",
     "Added": "2022-03-18",
-    "Updated": "2022-03-18",
+    "Updated": "2022-04-01",
     "Categories": ["Clustering", "GeneNetworks"],
     "Publications": [],
     "Preprints": [],
@@ -5878,11 +5878,11 @@
         "Title": "DC3 is a method for deconvolution and coupled clustering from bulk and single-cell genomics data",
         "DOI": "10.1038/s41467-019-12547-1",
         "Date": "2019-10-10",
-        "Citations": 28
+        "Citations": 29
       }
     ],
     "Preprints": [],
-    "Citations": 28,
+    "Citations": 29,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "SUwonglab/DC3"
@@ -9618,10 +9618,10 @@
       {
         "Title": "glmGamPoi: Fitting Gamma-Poisson Generalized Linear Models on Single Cell Count Data",
         "DOI": "10.1101/2020.08.13.249623",
-        "Citations": 3
+        "Citations": 2
       }
     ],
-    "Citations": 25,
+    "Citations": 24,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "glmGamPoi",
@@ -12984,7 +12984,7 @@
         "Title": "Benchmarking single-cell RNA-sequencing protocols for cell atlas projects",
         "DOI": "10.1038/s41587-020-0469-4",
         "Date": "2020-04-06",
-        "Citations": 135
+        "Citations": 134
       }
     ],
     "Preprints": [
@@ -12994,7 +12994,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 150,
+    "Citations": 149,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "elimereu/matchSCore2"
@@ -23003,7 +23003,7 @@
     "Description": "Fitting Discrete Distribution Models to Count Data",
     "License": "GPL-3.0",
     "Added": "2019-06-06",
-    "Updated": "2019-06-06",
+    "Updated": "2022-04-01",
     "Categories": ["Simulation"],
     "Publications": [],
     "Preprints": [
@@ -23016,6 +23016,7 @@
     "Citations": 15,
     "NumPubs": 0,
     "NumPreprints": 1,
+    "CRAN": "scModels",
     "GitHub": "fuchslab/scModels"
   },
   {
