@@ -782,7 +782,7 @@
         "Title": "BABEL enables cross-modality translation between multiomic profiles at single-cell resolution",
         "DOI": "10.1073/pnas.2023070118",
         "Date": "2021-04-07",
-        "Citations": 12
+        "Citations": 13
       }
     ],
     "Preprints": [
@@ -792,7 +792,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 12,
+    "Citations": 13,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "wukevin/babel"
@@ -1521,10 +1521,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -3190,7 +3190,7 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 239
+        "Citations": 240
       }
     ],
     "Preprints": [
@@ -3200,7 +3200,7 @@
         "Citations": 21
       }
     ],
-    "Citations": 260,
+    "Citations": 261,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sqjin/CellChat"
@@ -9954,10 +9954,10 @@
       {
         "Title": "glmGamPoi: Fitting Gamma-Poisson Generalized Linear Models on Single Cell Count Data",
         "DOI": "10.1101/2020.08.13.249623",
-        "Citations": 2
+        "Citations": 3
       }
     ],
-    "Citations": 30,
+    "Citations": 31,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "glmGamPoi",
@@ -12322,7 +12322,7 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 4450
+        "Citations": 4451
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
@@ -12354,7 +12354,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 4653,
+    "Citations": 4654,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "pachterlab/kallisto"
@@ -15502,7 +15502,7 @@
         "Title": "A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing",
         "DOI": "10.1101/gr.275569.121",
         "Date": "2021-06-04",
-        "Citations": 10
+        "Citations": 11
       }
     ],
     "Preprints": [
@@ -15512,7 +15512,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 14,
+    "Citations": 15,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "JCVenterInstitute/NSForest"
@@ -20755,10 +20755,10 @@
       {
         "Title": "Dynamic Analysis of Alternative Polyadenylation from Single-Cell RNA-Seq (scDaPars) Reveals Cell Subpopulations Invisible to Gene Expression Analysis",
         "DOI": "10.1101/2020.09.23.310649",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 8,
+    "Citations": 9,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "YiPeng-Gao/scDaPars"
@@ -29581,7 +29581,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 20693
+        "Citations": 20695
       }
     ],
     "Preprints": [
@@ -29591,7 +29591,7 @@
         "Citations": 33
       }
     ],
-    "Citations": 20726,
+    "Citations": 20728,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -31031,11 +31031,11 @@
         "Title": "Genomic encoding of transcriptional burst kinetics",
         "DOI": "10.1038/s41586-018-0836-1",
         "Date": "2019-01-02",
-        "Citations": 243
+        "Citations": 244
       }
     ],
     "Preprints": [],
-    "Citations": 243,
+    "Citations": 244,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "sandberg-lab/txburst"
@@ -31208,7 +31208,7 @@
         "Title": "Power analysis of single-cell RNA-sequencing experiments",
         "DOI": "10.1038/nmeth.4220",
         "Date": "2017-03-06",
-        "Citations": 370
+        "Citations": 371
       }
     ],
     "Preprints": [
@@ -31218,7 +31218,7 @@
         "Citations": 7
       }
     ],
-    "Citations": 377,
+    "Citations": 378,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "umis",
