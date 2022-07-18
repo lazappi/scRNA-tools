@@ -1089,7 +1089,7 @@
         "Title": "Flexible comparison of batch correction methods for single-cell RNA-seq using BatchBench",
         "DOI": "10.1093/nar/gkab004",
         "Date": "2021-02-01",
-        "Citations": 19
+        "Citations": 20
       }
     ],
     "Preprints": [
@@ -1099,7 +1099,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 25,
+    "Citations": 26,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "cellgeni/batchbench"
@@ -3661,7 +3661,7 @@
         "Title": "Massively parallel digital transcriptional profiling of single cells",
         "DOI": "10.1038/ncomms14049",
         "Date": "2017-01-16",
-        "Citations": 2619
+        "Citations": 2620
       }
     ],
     "Preprints": [
@@ -3671,7 +3671,7 @@
         "Citations": 11
       }
     ],
-    "Citations": 2630,
+    "Citations": 2631,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "10XGenomics/cellranger"
@@ -3875,11 +3875,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 175
+        "Citations": 176
       }
     ],
     "Preprints": [],
-    "Citations": 175,
+    "Citations": 176,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/celltalker"
@@ -7766,11 +7766,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 175
+        "Citations": 176
       }
     ],
     "Preprints": [],
-    "Citations": 175,
+    "Citations": 176,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/dragonsc"
@@ -13593,7 +13593,7 @@
         "Title": "Reconstructing temporal and spatial dynamics from single-cell pseudotime using prior knowledge of real scale cell densities",
         "DOI": "10.1038/s41598-020-60400-z",
         "Date": "2020-02-27",
-        "Citations": 2
+        "Citations": 3
       }
     ],
     "Preprints": [
@@ -13603,7 +13603,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 2,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "karstenkuritz/MAPiT"
@@ -14375,11 +14375,11 @@
         "Title": "Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens",
         "DOI": "10.1016/j.cell.2016.11.038",
         "Date": "2016-12",
-        "Citations": 748
+        "Citations": 749
       }
     ],
     "Preprints": [],
-    "Citations": 748,
+    "Citations": 749,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "asncd/MIMOSCA"
@@ -18655,7 +18655,7 @@
         "Title": "RNA-Bloom enables reference-free and reference-guided sequence assembly for single-cell transcriptomes",
         "DOI": "10.1101/gr.260174.119",
         "Date": "2020-08-17",
-        "Citations": 12
+        "Citations": 13
       }
     ],
     "Preprints": [
@@ -18665,7 +18665,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 17,
+    "Citations": 18,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "bcgsc/RNA-Bloom"
@@ -19146,7 +19146,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 4096
+        "Citations": 4097
       },
       {
         "Title": "A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification",
@@ -19178,7 +19178,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 4291,
+    "Citations": 4292,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -21237,7 +21237,7 @@
         "Title": "scCODA is a Bayesian model for compositional single-cell data analysis",
         "DOI": "10.1038/s41467-021-27150-6",
         "Date": "2021-11-25",
-        "Citations": 9
+        "Citations": 8
       }
     ],
     "Preprints": [
@@ -21247,7 +21247,7 @@
         "Citations": 10
       }
     ],
-    "Citations": 19,
+    "Citations": 18,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scCODA",
@@ -21496,10 +21496,10 @@
       {
         "Title": "Dynamic Analysis of Alternative Polyadenylation from Single-Cell RNA-Seq (scDaPars) Reveals Cell Subpopulations Invisible to Gene Expression Analysis",
         "DOI": "10.1101/2020.09.23.310649",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 8,
+    "Citations": 9,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "YiPeng-Gao/scDaPars"
@@ -24472,11 +24472,11 @@
         "Title": "Mapping the Mouse Cell Atlas by Microwell-Seq",
         "DOI": "10.1016/j.cell.2018.02.001",
         "Date": "2018-02",
-        "Citations": 552
+        "Citations": 553
       }
     ],
     "Preprints": [],
-    "Citations": 552,
+    "Citations": 553,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ggjlab/scMCA"
@@ -29297,11 +29297,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 175
+        "Citations": 176
       }
     ],
     "Preprints": [],
-    "Citations": 175,
+    "Citations": 176,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/singleseqgset"
@@ -30391,10 +30391,10 @@
       {
         "Title": "StabMap: Mosaic single cell data integration using non-overlapping features",
         "DOI": "10.1101/2022.02.24.481823",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "MarioniLab/StabMap"
@@ -30442,7 +30442,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 21649
+        "Citations": 21652
       }
     ],
     "Preprints": [
@@ -30452,7 +30452,7 @@
         "Citations": 36
       }
     ],
-    "Citations": 21685,
+    "Citations": 21688,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
