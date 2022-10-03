@@ -1594,10 +1594,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 4,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -3820,7 +3820,7 @@
         "Title": "Massively parallel digital transcriptional profiling of single cells",
         "DOI": "10.1038/ncomms14049",
         "Date": "2017-01-16",
-        "Citations": 2786
+        "Citations": 2788
       }
     ],
     "Preprints": [
@@ -3830,7 +3830,7 @@
         "Citations": 14
       }
     ],
-    "Citations": 2800,
+    "Citations": 2802,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "10XGenomics/cellranger"
@@ -4041,11 +4041,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 198
+        "Citations": 199
       }
     ],
     "Preprints": [],
-    "Citations": 198,
+    "Citations": 199,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/celltalker"
@@ -8002,11 +8002,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 198
+        "Citations": 199
       }
     ],
     "Preprints": [],
-    "Citations": 198,
+    "Citations": 199,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/dragonsc"
@@ -11695,10 +11695,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 3,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -13512,7 +13512,7 @@
         "Title": "Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity",
         "DOI": "10.1016/j.cell.2019.05.006",
         "Date": "2019-06",
-        "Citations": 534
+        "Citations": 535
       },
       {
         "Title": "UINMF performs mosaic integration of single-cell multi-omic datasets using nonnegative matrix factorization",
@@ -13544,7 +13544,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 590,
+    "Citations": 591,
     "NumPubs": 3,
     "NumPreprints": 3,
     "CRAN": "rliger",
@@ -18456,7 +18456,7 @@
         "Title": "De Novo Prediction of Stem Cell Identity using Single-Cell Transcriptome Data",
         "DOI": "10.1016/j.stem.2016.05.010",
         "Date": "2016-08",
-        "Citations": 386
+        "Citations": 387
       },
       {
         "Title": "Single-cell messenger RNA sequencing reveals rare intestinal cell types",
@@ -18472,7 +18472,7 @@
       }
     ],
     "Preprints": [],
-    "Citations": 1295,
+    "Citations": 1296,
     "NumPubs": 3,
     "NumPreprints": 0,
     "CRAN": "RaceID",
@@ -21011,10 +21011,10 @@
       {
         "Title": "scater: pre-processing, quality control, normalisation and visualisation of single-cell RNA-seq data in R",
         "DOI": "10.1101/069633",
-        "Citations": 14
+        "Citations": 15
       }
     ],
-    "Citations": 441,
+    "Citations": 442,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scater",
@@ -28119,7 +28119,7 @@
         "Title": "Systematic comparison of single-cell and single-nucleus RNA-sequencing methods",
         "DOI": "10.1038/s41587-020-0465-8",
         "Date": "2020-04-06",
-        "Citations": 294
+        "Citations": 295
       }
     ],
     "Preprints": [
@@ -28129,7 +28129,7 @@
         "Citations": 48
       }
     ],
-    "Citations": 342,
+    "Citations": 343,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -28234,10 +28234,10 @@
       {
         "Title": "scater: pre-processing, quality control, normalisation and visualisation of single-cell RNA-seq data in R",
         "DOI": "10.1101/069633",
-        "Citations": 14
+        "Citations": 15
       }
     ],
-    "Citations": 441,
+    "Citations": 442,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scuttle",
@@ -30045,11 +30045,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 198
+        "Citations": 199
       }
     ],
     "Preprints": [],
-    "Citations": 198,
+    "Citations": 199,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/singleseqgset"
@@ -31220,7 +31220,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 22949
+        "Citations": 22952
       }
     ],
     "Preprints": [
@@ -31230,7 +31230,7 @@
         "Citations": 50
       }
     ],
-    "Citations": 22999,
+    "Citations": 23002,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -32809,7 +32809,7 @@
         "Title": "UMI-tools: modeling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy",
         "DOI": "10.1101/gr.209601.116",
         "Date": "2017-01-18",
-        "Citations": 800
+        "Citations": 801
       }
     ],
     "Preprints": [
@@ -32819,7 +32819,7 @@
         "Citations": 21
       }
     ],
-    "Citations": 821,
+    "Citations": 822,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "umi-tools",
@@ -33005,10 +33005,10 @@
       {
         "Title": "UniPath: A uniform approach for pathway and gene-set based analysis of heterogeneity in single-cell epigenome and transcriptome profiles",
         "DOI": "10.1101/864389",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "reggenlab/UniPath"
