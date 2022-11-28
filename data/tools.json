@@ -1654,10 +1654,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -7734,7 +7734,7 @@
         "Title": "Enhancing droplet-based single-nucleus RNA-seq resolution using the semi-supervised machine learning classifier DIEM",
         "DOI": "10.1038/s41598-020-67513-5",
         "Date": "2020-07-03",
-        "Citations": 28
+        "Citations": 27
       }
     ],
     "Preprints": [
@@ -7744,7 +7744,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 33,
+    "Citations": 32,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "marcalva/diem"
@@ -17562,7 +17562,7 @@
         "Title": "Parallel clustering of single cell transcriptomic data with split-merge sampling on Dirichlet process mixtures",
         "DOI": "10.1093/bioinformatics/bty702",
         "Date": "2018-08-28",
-        "Citations": 9
+        "Citations": 10
       }
     ],
     "Preprints": [
@@ -17572,7 +17572,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 10,
+    "Citations": 11,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "tiehangd/Para_DPMM"
@@ -17882,7 +17882,7 @@
         "Title": "Visualizing structure and transitions in high-dimensional biological data",
         "DOI": "10.1038/s41587-019-0336-3",
         "Date": "2019-12-03",
-        "Citations": 347
+        "Citations": 348
       }
     ],
     "Preprints": [
@@ -17892,7 +17892,7 @@
         "Citations": 22
       }
     ],
-    "Citations": 369,
+    "Citations": 370,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "phateR",
@@ -20752,10 +20752,10 @@
       {
         "Title": "SC3 - consensus clustering of single-cell RNA-Seq data",
         "DOI": "10.1101/036558",
-        "Citations": 32
+        "Citations": 33
       }
     ],
-    "Citations": 935,
+    "Citations": 936,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "SC3",
@@ -21896,7 +21896,7 @@
         "Title": "A versatile and scalable single-cell data integration algorithm based on domain-adversarial and variational approximation",
         "DOI": "10.1093/bib/bbab400",
         "Date": "2021-09-28",
-        "Citations": 7
+        "Citations": 8
       }
     ],
     "Preprints": [
@@ -21906,7 +21906,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 7,
+    "Citations": 8,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scbean",
@@ -29852,7 +29852,7 @@
         "Title": "Integrated analysis of multimodal single-cell data",
         "DOI": "10.1016/j.cell.2021.04.048",
         "Date": "2021-06",
-        "Citations": 1746
+        "Citations": 1747
       },
       {
         "Title": "Spatial reconstruction of single-cell gene expression data",
@@ -29864,7 +29864,7 @@
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
         "DOI": "10.1038/nbt.4096",
         "Date": "2018-04-02",
-        "Citations": 5975
+        "Citations": 5976
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
@@ -29900,7 +29900,7 @@
         "Citations": 84
       }
     ],
-    "Citations": 18253,
+    "Citations": 18255,
     "NumPubs": 5,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -31836,7 +31836,7 @@
         "Title": "Integration, exploration, and analysis of high‐dimensional single‐cell cytometry data using Spectre",
         "DOI": "10.1002/cyto.a.24350",
         "Date": "2021-04-26",
-        "Citations": 25
+        "Citations": 26
       }
     ],
     "Preprints": [
@@ -31846,7 +31846,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 30,
+    "Citations": 31,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ImmuneDynamics/Spectre"
@@ -32221,7 +32221,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 23983
+        "Citations": 23984
       }
     ],
     "Preprints": [
@@ -32231,7 +32231,7 @@
         "Citations": 58
       }
     ],
-    "Citations": 24041,
+    "Citations": 24042,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -34048,10 +34048,10 @@
       {
         "Title": "UniPath: A uniform approach for pathway and gene-set based analysis of heterogeneity in single-cell epigenome and transcriptome profiles",
         "DOI": "10.1101/864389",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 6,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "reggenlab/UniPath"
