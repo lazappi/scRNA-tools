@@ -706,7 +706,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 1726
+        "Citations": 1727
       }
     ],
     "Preprints": [
@@ -716,7 +716,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 1734,
+    "Citations": 1735,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "AUCell",
@@ -1654,10 +1654,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -12221,10 +12221,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -14541,7 +14541,7 @@
         "Title": "Reconstructing temporal and spatial dynamics from single-cell pseudotime using prior knowledge of real scale cell densities",
         "DOI": "10.1038/s41598-020-60400-z",
         "Date": "2020-02-27",
-        "Citations": 3
+        "Citations": 2
       }
     ],
     "Preprints": [
@@ -14551,7 +14551,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 3,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "karstenkuritz/MAPiT"
@@ -15846,7 +15846,7 @@
         "Title": "Reversed graph embedding resolves complex single-cell trajectories",
         "DOI": "10.1038/nmeth.4402",
         "Date": "2017-08-21",
-        "Citations": 1659
+        "Citations": 1660
       }
     ],
     "Preprints": [
@@ -15856,7 +15856,7 @@
         "Citations": 49
       }
     ],
-    "Citations": 5782,
+    "Citations": 5783,
     "NumPubs": 3,
     "NumPreprints": 1,
     "Bioc": "monocle",
@@ -20248,7 +20248,7 @@
         "Title": "SAFE-clustering: Single-cell Aggregated (from Ensemble) clustering for single-cell RNA-seq data",
         "DOI": "10.1093/bioinformatics/bty793",
         "Date": "2018-09-08",
-        "Citations": 62
+        "Citations": 63
       }
     ],
     "Preprints": [
@@ -20258,7 +20258,7 @@
         "Citations": 9
       }
     ],
-    "Citations": 71,
+    "Citations": 72,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "yycunc/SAFEclustering"
@@ -20339,7 +20339,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 4722
+        "Citations": 4723
       },
       {
         "Title": "A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification",
@@ -20371,7 +20371,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 4939,
+    "Citations": 4940,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -23735,7 +23735,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 1726
+        "Citations": 1727
       },
       {
         "Title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis",
@@ -23751,7 +23751,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 1920,
+    "Citations": 1921,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "pyscenic",
@@ -30017,13 +30017,13 @@
         "Title": "Spatial reconstruction of single-cell gene expression data",
         "DOI": "10.1038/nbt.3192",
         "Date": "2015-04-13",
-        "Citations": 2775
+        "Citations": 2776
       },
       {
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
         "DOI": "10.1038/nbt.4096",
         "Date": "2018-04-02",
-        "Citations": 6031
+        "Citations": 6032
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
@@ -30059,7 +30059,7 @@
         "Citations": 84
       }
     ],
-    "Citations": 18456,
+    "Citations": 18458,
     "NumPubs": 5,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -30432,10 +30432,10 @@
       {
         "Title": "Venice: A New Algorithm for Finding Marker Genes in Single-Cell Transcriptomic Data",
         "DOI": "10.1101/2020.11.16.384479",
-        "Citations": 3
+        "Citations": 4
       }
     ],
-    "Citations": 3,
+    "Citations": 4,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "bioturing/signac"
@@ -32402,7 +32402,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 24110
+        "Citations": 24112
       }
     ],
     "Preprints": [
@@ -32412,7 +32412,7 @@
         "Citations": 58
       }
     ],
-    "Citations": 24168,
+    "Citations": 24170,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -34229,10 +34229,10 @@
       {
         "Title": "UniPath: A uniform approach for pathway and gene-set based analysis of heterogeneity in single-cell epigenome and transcriptome profiles",
         "DOI": "10.1101/864389",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "reggenlab/UniPath"
@@ -35462,11 +35462,11 @@
         "Title": "ZIFA: Dimensionality reduction for zero-inflated single-cell gene expression analysis",
         "DOI": "10.1186/s13059-015-0805-z",
         "Date": "2015-11-02",
-        "Citations": 456
+        "Citations": 457
       }
     ],
     "Preprints": [],
-    "Citations": 456,
+    "Citations": 457,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "epierson9/ZIFA"
