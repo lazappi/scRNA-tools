@@ -5,8 +5,8 @@
       "width": 0.95,
       "base": 0,
       "x": [1],
-      "y": [522],
-      "text": "License: GPL<br />Count: 522<br />Percent: 37.3",
+      "y": [523],
+      "text": "License: GPL<br />Count: 523<br />Percent: 37.3",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -30,8 +30,8 @@
       "width": 0.95,
       "base": 0,
       "x": [2],
-      "y": [396],
-      "text": "License: MIT<br />Count: 396<br />Percent: 28.3",
+      "y": [397],
+      "text": "License: MIT<br />Count: 397<br />Percent: 28.3",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -80,8 +80,8 @@
       "width": 0.95,
       "base": 0,
       "x": [4],
-      "y": [48],
-      "text": "License: Apache<br />Count:  48<br />Percent: 3.4",
+      "y": [49],
+      "text": "License: Apache<br />Count:  49<br />Percent: 3.5",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -130,8 +130,8 @@
       "width": 0.949999999999999,
       "base": 0,
       "x": [6],
-      "y": [39],
-      "text": "License: Other<br />Count:  39<br />Percent: 2.8",
+      "y": [40],
+      "text": "License: Other<br />Count:  40<br />Percent: 2.9",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -155,8 +155,8 @@
       "width": 0.949999999999999,
       "base": 0,
       "x": [7],
-      "y": [279],
-      "text": "License: Unknown<br />Count: 279<br />Percent: 20",
+      "y": [280],
+      "text": "License: Unknown<br />Count: 280<br />Percent: 20",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -177,9 +177,9 @@
     },
     {
       "x": [1],
-      "y": [452.1],
+      "y": [452.85],
       "text": "GPL<br />37.3%",
-      "hovertext": "License: GPL<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 452.1<br />Percent: 37.3",
+      "hovertext": "License: GPL<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 452.85<br />Percent: 37.3",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(255,255,255,1)"
@@ -197,9 +197,9 @@
     },
     {
       "x": [2],
-      "y": [465.9],
+      "y": [467.15],
       "text": "MIT<br />28.3%",
-      "hovertext": "License: MIT<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 465.9<br />Percent: 28.3",
+      "hovertext": "License: MIT<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 467.15<br />Percent: 28.3",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(0,173,239,1)"
@@ -217,9 +217,9 @@
     },
     {
       "x": [3],
-      "y": [159.9],
+      "y": [160.15],
       "text": "BSD<br />6.4%",
-      "hovertext": "License: BSD<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 159.9<br />Percent: 6.4",
+      "hovertext": "License: BSD<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 160.15<br />Percent: 6.4",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(141,198,63,1)"
@@ -237,9 +237,9 @@
     },
     {
       "x": [4],
-      "y": [117.9],
-      "text": "Apache<br />3.4%",
-      "hovertext": "License: Apache<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 117.9<br />Percent: 3.4",
+      "y": [119.15],
+      "text": "Apache<br />3.5%",
+      "hovertext": "License: Apache<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 119.15<br />Percent: 3.5",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(0,183,198,1)"
@@ -257,9 +257,9 @@
     },
     {
       "x": [5],
-      "y": [93.9],
+      "y": [94.15],
       "text": "Artistic<br />1.7%",
-      "hovertext": "License: Artistic<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  93.9<br />Percent: 1.7",
+      "hovertext": "License: Artistic<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  94.15<br />Percent: 1.7",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(244,121,32,1)"
@@ -277,9 +277,9 @@
     },
     {
       "x": [6],
-      "y": [108.9],
-      "text": "Other<br />2.8%",
-      "hovertext": "License: Other<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 108.9<br />Percent: 2.8",
+      "y": [110.15],
+      "text": "Other<br />2.9%",
+      "hovertext": "License: Other<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 110.15<br />Percent: 2.9",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(122,82,199,1)"
@@ -297,9 +297,9 @@
     },
     {
       "x": [7],
-      "y": [348.9],
+      "y": [350.15],
       "text": "Unknown<br />20%",
-      "hovertext": "License: Unknown<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 348.9<br />Percent: 20",
+      "hovertext": "License: Unknown<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 350.15<br />Percent: 20",
       "textfont": {
         "size": 18.8976377952756,
         "color": "rgba(153,153,153,1)"
@@ -374,7 +374,7 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-26.1, 548.1],
+      "range": [-26.15, 549.15],
       "tickmode": "array",
       "ticktext": ["0", "100", "200", "300", "400", "500"],
       "tickvals": [0, 100, 200, 300, 400, 500],
@@ -451,14 +451,14 @@
   },
   "source": "A",
   "attrs": {
-    "2acc6b9d58e0": {
+    "2b3f18173f0d": {
       "x": {},
       "y": {},
       "fill": {},
       "text": {},
       "type": "bar"
     },
-    "2acc469cd10e": {
+    "2b3f3eec26d6": {
       "x": {},
       "y": {},
       "fill": {},
@@ -467,10 +467,10 @@
       "colour": {}
     }
   },
-  "cur_data": "2acc6b9d58e0",
+  "cur_data": "2b3f18173f0d",
   "visdat": {
-    "2acc6b9d58e0": ["function (y) ", "x"],
-    "2acc469cd10e": ["function (y) ", "x"]
+    "2b3f18173f0d": ["function (y) ", "x"],
+    "2b3f3eec26d6": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",

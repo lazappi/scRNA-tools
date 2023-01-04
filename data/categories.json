@@ -59,6 +59,9 @@
         "Tool": "MAESTRO"
       },
       {
+        "Tool": "MiXCR"
+      },
+      {
         "Tool": "MTD"
       },
       {
@@ -167,6 +170,9 @@
     "Category": "AlleleSpecific",
     "Description": "Detection of allele-specific expression",
     "Tools": [
+      {
+        "Tool": "MiXCR"
+      },
       {
         "Tool": "SCALE"
       },
@@ -326,6 +332,9 @@
       },
       {
         "Tool": "BraCeR"
+      },
+      {
+        "Tool": "MiXCR"
       },
       {
         "Tool": "RNA-Bloom"
@@ -821,7 +830,8 @@
         "Tool": "scFlow"
       },
       {
-        "Tool": "scGate"
+        "Tool": "scGate",
+        "CRAN": "scGate"
       },
       {
         "Tool": "scGraph"
@@ -1079,6 +1089,9 @@
       {
         "Tool": "BUSseq",
         "Bioc": "BUSseq"
+      },
+      {
+        "Tool": "CAbiNet"
       },
       {
         "Tool": "CAISC"
@@ -1515,6 +1528,9 @@
         "CRAN": "MitoHEAR"
       },
       {
+        "Tool": "MiXCR"
+      },
+      {
         "Tool": "MLG"
       },
       {
@@ -1856,6 +1872,9 @@
       },
       {
         "Tool": "scMC"
+      },
+      {
+        "Tool": "scMDC"
       },
       {
         "Tool": "scMerge",
@@ -2642,6 +2661,9 @@
       },
       {
         "Tool": "bollito"
+      },
+      {
+        "Tool": "CAbiNet"
       },
       {
         "Tool": "CAPITAL",
@@ -4643,6 +4665,9 @@
         "Tool": "SPaRTAN"
       },
       {
+        "Tool": "SPECTRA"
+      },
+      {
         "Tool": "spliceJAC",
         "PyPI": "splicejac"
       },
@@ -4907,8 +4932,7 @@
         "Tool": "scIVA"
       },
       {
-        "Tool": "scMappR",
-        "CRAN": "scMappR"
+        "Tool": "scMappR"
       },
       {
         "Tool": "scMatch"
@@ -4989,6 +5013,9 @@
       {
         "Tool": "slalom",
         "Bioc": "slalom"
+      },
+      {
+        "Tool": "SPECTRA"
       },
       {
         "Tool": "Tempora"
@@ -5087,6 +5114,9 @@
       },
       {
         "Tool": "LRT"
+      },
+      {
+        "Tool": "MiXCR"
       },
       {
         "Tool": "mvTCR"
@@ -6029,6 +6059,9 @@
         "Tool": "scMC"
       },
       {
+        "Tool": "scMDC"
+      },
+      {
         "Tool": "scMerge",
         "Bioc": "scMerge"
       },
@@ -6880,6 +6913,9 @@
       {
         "Tool": "SparseDC",
         "CRAN": "SparseDC"
+      },
+      {
+        "Tool": "SPECTRA"
       },
       {
         "Tool": "Spectre"
@@ -7894,6 +7930,9 @@
       },
       {
         "Tool": "topslam"
+      },
+      {
+        "Tool": "TrAGEDy"
       },
       {
         "Tool": "TSCAN",
@@ -9382,6 +9421,9 @@
         "Tool": "minnow"
       },
       {
+        "Tool": "MiXCR"
+      },
+      {
         "Tool": "phyloRNA"
       },
       {
@@ -10085,6 +10127,9 @@
       {
         "Tool": "BUSseq",
         "Bioc": "BUSseq"
+      },
+      {
+        "Tool": "CAbiNet"
       },
       {
         "Tool": "CAISC"
@@ -11260,7 +11305,8 @@
         "Tool": "scConsensus"
       },
       {
-        "Tool": "scCustomize"
+        "Tool": "scCustomize",
+        "CRAN": "scCustomize"
       },
       {
         "Tool": "scDAPA"
@@ -11336,7 +11382,8 @@
         "Tool": "scGAE"
       },
       {
-        "Tool": "scGate"
+        "Tool": "scGate",
+        "CRAN": "scGate"
       },
       {
         "Tool": "scGEAToolbox"
@@ -11419,8 +11466,7 @@
         "PyPI": "scmags"
       },
       {
-        "Tool": "scMappR",
-        "CRAN": "scMappR"
+        "Tool": "scMappR"
       },
       {
         "Tool": "scMC"
@@ -11743,6 +11789,9 @@
       },
       {
         "Tool": "speckle"
+      },
+      {
+        "Tool": "SPECTRA"
       },
       {
         "Tool": "Spectrum",
