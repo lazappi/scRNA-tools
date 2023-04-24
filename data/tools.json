@@ -3580,7 +3580,7 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 887
+        "Citations": 888
       }
     ],
     "Preprints": [
@@ -3590,7 +3590,7 @@
         "Citations": 23
       }
     ],
-    "Citations": 910,
+    "Citations": 911,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sqjin/CellChat"
@@ -4070,7 +4070,7 @@
         "Title": "CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes",
         "DOI": "10.1038/s41596-020-0292-x",
         "Date": "2020-02-26",
-        "Citations": 1159
+        "Citations": 1160
       }
     ],
     "Preprints": [
@@ -4085,7 +4085,7 @@
         "Citations": 45
       }
     ],
-    "Citations": 2381,
+    "Citations": 2382,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "CellphoneDB",
@@ -7903,7 +7903,7 @@
         "Title": "Assessing single-cell transcriptomic variability through density-preserving data visualization",
         "DOI": "10.1038/s41587-020-00801-7",
         "Date": "2021-01-18",
-        "Citations": 39
+        "Citations": 40
       }
     ],
     "Preprints": [
@@ -7913,7 +7913,7 @@
         "Citations": 7
       }
     ],
-    "Citations": 46,
+    "Citations": 47,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "hhcho/densvis"
@@ -12114,7 +12114,7 @@
         "Title": "A robust and scalable graph neural network for accurate single-cell classification",
         "DOI": "10.1093/bib/bbab570",
         "Date": "2022-01-09",
-        "Citations": 6
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -12124,7 +12124,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 7,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "biomed-AI/GraphCS"
@@ -13035,10 +13035,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -14694,7 +14694,7 @@
         "Title": "LAmbDA: label ambiguous domain adaptation dataset integration reduces batch effects and improves subtype detection",
         "DOI": "10.1093/bioinformatics/btz295",
         "Date": "2019-04-30",
-        "Citations": 22
+        "Citations": 21
       }
     ],
     "Preprints": [
@@ -14704,7 +14704,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 24,
+    "Citations": 23,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "tsteelejohnson91/LAmbDA"
@@ -23429,11 +23429,11 @@
         "Title": "Cell composition analysis of bulk genomics using single-cell data",
         "DOI": "10.1038/s41592-019-0355-5",
         "Date": "2019-03-18",
-        "Citations": 74
+        "Citations": 75
       }
     ],
     "Preprints": [],
-    "Citations": 74,
+    "Citations": 75,
     "NumPubs": 1,
     "NumPreprints": 0,
     "CRAN": "scBio"
@@ -24554,11 +24554,11 @@
         "Title": "Clustering single-cell RNA-seq data with a model-based deep learning approach",
         "DOI": "10.1038/s42256-019-0037-0",
         "Date": "2019-04-09",
-        "Citations": 122
+        "Citations": 121
       }
     ],
     "Preprints": [],
-    "Citations": 122,
+    "Citations": 121,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ttgump/scDeepCluster"
@@ -24598,7 +24598,7 @@
         "Title": "scDeepSort: a pre-trained cell-type annotation method for single-cell transcriptomics using deep learning with a weighted graph neural network",
         "DOI": "10.1093/nar/gkab775",
         "Date": "2021-09-09",
-        "Citations": 28
+        "Citations": 29
       }
     ],
     "Preprints": [
@@ -24608,7 +24608,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 31,
+    "Citations": 32,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ZJUFanLab/scDeepSort"
@@ -28079,11 +28079,11 @@
         "Title": "scMRMA: single cell multiresolution marker-based annotation",
         "DOI": "10.1093/nar/gkab931",
         "Date": "2021-10-14",
-        "Citations": 3
+        "Citations": 4
       }
     ],
     "Preprints": [],
-    "Citations": 3,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "JiaLiVUMC/scMRMA"
@@ -32054,7 +32054,7 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 7070
+        "Citations": 7071
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
@@ -32066,19 +32066,19 @@
         "Title": "Spatial reconstruction of single-cell gene expression data",
         "DOI": "10.1038/nbt.3192",
         "Date": "2015-04-13",
-        "Citations": 3085
+        "Citations": 3086
       },
       {
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
         "DOI": "10.1038/nbt.4096",
         "Date": "2018-04-02",
-        "Citations": 6735
+        "Citations": 6736
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
         "DOI": "10.1186/s13059-019-1874-1",
         "Date": "2019-12-23",
-        "Citations": 1597
+        "Citations": 1598
       }
     ],
     "Preprints": [
@@ -32108,7 +32108,7 @@
         "Citations": 84
       }
     ],
-    "Citations": 21620,
+    "Citations": 21624,
     "NumPubs": 5,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -33230,7 +33230,7 @@
         "Title": "Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage",
         "DOI": "10.1038/s41590-018-0276-y",
         "Date": "2019-01-14",
-        "Citations": 1476
+        "Citations": 1477
       }
     ],
     "Preprints": [
@@ -33240,7 +33240,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 1480,
+    "Citations": 1481,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "SingleR",
@@ -34746,7 +34746,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 26512
+        "Citations": 26517
       }
     ],
     "Preprints": [
@@ -34756,7 +34756,7 @@
         "Citations": 79
       }
     ],
-    "Citations": 26591,
+    "Citations": 26596,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
