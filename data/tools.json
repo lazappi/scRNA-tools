@@ -1675,10 +1675,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -6123,11 +6123,11 @@
         "Title": "Delineating copy number and clonal substructure in human tumors from single-cell transcriptomes",
         "DOI": "10.1038/s41587-020-00795-2",
         "Date": "2021-01-18",
-        "Citations": 168
+        "Citations": 169
       }
     ],
     "Preprints": [],
-    "Citations": 168,
+    "Citations": 169,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "navinlabcode/copykat"
@@ -20978,7 +20978,7 @@
         "Title": "Single-cell messenger RNA sequencing reveals rare intestinal cell types",
         "DOI": "10.1038/nature14966",
         "Date": "2015-08-19",
-        "Citations": 945
+        "Citations": 944
       },
       {
         "Title": "Revealing dynamics of gene expression variability in cell state space",
@@ -20988,7 +20988,7 @@
       }
     ],
     "Preprints": [],
-    "Citations": 1430,
+    "Citations": 1429,
     "NumPubs": 3,
     "NumPreprints": 0,
     "CRAN": "RaceID",
@@ -21607,7 +21607,7 @@
         "Title": "Robust integration of multiple single-cell RNA sequencing datasets using a single reference space",
         "DOI": "10.1038/s41587-021-00859-x",
         "Date": "2021-03-25",
-        "Citations": 17
+        "Citations": 16
       }
     ],
     "Preprints": [
@@ -21617,7 +21617,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 19,
+    "Citations": 18,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "bioinfoDZ/RISC"
@@ -35729,7 +35729,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 27097
+        "Citations": 27098
       }
     ],
     "Preprints": [
@@ -35739,7 +35739,7 @@
         "Citations": 83
       }
     ],
-    "Citations": 27180,
+    "Citations": 27181,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
