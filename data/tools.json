@@ -1675,10 +1675,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -3627,7 +3627,7 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 1095
+        "Citations": 1096
       }
     ],
     "Preprints": [
@@ -3637,7 +3637,7 @@
         "Citations": 25
       }
     ],
-    "Citations": 1120,
+    "Citations": 1121,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sqjin/CellChat"
@@ -5908,7 +5908,7 @@
         "Title": "Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)",
         "DOI": "10.1038/s41587-021-00989-2",
         "Date": "2021-08-23",
-        "Citations": 38
+        "Citations": 39
       }
     ],
     "Preprints": [
@@ -5918,7 +5918,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 46,
+    "Citations": 47,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "phbradley/conga"
@@ -12233,10 +12233,10 @@
       {
         "Title": "Multi-omics integration and regulatory inference for unpaired single-cell data with a graph-linked unified embedding framework",
         "DOI": "10.1101/2021.08.22.457275",
-        "Citations": 4
+        "Citations": 5
       }
     ],
-    "Citations": 64,
+    "Citations": 65,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scglue",
@@ -13448,10 +13448,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -15007,7 +15007,7 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 5821
+        "Citations": 5822
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
@@ -15044,7 +15044,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 6167,
+    "Citations": 6168,
     "NumPubs": 3,
     "NumPreprints": 4,
     "GitHub": "pachterlab/kallisto"
@@ -18778,7 +18778,7 @@
         "Title": "Comprehensive visualization of cell–cell interactions in single-cell and spatial transcriptomics with NICHES",
         "DOI": "10.1093/bioinformatics/btac775",
         "Date": "2022-12-02",
-        "Citations": 6
+        "Citations": 7
       }
     ],
     "Preprints": [
@@ -18788,7 +18788,7 @@
         "Citations": 9
       }
     ],
-    "Citations": 15,
+    "Citations": 16,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "msraredon/NICHES"
@@ -22192,7 +22192,7 @@
         "Title": "The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads",
         "DOI": "10.1093/nar/gkz114",
         "Date": "2019-02-20",
-        "Citations": 1272
+        "Citations": 1273
       }
     ],
     "Preprints": [
@@ -22202,7 +22202,7 @@
         "Citations": 31
       }
     ],
-    "Citations": 1303,
+    "Citations": 1304,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "Rsubread"
@@ -23792,7 +23792,7 @@
         "Title": "SCANPY: large-scale single-cell gene expression data analysis",
         "DOI": "10.1186/s13059-017-1382-0",
         "Date": "2018-02-06",
-        "Citations": 2838
+        "Citations": 2839
       },
       {
         "Title": "PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells",
@@ -23813,7 +23813,7 @@
         "Citations": 23
       }
     ],
-    "Citations": 3551,
+    "Citations": 3552,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "scanpy",
@@ -33412,13 +33412,13 @@
         "Title": "Integrated analysis of multimodal single-cell data",
         "DOI": "10.1016/j.cell.2021.04.048",
         "Date": "2021-06",
-        "Citations": 3293
+        "Citations": 3295
       },
       {
         "Title": "Spatial reconstruction of single-cell gene expression data",
         "DOI": "10.1038/nbt.3192",
         "Date": "2015-04-13",
-        "Citations": 3296
+        "Citations": 3297
       },
       {
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
@@ -33430,7 +33430,7 @@
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
         "DOI": "10.1186/s13059-019-1874-1",
         "Date": "2019-12-23",
-        "Citations": 1769
+        "Citations": 1770
       }
     ],
     "Preprints": [
@@ -33460,7 +33460,7 @@
         "Citations": 83
       }
     ],
-    "Citations": 23452,
+    "Citations": 23456,
     "NumPubs": 5,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -36180,7 +36180,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 27722
+        "Citations": 27728
       }
     ],
     "Preprints": [
@@ -36190,7 +36190,7 @@
         "Citations": 85
       }
     ],
-    "Citations": 27807,
+    "Citations": 27813,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
