@@ -728,7 +728,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 2239
+        "Citations": 2240
       }
     ],
     "Preprints": [
@@ -738,7 +738,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 2247,
+    "Citations": 2248,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "AUCell",
@@ -1675,10 +1675,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -3627,7 +3627,7 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 1122
+        "Citations": 1124
       }
     ],
     "Preprints": [
@@ -3637,7 +3637,7 @@
         "Citations": 25
       }
     ],
-    "Citations": 1147,
+    "Citations": 1149,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sqjin/CellChat"
@@ -4191,7 +4191,7 @@
         "Title": "Massively parallel digital transcriptional profiling of single cells",
         "DOI": "10.1038/ncomms14049",
         "Date": "2017-01-16",
-        "Citations": 3499
+        "Citations": 3500
       }
     ],
     "Preprints": [
@@ -4201,7 +4201,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 3519,
+    "Citations": 3520,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "10XGenomics/cellranger"
@@ -4457,11 +4457,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 291
+        "Citations": 292
       }
     ],
     "Preprints": [],
-    "Citations": 291,
+    "Citations": 292,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/celltalker"
@@ -5276,7 +5276,7 @@
         "Title": "Single-cell transcriptome analysis of lineage diversity in high-grade glioma",
         "DOI": "10.1186/s13073-018-0567-9",
         "Date": "2018-07-24",
-        "Citations": 142
+        "Citations": 143
       }
     ],
     "Preprints": [
@@ -5286,7 +5286,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 144,
+    "Citations": 145,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "simslab/cluster_diffex2018"
@@ -7968,7 +7968,7 @@
         "Title": "Multiplexed droplet single-cell RNA-sequencing using natural genetic variation",
         "DOI": "10.1038/nbt.4042",
         "Date": "2017-12-11",
-        "Citations": 619
+        "Citations": 618
       }
     ],
     "Preprints": [
@@ -7978,7 +7978,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 625,
+    "Citations": 624,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "statgen/demuxlet"
@@ -8994,7 +8994,7 @@
         "Title": "DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors",
         "DOI": "10.1016/j.cels.2019.03.003",
         "Date": "2019-04",
-        "Citations": 1046
+        "Citations": 1047
       }
     ],
     "Preprints": [
@@ -9004,7 +9004,7 @@
         "Citations": 22
       }
     ],
-    "Citations": 1068,
+    "Citations": 1069,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "chris-mcginnis-ucsf/DoubletFinder"
@@ -9097,7 +9097,7 @@
         "Title": "Diffusion pseudotime robustly reconstructs lineage branching",
         "DOI": "10.1038/nmeth.3971",
         "Date": "2016-08-29",
-        "Citations": 815
+        "Citations": 816
       }
     ],
     "Preprints": [
@@ -9107,7 +9107,7 @@
         "Citations": 17
       }
     ],
-    "Citations": 832,
+    "Citations": 833,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -9147,11 +9147,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 291
+        "Citations": 292
       }
     ],
     "Preprints": [],
-    "Citations": 291,
+    "Citations": 292,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/dragonsc"
@@ -14165,11 +14165,11 @@
         "Title": "Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma",
         "DOI": "10.1126/science.1254257",
         "Date": "2014-06-12",
-        "Citations": 3066
+        "Citations": 3067
       }
     ],
     "Preprints": [],
-    "Citations": 3066,
+    "Citations": 3067,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "infercnv",
@@ -17633,7 +17633,7 @@
         "Title": "The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells",
         "DOI": "10.1038/nbt.2859",
         "Date": "2014-03-23",
-        "Citations": 3776
+        "Citations": 3777
       },
       {
         "Title": "Single-cell mRNA quantification and differential analysis with Census",
@@ -17655,7 +17655,7 @@
         "Citations": 51
       }
     ],
-    "Citations": 6796,
+    "Citations": 6797,
     "NumPubs": 3,
     "NumPreprints": 1,
     "Bioc": "monocle",
@@ -26442,7 +26442,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 2239
+        "Citations": 2240
       },
       {
         "Title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis",
@@ -26458,7 +26458,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 2532,
+    "Citations": 2533,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "pyscenic",
@@ -33587,7 +33587,7 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 7590
+        "Citations": 7593
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
@@ -33605,7 +33605,7 @@
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
         "DOI": "10.1038/nbt.4096",
         "Date": "2018-04-02",
-        "Citations": 7147
+        "Citations": 7148
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
@@ -33641,7 +33641,7 @@
         "Citations": 83
       }
     ],
-    "Citations": 23610,
+    "Citations": 23614,
     "NumPubs": 5,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -34807,7 +34807,7 @@
         "Title": "Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage",
         "DOI": "10.1038/s41590-018-0276-y",
         "Date": "2019-01-14",
-        "Citations": 1642
+        "Citations": 1643
       }
     ],
     "Preprints": [
@@ -34817,7 +34817,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 1646,
+    "Citations": 1647,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "SingleR",
@@ -34837,11 +34837,11 @@
         "Title": "Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer",
         "DOI": "10.1016/j.immuni.2019.11.014",
         "Date": "2020-01",
-        "Citations": 291
+        "Citations": 292
       }
     ],
     "Preprints": [],
-    "Citations": 291,
+    "Citations": 292,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "arc85/singleseqgset"
@@ -36361,7 +36361,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 27841
+        "Citations": 27843
       }
     ],
     "Preprints": [
@@ -36371,7 +36371,7 @@
         "Citations": 88
       }
     ],
-    "Citations": 27929,
+    "Citations": 27931,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
