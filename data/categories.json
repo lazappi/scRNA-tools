@@ -457,6 +457,9 @@
         "Tool": "scCancer"
       },
       {
+        "Tool": "scdrake"
+      },
+      {
         "Tool": "scLVM",
         "PyPI": "scLVM"
       },
@@ -503,6 +506,10 @@
       {
         "Tool": "AltAnalyze",
         "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "AlzScPred",
+        "PyPI": "AlzScPred"
       },
       {
         "Tool": "AutoClass"
@@ -804,6 +811,9 @@
         "Tool": "Pollock"
       },
       {
+        "Tool": "PreCanCell"
+      },
+      {
         "Tool": "ProjecTILs"
       },
       {
@@ -894,6 +904,9 @@
         "Tool": "scdney"
       },
       {
+        "Tool": "scdrake"
+      },
+      {
         "Tool": "scEMAIL"
       },
       {
@@ -982,6 +995,9 @@
       {
         "Tool": "scProject",
         "PyPI": "scProject"
+      },
+      {
+        "Tool": "scQCEA"
       },
       {
         "Tool": "scRare",
@@ -1942,6 +1958,9 @@
         "Tool": "scdney"
       },
       {
+        "Tool": "scdrake"
+      },
+      {
         "Tool": "scEC"
       },
       {
@@ -2282,6 +2301,9 @@
       },
       {
         "Tool": "VAE-SNE"
+      },
+      {
+        "Tool": "velvet"
       },
       {
         "Tool": "VPAC"
@@ -3676,6 +3698,9 @@
       },
       {
         "Tool": "scDisInFact"
+      },
+      {
+        "Tool": "scdrake"
       },
       {
         "Tool": "Scedar",
@@ -5281,6 +5306,10 @@
         "Tool": "GRUFFI"
       },
       {
+        "Tool": "gsdensity",
+        "CRAN": "gsdensity"
+      },
+      {
         "Tool": "GSEApy",
         "PyPI": "gseapy"
       },
@@ -6136,6 +6165,10 @@
         "Tool": "CCNMF"
       },
       {
+        "Tool": "CeLEry",
+        "PyPI": "CeLEryPy"
+      },
+      {
         "Tool": "cell2location",
         "PyPI": "cell2location"
       },
@@ -6603,6 +6636,9 @@
       },
       {
         "Tool": "scDisInFact"
+      },
+      {
+        "Tool": "scdrake"
       },
       {
         "Tool": "scDREAMER"
@@ -7091,6 +7127,9 @@
         "Tool": "scPower"
       },
       {
+        "Tool": "scQCEA"
+      },
+      {
         "Tool": "scran",
         "Bioc": "scran"
       },
@@ -7134,6 +7173,9 @@
       },
       {
         "Tool": "ShinyCell"
+      },
+      {
+        "Tool": "ShinyMultiome-UiO"
       },
       {
         "Tool": "SigHotSpotter"
@@ -7494,6 +7536,9 @@
       {
         "Tool": "scDataviz",
         "Bioc": "scDataviz"
+      },
+      {
+        "Tool": "scdrake"
       },
       {
         "Tool": "Scedar",
@@ -8006,6 +8051,9 @@
         "Tool": "scCobra"
       },
       {
+        "Tool": "scdrake"
+      },
+      {
         "Tool": "SCell"
       },
       {
@@ -8176,6 +8224,9 @@
       },
       {
         "Tool": "URD"
+      },
+      {
+        "Tool": "velvet"
       },
       {
         "Tool": "visnormsc"
@@ -8595,6 +8646,9 @@
         "Tool": "SCIMITAR"
       },
       {
+        "Tool": "scKINETICS"
+      },
+      {
         "Tool": "SClineager"
       },
       {
@@ -8762,6 +8816,9 @@
       {
         "Tool": "VeloVAE",
         "PyPI": "velovae"
+      },
+      {
+        "Tool": "velvet"
       },
       {
         "Tool": "VeTra"
@@ -9020,6 +9077,9 @@
         "PyPI": "countland"
       },
       {
+        "Tool": "CRMetrics"
+      },
+      {
         "Tool": "CStreet",
         "PyPI": "cstreet"
       },
@@ -9270,6 +9330,9 @@
         "Bioc": "scDblFinder"
       },
       {
+        "Tool": "scdrake"
+      },
+      {
         "Tool": "scds",
         "Bioc": "scds"
       },
@@ -9321,6 +9384,9 @@
       },
       {
         "Tool": "SCQC"
+      },
+      {
+        "Tool": "scQCEA"
       },
       {
         "Tool": "SCRAT"
@@ -10625,6 +10691,9 @@
         "Tool": "scDHMap"
       },
       {
+        "Tool": "scdrake"
+      },
+      {
         "Tool": "sceb",
         "PyPI": "sceb"
       },
@@ -10751,6 +10820,9 @@
       {
         "Tool": "uSORT",
         "Bioc": "uSORT"
+      },
+      {
+        "Tool": "velvet"
       }
     ]
   },
@@ -11439,6 +11511,9 @@
         "Tool": "countland",
         "CRAN": "countland",
         "PyPI": "countland"
+      },
+      {
+        "Tool": "CRMetrics"
       },
       {
         "Tool": "CrossTalkeR"
@@ -12441,6 +12516,9 @@
         "Tool": "scdney"
       },
       {
+        "Tool": "scdrake"
+      },
+      {
         "Tool": "Scedar",
         "PyPI": "scedar"
       },
@@ -12833,6 +12911,9 @@
         "Tool": "ShinyCell"
       },
       {
+        "Tool": "ShinyMultiome-UiO"
+      },
+      {
         "Tool": "Sierra"
       },
       {
@@ -13117,6 +13198,9 @@
       {
         "Tool": "VeloViz",
         "Bioc": "veloviz"
+      },
+      {
+        "Tool": "velvet"
       },
       {
         "Tool": "VIA",
