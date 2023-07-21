@@ -80,6 +80,9 @@
         "Tool": "RNA-combine"
       },
       {
+        "Tool": "RNA-strain-match"
+      },
+      {
         "Tool": "Rsubread",
         "Bioc": "Rsubread"
       },
@@ -818,6 +821,9 @@
       },
       {
         "Tool": "RCAv2"
+      },
+      {
+        "Tool": "RCI-NB"
       },
       {
         "Tool": "RNA-combine"
@@ -2510,6 +2516,9 @@
         "Tool": "K2Taxonomer"
       },
       {
+        "Tool": "ktest"
+      },
+      {
         "Tool": "Lamian"
       },
       {
@@ -3032,8 +3041,7 @@
         "Tool": "dbcti"
       },
       {
-        "Tool": "DCA_R",
-        "CRAN": "DCA"
+        "Tool": "DCA_R"
       },
       {
         "Tool": "DEEF"
@@ -3172,7 +3180,7 @@
       },
       {
         "Tool": "GeneVector",
-        "PyPI": "genevector-nceglia"
+        "PyPI": "genevector"
       },
       {
         "Tool": "GenKI"
@@ -3820,8 +3828,7 @@
         "Tool": "scNBMF"
       },
       {
-        "Tool": "SCORPIUS",
-        "CRAN": "SCORPIUS"
+        "Tool": "SCORPIUS"
       },
       {
         "Tool": "SCP"
@@ -4070,6 +4077,10 @@
         "PyPI": "topometry"
       },
       {
+        "Tool": "Transmorph",
+        "PyPI": "transmorph"
+      },
+      {
         "Tool": "tricycle",
         "Bioc": "tricycle"
       },
@@ -4255,8 +4266,7 @@
         "Tool": "SCIMITAR"
       },
       {
-        "Tool": "SCORPIUS",
-        "CRAN": "SCORPIUS"
+        "Tool": "SCORPIUS"
       },
       {
         "Tool": "SCPattern"
@@ -4729,7 +4739,7 @@
       },
       {
         "Tool": "GeneVector",
-        "PyPI": "genevector-nceglia"
+        "PyPI": "genevector"
       },
       {
         "Tool": "GenKI"
@@ -5042,8 +5052,7 @@
         "CRAN": "SCORPION"
       },
       {
-        "Tool": "SCORPIUS",
-        "CRAN": "SCORPIUS"
+        "Tool": "SCORPIUS"
       },
       {
         "Tool": "scover"
@@ -6305,7 +6314,7 @@
       },
       {
         "Tool": "GeneVector",
-        "PyPI": "genevector-nceglia"
+        "PyPI": "genevector"
       },
       {
         "Tool": "GFPA",
@@ -6862,6 +6871,10 @@
       },
       {
         "Tool": "Trajan"
+      },
+      {
+        "Tool": "Transmorph",
+        "PyPI": "transmorph"
       },
       {
         "Tool": "TRIPOD"
@@ -7484,6 +7497,9 @@
         "Tool": "rCASC"
       },
       {
+        "Tool": "RECOMBINE"
+      },
+      {
         "Tool": "redPATH"
       },
       {
@@ -7998,6 +8014,9 @@
       },
       {
         "Tool": "RCAv2"
+      },
+      {
+        "Tool": "RCI-NB"
       },
       {
         "Tool": "RISC"
@@ -8664,8 +8683,7 @@
         "Tool": "SCODE"
       },
       {
-        "Tool": "SCORPIUS",
-        "CRAN": "SCORPIUS"
+        "Tool": "SCORPIUS"
       },
       {
         "Tool": "SCOUP"
@@ -10995,6 +11013,9 @@
         "Tool": "Red_Panda"
       },
       {
+        "Tool": "RNA-strain-match"
+      },
+      {
         "Tool": "scAllele",
         "PyPI": "scAllele"
       },
@@ -11968,6 +11989,9 @@
         "Tool": "kana"
       },
       {
+        "Tool": "ktest"
+      },
+      {
         "Tool": "Lamian"
       },
       {
@@ -12330,6 +12354,9 @@
       },
       {
         "Tool": "reCAT"
+      },
+      {
+        "Tool": "RECOMBINE"
       },
       {
         "Tool": "redPATH"
@@ -12712,8 +12739,7 @@
         "Tool": "SCope"
       },
       {
-        "Tool": "SCORPIUS",
-        "CRAN": "SCORPIUS"
+        "Tool": "SCORPIUS"
       },
       {
         "Tool": "SCP"
@@ -13131,6 +13157,10 @@
       },
       {
         "Tool": "Trajan"
+      },
+      {
+        "Tool": "Transmorph",
+        "PyPI": "transmorph"
       },
       {
         "Tool": "traviz",
