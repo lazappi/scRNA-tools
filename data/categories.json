@@ -2407,6 +2407,9 @@
         "Tool": "cluster_diffex"
       },
       {
+        "Tool": "ClusterDE"
+      },
+      {
         "Tool": "cocoa"
       },
       {
@@ -3493,6 +3496,9 @@
       {
         "Tool": "PhEMD",
         "Bioc": "phemd"
+      },
+      {
+        "Tool": "PhyloVelo"
       },
       {
         "Tool": "Piccolo"
@@ -7321,6 +7327,9 @@
         "Tool": "cluster_diffex"
       },
       {
+        "Tool": "ClusterDE"
+      },
+      {
         "Tool": "clusterExperiment",
         "Bioc": "clusterExperiment"
       },
@@ -8009,6 +8018,9 @@
         "Tool": "phyloRNA"
       },
       {
+        "Tool": "PhyloVelo"
+      },
+      {
         "Tool": "Piccolo"
       },
       {
@@ -8561,6 +8573,9 @@
       },
       {
         "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "PhyloVelo"
       },
       {
         "Tool": "PILOT"
@@ -9654,6 +9669,9 @@
         "PyPI": "girafr"
       },
       {
+        "Tool": "hadge"
+      },
+      {
         "Tool": "HTOreader"
       },
       {
@@ -9791,6 +9809,9 @@
       },
       {
         "Tool": "scUTRquant"
+      },
+      {
+        "Tool": "scViralQuant"
       },
       {
         "Tool": "Sharq"
@@ -10061,6 +10082,9 @@
         "CRAN": "fastTopics"
       },
       {
+        "Tool": "GRouNdGAN"
+      },
+      {
         "Tool": "HARISSA",
         "PyPI": "harissa"
       },
@@ -10146,6 +10170,9 @@
       },
       {
         "Tool": "scACE"
+      },
+      {
+        "Tool": "scaffold"
       },
       {
         "Tool": "Scanpy",
@@ -10485,6 +10512,9 @@
       },
       {
         "Tool": "scumi"
+      },
+      {
+        "Tool": "scViralQuant"
       },
       {
         "Tool": "Sharq"
@@ -12287,6 +12317,9 @@
         "Tool": "phiclust"
       },
       {
+        "Tool": "PhyloVelo"
+      },
+      {
         "Tool": "PieParty",
         "PyPI": "pieparty"
       },
@@ -12448,6 +12481,9 @@
       {
         "Tool": "scAAnet",
         "PyPI": "scAAnet"
+      },
+      {
+        "Tool": "scaffold"
       },
       {
         "Tool": "scAI"
@@ -12925,6 +12961,9 @@
       {
         "Tool": "scVelo",
         "PyPI": "scvelo"
+      },
+      {
+        "Tool": "scViralQuant"
       },
       {
         "Tool": "scVirtualCyto"
