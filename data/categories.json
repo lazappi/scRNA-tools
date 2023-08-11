@@ -820,6 +820,9 @@
         "Tool": "ProjecTILs"
       },
       {
+        "Tool": "ProjectSVR"
+      },
+      {
         "Tool": "RCAv2"
       },
       {
@@ -2231,6 +2234,9 @@
         "Tool": "SinNLRR"
       },
       {
+        "Tool": "SMAI"
+      },
+      {
         "Tool": "SMSC"
       },
       {
@@ -2264,6 +2270,9 @@
       {
         "Tool": "Spectrum",
         "CRAN": "Spectrum"
+      },
+      {
+        "Tool": "SR2"
       },
       {
         "Tool": "sscClust"
@@ -3838,7 +3847,8 @@
         "Tool": "scNBMF"
       },
       {
-        "Tool": "SCORPIUS"
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
       },
       {
         "Tool": "SCP"
@@ -4023,6 +4033,9 @@
         "Bioc": "slingshot"
       },
       {
+        "Tool": "SMAI"
+      },
+      {
         "Tool": "SMURF",
         "PyPI": "smurf-imputation"
       },
@@ -4047,6 +4060,9 @@
       },
       {
         "Tool": "SPRING"
+      },
+      {
+        "Tool": "SR2"
       },
       {
         "Tool": "sscClust"
@@ -4276,7 +4292,8 @@
         "Tool": "SCIMITAR"
       },
       {
-        "Tool": "SCORPIUS"
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
       },
       {
         "Tool": "SCPattern"
@@ -5065,7 +5082,8 @@
         "CRAN": "SCORPION"
       },
       {
-        "Tool": "SCORPIUS"
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
       },
       {
         "Tool": "scover"
@@ -5707,6 +5725,9 @@
       },
       {
         "Tool": "scTCRseq"
+      },
+      {
+        "Tool": "SiCR"
       },
       {
         "Tool": "SignacX",
@@ -6558,6 +6579,9 @@
         "PyPI": "portal-sc"
       },
       {
+        "Tool": "ProjectSVR"
+      },
+      {
         "Tool": "protaccel",
         "PyPI": "protaccel"
       },
@@ -6836,6 +6860,9 @@
       },
       {
         "Tool": "SJD"
+      },
+      {
+        "Tool": "SMAI"
       },
       {
         "Tool": "SMGR"
@@ -7205,6 +7232,9 @@
       },
       {
         "Tool": "ShinyMultiome-UiO"
+      },
+      {
+        "Tool": "SiCR"
       },
       {
         "Tool": "SigHotSpotter"
@@ -8320,6 +8350,9 @@
         "PyPI": "ccnet"
       },
       {
+        "Tool": "cell2fate"
+      },
+      {
         "Tool": "cellAlign"
       },
       {
@@ -8712,7 +8745,8 @@
         "Tool": "SCODE"
       },
       {
-        "Tool": "SCORPIUS"
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
       },
       {
         "Tool": "SCOUP"
@@ -12359,6 +12393,9 @@
         "Tool": "ProjecTILs"
       },
       {
+        "Tool": "ProjectSVR"
+      },
+      {
         "Tool": "Pseudocell_Tracer"
       },
       {
@@ -12798,7 +12835,8 @@
         "Tool": "SCope"
       },
       {
-        "Tool": "SCORPIUS"
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
       },
       {
         "Tool": "SCP"
