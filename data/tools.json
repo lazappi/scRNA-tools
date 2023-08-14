@@ -1698,10 +1698,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 7,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -25482,7 +25482,7 @@
         "Title": "Evaluating single-cell cluster stability using the Jaccard similarity index",
         "DOI": "10.1093/bioinformatics/btaa956",
         "Date": "2020-11-09",
-        "Citations": 27
+        "Citations": 28
       }
     ],
     "Preprints": [
@@ -25492,7 +25492,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 31,
+    "Citations": 32,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "crazyhottommy/scclusteval"
@@ -37106,7 +37106,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 28460
+        "Citations": 28461
       }
     ],
     "Preprints": [
@@ -37116,7 +37116,7 @@
         "Citations": 93
       }
     ],
-    "Citations": 28553,
+    "Citations": 28554,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
