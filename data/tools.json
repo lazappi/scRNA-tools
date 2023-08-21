@@ -1138,7 +1138,7 @@
         "Title": "Correcting the Mean-Variance Dependency for Differential Variability Testing Using Single-Cell RNA Sequencing Data",
         "DOI": "10.1016/j.cels.2018.06.011",
         "Date": "2018-09",
-        "Citations": 55
+        "Citations": 56
       },
       {
         "Title": "Beyond comparisons of means: understanding changes in gene expression at the single-cell level",
@@ -1171,7 +1171,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 378,
+    "Citations": 379,
     "NumPubs": 4,
     "NumPreprints": 2,
     "Bioc": "BASiCS",
@@ -7411,7 +7411,7 @@
         "Title": "Single-cell multi-omics analysis of the immune response in COVID-19",
         "DOI": "10.1038/s41591-021-01329-2",
         "Date": "2021-04-20",
-        "Citations": 341
+        "Citations": 342
       }
     ],
     "Preprints": [
@@ -7426,7 +7426,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 359,
+    "Citations": 360,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "sc-dandelion",
@@ -8371,7 +8371,7 @@
         "Title": "Assessing single-cell transcriptomic variability through density-preserving data visualization",
         "DOI": "10.1038/s41587-020-00801-7",
         "Date": "2021-01-18",
-        "Citations": 53
+        "Citations": 54
       }
     ],
     "Preprints": [
@@ -8381,7 +8381,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 61,
+    "Citations": 62,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "hhcho/densvis"
@@ -15916,7 +15916,7 @@
         "Title": "Confronting false discoveries in single-cell differential expression",
         "DOI": "10.1038/s41467-021-25960-2",
         "Date": "2021-09-28",
-        "Citations": 206
+        "Citations": 207
       }
     ],
     "Preprints": [
@@ -15926,7 +15926,7 @@
         "Citations": 11
       }
     ],
-    "Citations": 217,
+    "Citations": 218,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "neurorestore/Libra"
@@ -16606,7 +16606,7 @@
         "Title": "MarkovHC: Markov hierarchical clustering for the topological structure of high-dimensional single-cell omics data with transition pathway and critical point detection",
         "DOI": "10.1093/nar/gkab1132",
         "Date": "2021-12-01",
-        "Citations": 3
+        "Citations": 4
       }
     ],
     "Preprints": [
@@ -16616,7 +16616,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 4,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ZhenyiWangTHU/MarkovHC"
@@ -17487,11 +17487,11 @@
         "Title": "Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens",
         "DOI": "10.1016/j.cell.2016.11.038",
         "Date": "2016-12",
-        "Citations": 973
+        "Citations": 974
       }
     ],
     "Preprints": [],
-    "Citations": 973,
+    "Citations": 974,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "asncd/MIMOSCA"
@@ -20657,11 +20657,11 @@
         "Title": "Phitest for analyzing the homogeneity of single-cell populations",
         "DOI": "10.1093/bioinformatics/btac130",
         "Date": "2022-03-03",
-        "Citations": 1
+        "Citations": 2
       }
     ],
     "Preprints": [],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 0,
     "CRAN": "PhitestR",
@@ -26382,7 +26382,7 @@
         "Title": "A statistical simulator scDesign for rational scRNA-seq experimental design",
         "DOI": "10.1093/bioinformatics/btz321",
         "Date": "2019-07-05",
-        "Citations": 41
+        "Citations": 42
       }
     ],
     "Preprints": [
@@ -26392,7 +26392,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 41,
+    "Citations": 42,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "Vivianstats/scDesign"
@@ -26417,7 +26417,7 @@
         "Title": "scDesign2: a transparent simulator that generates high-fidelity single-cell gene expression count data with gene correlations captured",
         "DOI": "10.1186/s13059-021-02367-2",
         "Date": "2021-05-25",
-        "Citations": 22
+        "Citations": 23
       }
     ],
     "Preprints": [
@@ -26427,7 +26427,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 26,
+    "Citations": 27,
     "NumPubs": 2,
     "NumPreprints": 1,
     "GitHub": "JSB-UCLA/scDesign2"
@@ -28812,7 +28812,7 @@
         "Title": "scINSIGHT for interpreting single-cell gene expression from biologically heterogeneous data",
         "DOI": "10.1186/s13059-022-02649-3",
         "Date": "2022-03-21",
-        "Citations": 4
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -28822,7 +28822,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "scINSIGHT",
@@ -29673,11 +29673,11 @@
         "Title": "Mapping the Mouse Cell Atlas by Microwell-Seq",
         "DOI": "10.1016/j.cell.2018.02.001",
         "Date": "2018-02",
-        "Citations": 735
+        "Citations": 736
       }
     ],
     "Preprints": [],
-    "Citations": 735,
+    "Citations": 736,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ggjlab/scMCA"
@@ -33374,7 +33374,7 @@
         "Title": "Systematic comparison of single-cell and single-nucleus RNA-sequencing methods",
         "DOI": "10.1038/s41587-020-0465-8",
         "Date": "2020-04-06",
-        "Citations": 440
+        "Citations": 441
       }
     ],
     "Preprints": [
@@ -33384,7 +33384,7 @@
         "Citations": 57
       }
     ],
-    "Citations": 497,
+    "Citations": 498,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -33828,7 +33828,7 @@
         "Title": "singlecellVR: Interactive Visualization of Single-Cell Data in Virtual Reality",
         "DOI": "10.3389/fgene.2021.764170",
         "Date": "2021-10-28",
-        "Citations": 7
+        "Citations": 6
       }
     ],
     "Preprints": [
@@ -33838,7 +33838,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 9,
+    "Citations": 8,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scvr",
@@ -34329,19 +34329,19 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 7876
+        "Citations": 7877
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
         "DOI": "10.1016/j.cell.2021.04.048",
         "Date": "2021-06",
-        "Citations": 3699
+        "Citations": 3700
       },
       {
         "Title": "Spatial reconstruction of single-cell gene expression data",
         "DOI": "10.1038/nbt.3192",
         "Date": "2015-04-13",
-        "Citations": 3418
+        "Citations": 3419
       },
       {
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
@@ -34353,7 +34353,7 @@
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
         "DOI": "10.1186/s13059-019-1874-1",
         "Date": "2019-12-23",
-        "Citations": 1886
+        "Citations": 1887
       }
     ],
     "Preprints": [
@@ -34383,7 +34383,7 @@
         "Citations": 84
       }
     ],
-    "Citations": 24674,
+    "Citations": 24678,
     "NumPubs": 5,
     "NumPreprints": 5,
     "CRAN": "Seurat",
