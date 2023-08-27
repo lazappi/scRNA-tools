@@ -1721,10 +1721,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -2926,6 +2926,28 @@
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "yuansh3354/CaSee"
+  },
+  {
+    "Tool": "CASi",
+    "Platform": "R",
+    "Code": "https://github.com/yizhuo-wang/CASi",
+    "Description": "CASi is a comprehensive R package for analyzing multi-timepoint scRNA-seq data",
+    "License": "GPL-3.0",
+    "Added": "2023-08-27",
+    "Updated": "2023-08-27",
+    "Categories": ["Classification", "ExpressionPatterns"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "CASi: A multi-timepoint scRNAseq data analysis framework",
+        "DOI": "10.1101/2023.08.16.553543",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "GitHub": "yizhuo-wang/CASi"
   },
   {
     "Tool": "CaSpER",
@@ -6643,7 +6665,7 @@
     "Description": "The countsplit R package splits an integer-valued matrix into multiple folds of data with the same dimensions that can be used for cross validation",
     "License": "MIT",
     "Added": "2023-07-28",
-    "Updated": "2023-07-28",
+    "Updated": "2023-08-24",
     "Categories": ["Quantification"],
     "Publications": [],
     "Preprints": [
@@ -6656,6 +6678,7 @@
     "Citations": 0,
     "NumPubs": 0,
     "NumPreprints": 1,
+    "CRAN": "countsplit",
     "GitHub": "anna-neufeld/countsplit"
   },
   {
@@ -8677,7 +8700,7 @@
     "Description": "Dictys reconstructs cell-type specific and dynamic gene regulatory networks (GRN) from scRNA-seq and scATAC-seq datasets",
     "License": "AGPL-3.0",
     "Added": "2022-11-04",
-    "Updated": "2022-11-04",
+    "Updated": "2023-08-24",
     "Categories": ["GeneNetworks", "Integration", "Ordering", "Visualisation"],
     "Publications": [],
     "Preprints": [
@@ -8690,6 +8713,7 @@
     "Citations": 7,
     "NumPubs": 0,
     "NumPreprints": 1,
+    "PyPI": "dictys",
     "GitHub": "pinellolab/dictys"
   },
   {
@@ -11944,9 +11968,16 @@
     "Description": "GEARS, a method that can predict transcriptional response to both single and multi-gene perturbations using single-cell RNA-sequencing data from perturbational screens",
     "License": "MIT",
     "Added": "2022-08-12",
-    "Updated": "2022-08-12",
+    "Updated": "2023-08-27",
     "Categories": ["Perturbations", "Visualisation"],
-    "Publications": [],
+    "Publications": [
+      {
+        "Title": "Predicting transcriptional outcomes of novel multigene perturbations with GEARS",
+        "DOI": "10.1038/s41587-023-01905-6",
+        "Date": "2023-08-17",
+        "Citations": 0
+      }
+    ],
     "Preprints": [
       {
         "Title": "GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations",
@@ -11955,7 +11986,7 @@
       }
     ],
     "Citations": 7,
-    "NumPubs": 0,
+    "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "cell-gears",
     "GitHub": "snap-stanford/GEARS"
@@ -14638,6 +14669,28 @@
     "NumPreprints": 1
   },
   {
+    "Tool": "IntegratedLearner",
+    "Platform": "R",
+    "Code": "https://github.com/himelmallick/IntegratedLearner",
+    "Description": "Integrated machine learning for multi-omics prediction and classification",
+    "License": "MIT",
+    "Added": "2023-08-24",
+    "Updated": "2023-08-24",
+    "Categories": ["Classification", "Integration"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "An integrated Bayesian framework for multi-omics prediction and classification",
+        "DOI": "10.1101/2022.11.06.514786",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "GitHub": "himelmallick/IntegratedLearner"
+  },
+  {
     "Tool": "InterCellar",
     "Platform": "R",
     "Code": "https://github.com/martaint/InterCellar",
@@ -15819,14 +15872,13 @@
         "Title": "LEAP: constructing gene co-expression networks for single-cell RNA-sequencing data using pseudotime ordering",
         "DOI": "10.1093/bioinformatics/btw729",
         "Date": "2016-12-19",
-        "Citations": 54
+        "Citations": 55
       }
     ],
     "Preprints": [],
-    "Citations": 54,
+    "Citations": 55,
     "NumPubs": 1,
-    "NumPreprints": 0,
-    "CRAN": "LEAP"
+    "NumPreprints": 0
   },
   {
     "Tool": "learn2count",
@@ -18063,14 +18115,21 @@
     "GitHub": "pachterlab/monod"
   },
   {
-    "Tool": "Monopopgen",
+    "Tool": "Monopogen",
     "Platform": "Python",
     "Code": "https://github.com/KChen-lab/Monopogen",
     "Description": "Monopogen is an analysis package for population analysis from single-cell sequencing",
     "Added": "2022-12-09",
-    "Updated": "2022-12-09",
+    "Updated": "2023-08-27",
     "Categories": ["Variants"],
-    "Publications": [],
+    "Publications": [
+      {
+        "Title": "Single-nucleotide variant calling in single-cell sequencing data with Monopogen",
+        "DOI": "10.1038/s41587-023-01873-x",
+        "Date": "2023-08-17",
+        "Citations": 0
+      }
+    ],
     "Preprints": [
       {
         "Title": "Monopogen: single nucleotide variant calling from single cell sequencing",
@@ -18079,9 +18138,32 @@
       }
     ],
     "Citations": 0,
-    "NumPubs": 0,
+    "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "KChen-lab/Monopogen"
+  },
+  {
+    "Tool": "mosaicMPI",
+    "Platform": "Python",
+    "Code": "https://github.com/MorrissyLab/mosaicMPI",
+    "Description": "mosaicMPI is a Python package enabling mosaic integration of bulk, single-cell, and spatial expression data through program-level integration",
+    "License": "MIT",
+    "Added": "2023-08-24",
+    "Updated": "2023-08-24",
+    "Categories": ["DimensionalityReduction", "GeneSets", "Integration", "VariableGenes", "Visualisation"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "mosaicMPI: a framework for modular data integration across cohorts and -omics modalities",
+        "DOI": "10.1101/2023.08.18.553919",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "PyPI": "mosaicmpi",
+    "GitHub": "MorrissyLab/mosaicMPI"
   },
   {
     "Tool": "MOSCATO",
@@ -20108,7 +20190,7 @@
     "Description": "Multimodal single cell pipelines",
     "License": "BSD-3-Clause",
     "Added": "2023-03-17",
-    "Updated": "2023-03-17",
+    "Updated": "2023-08-24",
     "Categories": ["Clustering", "Integration", "Normalisation", "QualityControl", "Visualisation"],
     "Publications": [],
     "Preprints": [
@@ -20121,6 +20203,7 @@
     "Citations": 3,
     "NumPubs": 0,
     "NumPreprints": 1,
+    "PyPI": "panpipes",
     "GitHub": "DendrouLab/panpipes"
   },
   {
@@ -21086,6 +21169,29 @@
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "bicciatolab/popsicleR"
+  },
+  {
+    "Tool": "PopV",
+    "Platform": "Python",
+    "Code": "https://github.com/YosefLab/popV",
+    "Description": "PopV uses popular vote of a variety of cell-type transfer tools to classify cell-types in a query dataset based on a test dataset",
+    "License": "MIT",
+    "Added": "2023-08-24",
+    "Updated": "2023-08-24",
+    "Categories": ["Classification", "Visualisation"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "Consensus prediction of cell type labels with popV",
+        "DOI": "10.1101/2023.08.18.553912",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "PyPI": "popv",
+    "GitHub": "YosefLab/popV"
   },
   {
     "Tool": "Portal",
@@ -24605,7 +24711,7 @@
     "Description": "SCAPE is a tool for estimating alternative polyadenylation (APA) events from single-end or pair-end scRNA-seq data",
     "License": "MIT",
     "Added": "2022-03-25",
-    "Updated": "2022-03-25",
+    "Updated": "2023-08-24",
     "Categories": ["AlternativeSplicing", "Quantification"],
     "Publications": [
       {
@@ -24619,6 +24725,7 @@
     "Citations": 8,
     "NumPubs": 1,
     "NumPreprints": 0,
+    "PyPI": "scape-apa",
     "GitHub": "LuChenLab/SCAPE"
   },
   {
@@ -24772,6 +24879,28 @@
     "GitHub": "eudoraleer/scasa"
   },
   {
+    "Tool": "scASfind",
+    "Platform": "R/C++",
+    "Code": "https://github.com/hemberg-lab/scASfind",
+    "Description": "scASfind conducts rapid searching and returns feature-enriched cell types or cell type-specific splicing signatures, respectively",
+    "License": "MIT",
+    "Added": "2023-08-24",
+    "Updated": "2023-08-24",
+    "Categories": ["AlternativeSplicing", "MarkerGenes", "Visualisation"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "Mining alternative splicing patterns in scRNA-seq data using scASfind",
+        "DOI": "10.1101/2023.08.19.553947",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "GitHub": "hemberg-lab/scASfind"
+  },
+  {
     "Tool": "scASK",
     "Platform": "MATLAB",
     "Code": "https://github.com/liubo2358/scASKcmd",
@@ -24819,7 +24948,7 @@
         "Title": "Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",
         "DOI": "10.1093/bioinformatics/btw777",
         "Date": "2017-01-14",
-        "Citations": 766
+        "Citations": 767
       }
     ],
     "Preprints": [
@@ -24829,7 +24958,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 786,
+    "Citations": 787,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scater",
@@ -25200,6 +25329,28 @@
     "GitHub": "satabdisaha1288/scBT"
   },
   {
+    "Tool": "scBTF",
+    "Platform": "Python",
+    "Code": "https://github.com/klarman-cell-observatory/scBTF",
+    "Description": "Robust Bayesian Tensor Factorization with Zero-Inflated Poisson Model and Consensus Aggregation",
+    "License": "MIT",
+    "Added": "2023-08-24",
+    "Updated": "2023-08-24",
+    "Categories": ["DimensionalityReduction"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "Robust Bayesian Tensor Factorization with Zero-Inflated Poisson Model and Consensus Aggregation",
+        "DOI": "arxiv/2308.08060",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "GitHub": "klarman-cell-observatory/scBTF"
+  },
+  {
     "Tool": "scBubbletree",
     "Platform": "R",
     "Code": "https://github.com/snaketron/scBubbletree",
@@ -25353,6 +25504,28 @@
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "wguo-research/scCancer"
+  },
+  {
+    "Tool": "scCancer2",
+    "Platform": "R",
+    "Code": "https://github.com/czythu/scCancer",
+    "Description": "An updated our R toolkit, scCancer, based on massive single-cell transcriptome and spatial transcriptome data",
+    "License": "MIT",
+    "Added": "2023-08-24",
+    "Updated": "2023-08-24",
+    "Categories": ["CellCycle", "Clustering", "GeneNetworks", "Integration", "StemCells", "Visualisation"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "scCancer2: data-driven in-depth annotations of the tumor microenvironment at single-level resolution",
+        "DOI": "10.1101/2023.08.22.554137",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "GitHub": "czythu/scCancer"
   },
   {
     "Tool": "scCaps",
@@ -33088,6 +33261,23 @@
     "GitHub": "ZJUFanLab/scTITANS"
   },
   {
+    "Tool": "scTM",
+    "Platform": "Python",
+    "Code": "https://github.com/JinmiaoChenLab/scTM",
+    "Description": "scTM is a package for spatial transcriptomics for single cell that uses topic modelling, solved with stochastic variational infernce",
+    "License": "MIT",
+    "Added": "2023-08-24",
+    "Updated": "2023-08-24",
+    "Categories": ["DimensionalityReduction", "GeneFiltering", "Integration", "Visualisation"],
+    "Publications": [],
+    "Preprints": [],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 0,
+    "PyPI": "scTM",
+    "GitHub": "JinmiaoChenLab/scTM"
+  },
+  {
     "Tool": "scTOP",
     "Platform": "Python",
     "Code": "https://github.com/Emergent-Behaviors-in-Biology/scTOP",
@@ -33482,7 +33672,7 @@
         "Title": "Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",
         "DOI": "10.1093/bioinformatics/btw777",
         "Date": "2017-01-14",
-        "Citations": 766
+        "Citations": 767
       }
     ],
     "Preprints": [
@@ -33492,7 +33682,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 786,
+    "Citations": 787,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scuttle",
@@ -37549,7 +37739,7 @@
         "Title": "switchde: inference of switch-like differential expression along single-cell trajectories",
         "DOI": "10.1093/bioinformatics/btw798",
         "Date": "2016-12-23",
-        "Citations": 14
+        "Citations": 15
       }
     ],
     "Preprints": [
@@ -37559,7 +37749,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 14,
+    "Citations": 15,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "switchde",
