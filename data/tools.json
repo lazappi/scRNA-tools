@@ -751,7 +751,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 2366
+        "Citations": 2367
       }
     ],
     "Preprints": [
@@ -761,7 +761,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 2374,
+    "Citations": 2375,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "AUCell",
@@ -3741,7 +3741,7 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 1280
+        "Citations": 1281
       }
     ],
     "Preprints": [
@@ -3751,7 +3751,7 @@
         "Citations": 25
       }
     ],
-    "Citations": 1305,
+    "Citations": 1306,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sqjin/CellChat"
@@ -9244,7 +9244,7 @@
         "Title": "DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors",
         "DOI": "10.1016/j.cels.2019.03.003",
         "Date": "2019-04",
-        "Citations": 1135
+        "Citations": 1136
       }
     ],
     "Preprints": [
@@ -9254,7 +9254,7 @@
         "Citations": 22
       }
     ],
-    "Citations": 1157,
+    "Citations": 1158,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "chris-mcginnis-ucsf/DoubletFinder"
@@ -12559,10 +12559,10 @@
       {
         "Title": "Multi-omics integration and regulatory inference for unpaired single-cell data with a graph-linked unified embedding framework",
         "DOI": "10.1101/2021.08.22.457275",
-        "Citations": 4
+        "Citations": 5
       }
     ],
-    "Citations": 83,
+    "Citations": 84,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scglue",
@@ -13366,7 +13366,7 @@
         "Title": "Fast, sensitive and accurate integration of single-cell data with Harmony",
         "DOI": "10.1038/s41592-019-0619-0",
         "Date": "2019-11-18",
-        "Citations": 2379
+        "Citations": 2380
       }
     ],
     "Preprints": [
@@ -13376,7 +13376,7 @@
         "Citations": 71
       }
     ],
-    "Citations": 2450,
+    "Citations": 2451,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "harmony",
@@ -15968,7 +15968,7 @@
         "Title": "Confronting false discoveries in single-cell differential expression",
         "DOI": "10.1038/s41467-021-25960-2",
         "Date": "2021-09-28",
-        "Citations": 212
+        "Citations": 213
       }
     ],
     "Preprints": [
@@ -15978,7 +15978,7 @@
         "Citations": 11
       }
     ],
-    "Citations": 223,
+    "Citations": 224,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "neurorestore/Libra"
@@ -24948,7 +24948,7 @@
         "Title": "Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",
         "DOI": "10.1093/bioinformatics/btw777",
         "Date": "2017-01-14",
-        "Citations": 767
+        "Citations": 768
       }
     ],
     "Preprints": [
@@ -24958,7 +24958,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 787,
+    "Citations": 788,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scater",
@@ -27265,7 +27265,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 2366
+        "Citations": 2367
       },
       {
         "Title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis",
@@ -27281,7 +27281,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 2688,
+    "Citations": 2689,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "pyscenic",
@@ -27433,10 +27433,10 @@
       {
         "Title": "A fast variational algorithm to detect the clonal copy number substructure of tumors from single-cell data",
         "DOI": "10.1101/2021.11.20.469390",
-        "Citations": 3
+        "Citations": 4
       }
     ],
-    "Citations": 9,
+    "Citations": 10,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "AntonioDeFalco/SCEVAN"
@@ -32296,7 +32296,7 @@
         "Title": "Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data",
         "DOI": "10.1016/j.cels.2018.11.005",
         "Date": "2019-04",
-        "Citations": 987
+        "Citations": 988
       }
     ],
     "Preprints": [
@@ -32306,7 +32306,7 @@
         "Citations": 25
       }
     ],
-    "Citations": 1012,
+    "Citations": 1013,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scrublet",
@@ -33672,7 +33672,7 @@
         "Title": "Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",
         "DOI": "10.1093/bioinformatics/btw777",
         "Date": "2017-01-14",
-        "Citations": 767
+        "Citations": 768
       }
     ],
     "Preprints": [
@@ -33682,7 +33682,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 787,
+    "Citations": 788,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scuttle",
@@ -34525,7 +34525,7 @@
         "Title": "Integrated analysis of multimodal single-cell data",
         "DOI": "10.1016/j.cell.2021.04.048",
         "Date": "2021-06",
-        "Citations": 3758
+        "Citations": 3759
       },
       {
         "Title": "Spatial reconstruction of single-cell gene expression data",
@@ -34543,7 +34543,7 @@
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
         "DOI": "10.1186/s13059-019-1874-1",
         "Date": "2019-12-23",
-        "Citations": 1900
+        "Citations": 1901
       }
     ],
     "Preprints": [
@@ -34573,7 +34573,7 @@
         "Citations": 85
       }
     ],
-    "Citations": 24830,
+    "Citations": 24832,
     "NumPubs": 5,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -36276,7 +36276,7 @@
         "Title": "Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics",
         "DOI": "10.1186/s12864-018-4772-0",
         "Date": "2018-06-19",
-        "Citations": 1224
+        "Citations": 1225
       }
     ],
     "Preprints": [
@@ -36286,7 +36286,7 @@
         "Citations": 22
       }
     ],
-    "Citations": 1246,
+    "Citations": 1247,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "slingshot",
@@ -36555,7 +36555,7 @@
         "Title": "Solo: Doublet Identification in Single-Cell RNA-Seq via Semi-Supervised Deep Learning",
         "DOI": "10.1016/j.cels.2020.05.010",
         "Date": "2020-07",
-        "Citations": 78
+        "Citations": 79
       }
     ],
     "Preprints": [
@@ -36565,7 +36565,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 80,
+    "Citations": 81,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "solo-sc",
