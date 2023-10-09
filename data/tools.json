@@ -1422,7 +1422,7 @@
         "Title": "BBKNN: fast batch alignment of single cell transcriptomes",
         "DOI": "10.1093/bioinformatics/btz625",
         "Date": "2019-08-10",
-        "Citations": 327
+        "Citations": 329
       }
     ],
     "Preprints": [
@@ -1432,7 +1432,7 @@
         "Citations": 22
       }
     ],
-    "Citations": 349,
+    "Citations": 351,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "bbknn",
@@ -1744,10 +1744,10 @@
       {
         "Title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
         "DOI": "10.1101/2020.08.11.245795",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 8,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "besca",
@@ -5987,7 +5987,7 @@
         "Title": "Combinatorial prediction of marker panels from single‐cell transcriptomic data",
         "DOI": "10.15252/msb.20199005",
         "Date": "2019-10-24",
-        "Citations": 50
+        "Citations": 51
       }
     ],
     "Preprints": [
@@ -5997,7 +5997,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 53,
+    "Citations": 54,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "COMETSC",
@@ -13894,10 +13894,10 @@
       {
         "Title": "Hypercluster: a flexible tool for parallelized unsupervised clustering optimization",
         "DOI": "10.1101/2020.01.13.905323",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 8,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hypercluster",
@@ -15925,11 +15925,11 @@
         "Title": "LEAP: constructing gene co-expression networks for single-cell RNA-sequencing data using pseudotime ordering",
         "DOI": "10.1093/bioinformatics/btw729",
         "Date": "2016-12-19",
-        "Citations": 79
+        "Citations": 78
       }
     ],
     "Preprints": [],
-    "Citations": 79,
+    "Citations": 78,
     "NumPubs": 1,
     "NumPreprints": 0
   },
@@ -25038,7 +25038,7 @@
         "Title": "Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",
         "DOI": "10.1093/bioinformatics/btw777",
         "Date": "2017-01-14",
-        "Citations": 943
+        "Citations": 944
       }
     ],
     "Preprints": [
@@ -25048,7 +25048,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 963,
+    "Citations": 964,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scater",
@@ -33805,7 +33805,7 @@
         "Title": "Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R",
         "DOI": "10.1093/bioinformatics/btw777",
         "Date": "2017-01-14",
-        "Citations": 943
+        "Citations": 944
       }
     ],
     "Preprints": [
@@ -33815,7 +33815,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 963,
+    "Citations": 964,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scuttle",
@@ -35174,11 +35174,11 @@
         "Title": "SigHotSpotter: scRNA-seq-based computational tool to control cell subpopulation phenotypes for cellular rejuvenation strategies",
         "DOI": "10.1093/bioinformatics/btz827",
         "Date": "2019-11-07",
-        "Citations": 6
+        "Citations": 7
       }
     ],
     "Preprints": [],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 0
   },
