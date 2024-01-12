@@ -3,10 +3,10 @@
     {
       "orientation": "v",
       "width": 0.9,
-      "base": 414,
+      "base": 413,
       "x": [1],
-      "y": [1276],
-      "text": "Count: 1276<br />Type: Published",
+      "y": [1278],
+      "text": "Count: 1278<br />Type: Published",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -30,8 +30,8 @@
       "width": 0.9,
       "base": 106,
       "x": [1],
-      "y": [308],
-      "text": "Count:  308<br />Type: Preprint",
+      "y": [307],
+      "text": "Count:  307<br />Type: Preprint",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -78,8 +78,8 @@
     {
       "x": [1],
       "y": [1052],
-      "text": "Published 75.5%",
-      "hovertext": "Midpoint: 1052<br />Type: Published",
+      "text": "Published 75.6%",
+      "hovertext": "Midpoint: 1052.0<br />Type: Published",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -97,9 +97,9 @@
     },
     {
       "x": [1],
-      "y": [260],
+      "y": [259.5],
       "text": "Preprint 18.2%",
-      "hovertext": "Midpoint:  260<br />Type: Preprint",
+      "hovertext": "Midpoint:  259.5<br />Type: Preprint",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -119,7 +119,7 @@
       "x": [1],
       "y": [53],
       "text": "Not published 6.3%",
-      "hovertext": "Midpoint:   53<br />Type: Not published",
+      "hovertext": "Midpoint:   53.0<br />Type: Not published",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -194,7 +194,7 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-84.5, 1774.5],
+      "range": [-84.55, 1775.55],
       "tickmode": "array",
       "ticktext": ["0", "500", "1000", "1500"],
       "tickvals": [0, 500, 1000, 1500],
@@ -271,23 +271,23 @@
   },
   "source": "A",
   "attrs": {
-    "2bd02a76ecbc": {
+    "2c1a2a24307c": {
       "x": {},
       "y": {},
       "fill": {},
       "type": "bar"
     },
-    "2bd028577bdf": {
+    "2c1a60a8e9ef": {
       "x": {},
       "y": {},
       "fill": {},
       "label": {}
     }
   },
-  "cur_data": "2bd02a76ecbc",
+  "cur_data": "2c1a2a24307c",
   "visdat": {
-    "2bd02a76ecbc": ["function (y) ", "x"],
-    "2bd028577bdf": ["function (y) ", "x"]
+    "2c1a2a24307c": ["function (y) ", "x"],
+    "2c1a60a8e9ef": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
