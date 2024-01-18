@@ -271,23 +271,23 @@
   },
   "source": "A",
   "attrs": {
-    "2bee4865c36b": {
+    "2bdc4b3f2fe5": {
       "x": {},
       "y": {},
       "fill": {},
       "type": "bar"
     },
-    "2bee4496cbcc": {
+    "2bdc6ad1ee9f": {
       "x": {},
       "y": {},
       "fill": {},
       "label": {}
     }
   },
-  "cur_data": "2bee4865c36b",
+  "cur_data": "2bdc4b3f2fe5",
   "visdat": {
-    "2bee4865c36b": ["function (y) ", "x"],
-    "2bee4496cbcc": ["function (y) ", "x"]
+    "2bdc4b3f2fe5": ["function (y) ", "x"],
+    "2bdc6ad1ee9f": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
