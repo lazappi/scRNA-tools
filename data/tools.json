@@ -820,7 +820,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 2844
+        "Citations": 2845
       }
     ],
     "Preprints": [
@@ -830,7 +830,7 @@
         "Citations": 10
       }
     ],
-    "Citations": 2854,
+    "Citations": 2855,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "AUCell",
@@ -4080,7 +4080,7 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 1901
+        "Citations": 1903
       }
     ],
     "Preprints": [
@@ -4095,7 +4095,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 1928,
+    "Citations": 1930,
     "NumPubs": 1,
     "NumPreprints": 2,
     "GitHub": "jinworks/CellChat"
@@ -4614,7 +4614,7 @@
         "Title": "Learning single-cell perturbation responses using neural optimal transport",
         "DOI": "10.1038/s41592-023-01969-x",
         "Date": "2023-09-28",
-        "Citations": 3
+        "Citations": 4
       }
     ],
     "Preprints": [
@@ -4624,7 +4624,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "bunnech/cellot"
@@ -4679,7 +4679,7 @@
         "Title": "CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes",
         "DOI": "10.1038/s41596-020-0292-x",
         "Date": "2020-02-26",
-        "Citations": 1615
+        "Citations": 1616
       }
     ],
     "Preprints": [
@@ -4699,7 +4699,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 3085,
+    "Citations": 3086,
     "NumPubs": 2,
     "NumPreprints": 3,
     "PyPI": "cellphonedb",
@@ -4758,7 +4758,7 @@
         "Title": "Massively parallel digital transcriptional profiling of single cells",
         "DOI": "10.1038/ncomms14049",
         "Date": "2017-01-16",
-        "Citations": 4048
+        "Citations": 4049
       }
     ],
     "Preprints": [
@@ -4768,7 +4768,7 @@
         "Citations": 22
       }
     ],
-    "Citations": 4070,
+    "Citations": 4071,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "10XGenomics/cellranger"
@@ -14446,7 +14446,7 @@
         "Title": "Fast, sensitive and accurate integration of single-cell data with Harmony",
         "DOI": "10.1038/s41592-019-0619-0",
         "Date": "2019-11-18",
-        "Citations": 3137
+        "Citations": 3138
       }
     ],
     "Preprints": [
@@ -14456,7 +14456,7 @@
         "Citations": 76
       }
     ],
-    "Citations": 3213,
+    "Citations": 3214,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "harmony",
@@ -16603,7 +16603,7 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 6554
+        "Citations": 6555
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
@@ -16645,7 +16645,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 6986,
+    "Citations": 6987,
     "NumPubs": 3,
     "NumPreprints": 5,
     "GitHub": "pachterlab/kallisto"
@@ -19469,7 +19469,7 @@
         "Title": "Reversed graph embedding resolves complex single-cell trajectories",
         "DOI": "10.1038/nmeth.4402",
         "Date": "2017-08-21",
-        "Citations": 2438
+        "Citations": 2439
       }
     ],
     "Preprints": [
@@ -19479,7 +19479,7 @@
         "Citations": 51
       }
     ],
-    "Citations": 7870,
+    "Citations": 7871,
     "NumPubs": 3,
     "NumPreprints": 1,
     "Bioc": "monocle",
@@ -20515,10 +20515,10 @@
       {
         "Title": "Nebulosa recovers single cell gene expression signals by kernel density estimation",
         "DOI": "10.1101/2020.09.29.315879",
-        "Citations": 15
+        "Citations": 16
       }
     ],
-    "Citations": 129,
+    "Citations": 130,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "Nebulosa",
@@ -24692,7 +24692,7 @@
         "Title": "The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads",
         "DOI": "10.1093/nar/gkz114",
         "Date": "2019-02-20",
-        "Citations": 1570
+        "Citations": 1571
       }
     ],
     "Preprints": [
@@ -24702,7 +24702,7 @@
         "Citations": 33
       }
     ],
-    "Citations": 1603,
+    "Citations": 1604,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "Rsubread"
@@ -24941,7 +24941,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 6700
+        "Citations": 6702
       },
       {
         "Title": "A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification",
@@ -24973,7 +24973,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 6989,
+    "Citations": 6991,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -29312,7 +29312,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 2844
+        "Citations": 2845
       },
       {
         "Title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis",
@@ -29328,7 +29328,7 @@
         "Citations": 10
       }
     ],
-    "Citations": 3300,
+    "Citations": 3301,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "pyscenic",
@@ -37242,7 +37242,7 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 9010
+        "Citations": 9012
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
@@ -37302,7 +37302,7 @@
         "Citations": 85
       }
     ],
-    "Citations": 29135,
+    "Citations": 29137,
     "NumPubs": 6,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -38608,7 +38608,7 @@
         "Title": "Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage",
         "DOI": "10.1038/s41590-018-0276-y",
         "Date": "2019-01-14",
-        "Citations": 2105
+        "Citations": 2106
       }
     ],
     "Preprints": [
@@ -38618,7 +38618,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 2109,
+    "Citations": 2110,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "SingleR",
@@ -39557,7 +39557,7 @@
         "Title": "Extracting a cellular hierarchy from high-dimensional cytometry data with SPADE",
         "DOI": "10.1038/nbt.1991",
         "Date": "2011-10-02",
-        "Citations": 804
+        "Citations": 805
       },
       {
         "Title": "Visualization and cellular hierarchy inference of single-cell data using SPADE",
@@ -39567,7 +39567,7 @@
       }
     ],
     "Preprints": [],
-    "Citations": 898,
+    "Citations": 899,
     "NumPubs": 2,
     "NumPreprints": 0,
     "GitHub": "nolanlab/spade"
@@ -40313,7 +40313,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 31737
+        "Citations": 31739
       }
     ],
     "Preprints": [
@@ -40323,7 +40323,7 @@
         "Citations": 140
       }
     ],
-    "Citations": 31877,
+    "Citations": 31879,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
