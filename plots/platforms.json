@@ -361,7 +361,7 @@
   },
   "source": "A",
   "attrs": {
-    "287b7899e4db": {
+    "288825a96302": {
       "x": {},
       "y": {},
       "fill": {},
@@ -369,7 +369,7 @@
       "text": {},
       "type": "bar"
     },
-    "287b346b0f8": {
+    "288879c3c721": {
       "x": {},
       "y": {},
       "fill": {},
@@ -378,10 +378,10 @@
       "label": {}
     }
   },
-  "cur_data": "287b7899e4db",
+  "cur_data": "288825a96302",
   "visdat": {
-    "287b7899e4db": ["function (y) ", "x"],
-    "287b346b0f8": ["function (y) ", "x"]
+    "288825a96302": ["function (y) ", "x"],
+    "288879c3c721": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
