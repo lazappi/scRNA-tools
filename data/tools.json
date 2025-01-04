@@ -12066,7 +12066,7 @@
         "Title": "EMBEDR: Distinguishing signal from noise in single-cell omics data",
         "DOI": "10.1016/j.patter.2022.100443",
         "Date": "2022-03",
-        "Citations": 17
+        "Citations": 16
       }
     ],
     "Preprints": [
@@ -12076,7 +12076,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 18,
+    "Citations": 17,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ejohnson643/EMBEDR"
@@ -13046,11 +13046,11 @@
         "Title": "Accurate feature selection improves single-cell RNA-seq cell clustering",
         "DOI": "10.1093/bib/bbab034",
         "Date": "2021-02-22",
-        "Citations": 39
+        "Citations": 40
       }
     ],
     "Preprints": [],
-    "Citations": 39,
+    "Citations": 40,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "FEAST",
@@ -21845,7 +21845,7 @@
         "Title": "netSmooth: Network-smoothing based imputation for single cell RNA-seq",
         "DOI": "10.12688/f1000research.13511.2",
         "Date": "2018-01-24",
-        "Citations": 6
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -21855,7 +21855,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 7,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "netSmooth",
@@ -24025,11 +24025,11 @@
         "Title": "popsicleR: a R Package for pre-processing and quality control analysis of single cell RNA-seq data",
         "DOI": "10.1016/j.jmb.2022.167560",
         "Date": "2022-03",
-        "Citations": 13
+        "Citations": 14
       }
     ],
     "Preprints": [],
-    "Citations": 13,
+    "Citations": 14,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "bicciatolab/popsicleR"
@@ -33669,7 +33669,7 @@
         "Title": "scMAPA: Identification of cell-type–specific alternative polyadenylation in complex tissues",
         "DOI": "10.1093/gigascience/giac033",
         "Date": "2022-04-30",
-        "Citations": 3
+        "Citations": 4
       }
     ],
     "Preprints": [
@@ -33679,7 +33679,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 3,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ybai3/scMAPA"
@@ -39048,11 +39048,11 @@
         "Title": "SelfE: Gene Selection via Self-Expression for Single-Cell Data",
         "DOI": "10.1109/TCBB.2020.2997326",
         "Date": "2020",
-        "Citations": 1
+        "Citations": 2
       }
     ],
     "Preprints": [],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "Priyadarshini-Rai/SelfE"
@@ -39389,7 +39389,7 @@
       {
         "Title": "Comprehensive integration of single cell data",
         "DOI": "10.1101/460147",
-        "Citations": 126
+        "Citations": 127
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
@@ -39397,7 +39397,7 @@
         "Citations": 97
       }
     ],
-    "Citations": 39133,
+    "Citations": 39134,
     "NumPubs": 6,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -41467,7 +41467,7 @@
         "Title": "Ensemble deep learning of embeddings for clustering multimodal single-cell omics data",
         "DOI": "10.1093/bioinformatics/btad382",
         "Date": "2023-06-01",
-        "Citations": 4
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -41477,7 +41477,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 4,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "SnapCCESS",
@@ -44259,7 +44259,7 @@
         "Title": "Data-driven identification of total RNA expression genes for estimation of RNA abundance in heterogeneous cell types highlighted in brain tissue",
         "DOI": "10.1186/s13059-023-03066-w",
         "Date": "2023-10-16",
-        "Citations": 3
+        "Citations": 2
       }
     ],
     "Preprints": [
@@ -44269,7 +44269,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 7,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "TREG",
@@ -44387,7 +44387,7 @@
         "Title": "Triku: a feature selection method based on nearest neighbors for single-cell data",
         "DOI": "10.1093/gigascience/giac017",
         "Date": "2022",
-        "Citations": 15
+        "Citations": 16
       }
     ],
     "Preprints": [
@@ -44397,7 +44397,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 18,
+    "Citations": 19,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "triku"
