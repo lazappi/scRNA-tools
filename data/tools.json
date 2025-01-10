@@ -12551,7 +12551,7 @@
         "Title": "eSVD-DE: cohort-wide differential expression in single-cell RNA-seq data using exponential-family embeddings",
         "DOI": "10.1186/s12859-024-05724-7",
         "Date": "2024-03-15",
-        "Citations": 1
+        "Citations": 0
       }
     ],
     "Preprints": [
@@ -12561,7 +12561,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "linnykos/eSVD2"
@@ -13046,11 +13046,11 @@
         "Title": "Accurate feature selection improves single-cell RNA-seq cell clustering",
         "DOI": "10.1093/bib/bbab034",
         "Date": "2021-02-22",
-        "Citations": 40
+        "Citations": 39
       }
     ],
     "Preprints": [],
-    "Citations": 40,
+    "Citations": 39,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "FEAST",
@@ -13922,10 +13922,10 @@
       {
         "Title": "Gene-level alignment of single cell trajectories informs the progression of<i>in vitro<\/i>T cell differentiation",
         "DOI": "10.1101/2023.03.08.531713",
-        "Citations": 6
+        "Citations": 5
       }
     ],
-    "Citations": 6,
+    "Citations": 5,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "genes2genes",
@@ -17794,10 +17794,10 @@
       {
         "Title": "Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data",
         "DOI": "10.1101/794503",
-        "Citations": 3
+        "Citations": 2
       }
     ],
-    "Citations": 84,
+    "Citations": 83,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "epigen/KPNN"
@@ -19427,7 +19427,7 @@
       {
         "Title": "MEBOCOST: Metabolite-mediated Cell Communication Modeling by Single Cell Transcriptome",
         "DOI": "10.1101/2022.05.30.494067",
-        "Citations": 26
+        "Citations": 25
       },
       {
         "Title": "MEBOCOST: Metabolite-mediated Cell Communication Modeling by Single Cell Transcriptome",
@@ -19435,7 +19435,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 26,
+    "Citations": 25,
     "NumPubs": 0,
     "NumPreprints": 2,
     "GitHub": "zhengrongbin/MEBOCOST"
@@ -21845,7 +21845,7 @@
         "Title": "netSmooth: Network-smoothing based imputation for single cell RNA-seq",
         "DOI": "10.12688/f1000research.13511.2",
         "Date": "2018-01-24",
-        "Citations": 5
+        "Citations": 6
       }
     ],
     "Preprints": [
@@ -21855,7 +21855,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "netSmooth",
@@ -22158,11 +22158,11 @@
         "Title": "Robust classification of single-cell transcriptome data by nonnegative matrix factorization",
         "DOI": "10.1093/bioinformatics/btw607",
         "Date": "2016-09-23",
-        "Citations": 100
+        "Citations": 99
       }
     ],
     "Preprints": [],
-    "Citations": 100,
+    "Citations": 99,
     "NumPubs": 1,
     "NumPreprints": 0,
     "PyPI": "nimfa",
@@ -26815,7 +26815,7 @@
         "Title": "sc-REnF: An entropy guided robust feature selection for single-cell RNA-seq data",
         "DOI": "10.1093/bib/bbab517",
         "Date": "2022-01-17",
-        "Citations": 12
+        "Citations": 13
       }
     ],
     "Preprints": [
@@ -26830,7 +26830,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 16,
+    "Citations": 17,
     "NumPubs": 1,
     "NumPreprints": 2,
     "GitHub": "Snehalikalall/sc-REnF"
@@ -27342,7 +27342,7 @@
         "Title": "SCALE: modeling allele-specific gene expression by single-cell RNA sequencing",
         "DOI": "10.1186/s13059-017-1200-8",
         "Date": "2017-04-26",
-        "Citations": 90
+        "Citations": 89
       }
     ],
     "Preprints": [
@@ -27352,7 +27352,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 91,
+    "Citations": 90,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "yuchaojiang/SCALE"
@@ -33669,7 +33669,7 @@
         "Title": "scMAPA: Identification of cell-type–specific alternative polyadenylation in complex tissues",
         "DOI": "10.1093/gigascience/giac033",
         "Date": "2022-04-30",
-        "Citations": 4
+        "Citations": 3
       }
     ],
     "Preprints": [
@@ -33679,7 +33679,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 4,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ybai3/scMAPA"
@@ -37174,10 +37174,10 @@
       {
         "Title": "scShapes: A statistical framework for identifying distribution shapes in single-cell RNA-sequencing data",
         "DOI": "10.1101/2022.02.13.480299",
-        "Citations": 2
+        "Citations": 3
       }
     ],
-    "Citations": 4,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scShapes",
@@ -39106,7 +39106,7 @@
         "Title": "Cluster-independent marker feature identification from single-cell omics data using SEMITONES",
         "DOI": "10.1093/nar/gkac639",
         "Date": "2022-07-31",
-        "Citations": 8
+        "Citations": 9
       }
     ],
     "Preprints": [
@@ -39116,7 +39116,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 10,
+    "Citations": 11,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ohlerlab/SEMITONES"
@@ -39389,7 +39389,7 @@
       {
         "Title": "Comprehensive integration of single cell data",
         "DOI": "10.1101/460147",
-        "Citations": 126
+        "Citations": 127
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
@@ -39397,7 +39397,7 @@
         "Citations": 97
       }
     ],
-    "Citations": 39133,
+    "Citations": 39134,
     "NumPubs": 6,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -41467,7 +41467,7 @@
         "Title": "Ensemble deep learning of embeddings for clustering multimodal single-cell omics data",
         "DOI": "10.1093/bioinformatics/btad382",
         "Date": "2023-06-01",
-        "Citations": 5
+        "Citations": 4
       }
     ],
     "Preprints": [
@@ -41477,7 +41477,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 5,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "SnapCCESS",
@@ -44416,11 +44416,11 @@
         "Title": "TripletCell: a deep metric learning framework for accurate annotation of cell types at the single-cell level",
         "DOI": "10.1093/bib/bbad132",
         "Date": "2023-04-20",
-        "Citations": 4
+        "Citations": 6
       }
     ],
     "Preprints": [],
-    "Citations": 4,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "liuyan3056/TripletCell"
@@ -46198,10 +46198,10 @@
       {
         "Title": "Vulture: Cloud-enabled scalable mining of microbial reads in public scRNA-seq data",
         "DOI": "10.1101/2023.02.13.528411",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "holab-hku/Vulture"
