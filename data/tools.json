@@ -13072,11 +13072,11 @@
         "Title": "Accurate feature selection improves single-cell RNA-seq cell clustering",
         "DOI": "10.1093/bib/bbab034",
         "Date": "2021-02-22",
-        "Citations": 40
+        "Citations": 39
       }
     ],
     "Preprints": [],
-    "Citations": 40,
+    "Citations": 39,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "FEAST",
@@ -13948,10 +13948,10 @@
       {
         "Title": "Gene-level alignment of single cell trajectories informs the progression of<i>in vitro<\/i>T cell differentiation",
         "DOI": "10.1101/2023.03.08.531713",
-        "Citations": 5
+        "Citations": 6
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "genes2genes",
@@ -22372,7 +22372,7 @@
         "Title": "A machine learning method for the discovery of minimum marker gene combinations for cell type identification from single-cell RNA sequencing",
         "DOI": "10.1101/gr.275569.121",
         "Date": "2021-06-04",
-        "Citations": 57
+        "Citations": 58
       }
     ],
     "Preprints": [
@@ -22382,7 +22382,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 65,
+    "Citations": 66,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "nsforest",
@@ -28991,7 +28991,7 @@
         "Title": "scCancer2: data-driven in-depth annotations of the tumor microenvironment at single-level resolution",
         "DOI": "10.1093/bioinformatics/btae028",
         "Date": "2024-01-18",
-        "Citations": 1
+        "Citations": 0
       }
     ],
     "Preprints": [
@@ -29001,7 +29001,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "czythu/scCancer"
@@ -33721,7 +33721,7 @@
         "Title": "scMAPA: Identification of cell-type–specific alternative polyadenylation in complex tissues",
         "DOI": "10.1093/gigascience/giac033",
         "Date": "2022-04-30",
-        "Citations": 4
+        "Citations": 3
       }
     ],
     "Preprints": [
@@ -33731,7 +33731,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 4,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ybai3/scMAPA"
@@ -39100,11 +39100,11 @@
         "Title": "SelfE: Gene Selection via Self-Expression for Single-Cell Data",
         "DOI": "10.1109/TCBB.2020.2997326",
         "Date": "2020",
-        "Citations": 1
+        "Citations": 2
       }
     ],
     "Preprints": [],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "Priyadarshini-Rai/SelfE"
@@ -41520,7 +41520,7 @@
         "Title": "Ensemble deep learning of embeddings for clustering multimodal single-cell omics data",
         "DOI": "10.1093/bioinformatics/btad382",
         "Date": "2023-06-01",
-        "Citations": 5
+        "Citations": 4
       }
     ],
     "Preprints": [
@@ -41530,7 +41530,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "SnapCCESS",
@@ -44469,11 +44469,11 @@
         "Title": "TripletCell: a deep metric learning framework for accurate annotation of cell types at the single-cell level",
         "DOI": "10.1093/bib/bbad132",
         "Date": "2023-04-20",
-        "Citations": 6
+        "Citations": 4
       }
     ],
     "Preprints": [],
-    "Citations": 6,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "liuyan3056/TripletCell"
@@ -46251,10 +46251,10 @@
       {
         "Title": "Vulture: Cloud-enabled scalable mining of microbial reads in public scRNA-seq data",
         "DOI": "10.1101/2023.02.13.528411",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "holab-hku/Vulture"
