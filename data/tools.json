@@ -13072,11 +13072,11 @@
         "Title": "Accurate feature selection improves single-cell RNA-seq cell clustering",
         "DOI": "10.1093/bib/bbab034",
         "Date": "2021-02-22",
-        "Citations": 39
+        "Citations": 40
       }
     ],
     "Preprints": [],
-    "Citations": 39,
+    "Citations": 40,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "FEAST",
@@ -19453,7 +19453,7 @@
       {
         "Title": "MEBOCOST: Metabolite-mediated Cell Communication Modeling by Single Cell Transcriptome",
         "DOI": "10.1101/2022.05.30.494067",
-        "Citations": 25
+        "Citations": 26
       },
       {
         "Title": "MEBOCOST: Metabolite-mediated Cell Communication Modeling by Single Cell Transcriptome",
@@ -19461,7 +19461,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 25,
+    "Citations": 26,
     "NumPubs": 0,
     "NumPreprints": 2,
     "GitHub": "zhengrongbin/MEBOCOST"
@@ -28991,7 +28991,7 @@
         "Title": "scCancer2: data-driven in-depth annotations of the tumor microenvironment at single-level resolution",
         "DOI": "10.1093/bioinformatics/btae028",
         "Date": "2024-01-18",
-        "Citations": 0
+        "Citations": 1
       }
     ],
     "Preprints": [
@@ -29001,7 +29001,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 0,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "czythu/scCancer"
@@ -37219,7 +37219,7 @@
         "Title": "<i>scShapes:<\/i> a statistical framework for identifying distribution shapes in single-cell RNA-sequencing data",
         "DOI": "10.1093/gigascience/giac126",
         "Date": "2022-12-28",
-        "Citations": 3
+        "Citations": 2
       }
     ],
     "Preprints": [
@@ -37229,7 +37229,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 5,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scShapes",
@@ -41520,7 +41520,7 @@
         "Title": "Ensemble deep learning of embeddings for clustering multimodal single-cell omics data",
         "DOI": "10.1093/bioinformatics/btad382",
         "Date": "2023-06-01",
-        "Citations": 4
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -41530,7 +41530,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "SnapCCESS",
@@ -44312,7 +44312,7 @@
         "Title": "Data-driven identification of total RNA expression genes for estimation of RNA abundance in heterogeneous cell types highlighted in brain tissue",
         "DOI": "10.1186/s13059-023-03066-w",
         "Date": "2023-10-16",
-        "Citations": 2
+        "Citations": 3
       }
     ],
     "Preprints": [
@@ -44322,7 +44322,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "TREG",
@@ -44469,11 +44469,11 @@
         "Title": "TripletCell: a deep metric learning framework for accurate annotation of cell types at the single-cell level",
         "DOI": "10.1093/bib/bbad132",
         "Date": "2023-04-20",
-        "Citations": 4
+        "Citations": 6
       }
     ],
     "Preprints": [],
-    "Citations": 4,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "liuyan3056/TripletCell"
@@ -46251,10 +46251,10 @@
       {
         "Title": "Vulture: Cloud-enabled scalable mining of microbial reads in public scRNA-seq data",
         "DOI": "10.1101/2023.02.13.528411",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "holab-hku/Vulture"
@@ -46751,10 +46751,10 @@
       {
         "Title": "zUMIs - A fast and flexible pipeline to process RNA sequencing data with UMIs",
         "DOI": "10.1101/153940",
-        "Citations": 19
+        "Citations": 20
       }
     ],
-    "Citations": 318,
+    "Citations": 319,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sdparekh/zUMIs"
