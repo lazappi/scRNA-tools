@@ -13072,11 +13072,11 @@
         "Title": "Accurate feature selection improves single-cell RNA-seq cell clustering",
         "DOI": "10.1093/bib/bbab034",
         "Date": "2021-02-22",
-        "Citations": 40
+        "Citations": 39
       }
     ],
     "Preprints": [],
-    "Citations": 40,
+    "Citations": 39,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "FEAST",
@@ -19453,7 +19453,7 @@
       {
         "Title": "MEBOCOST: Metabolite-mediated Cell Communication Modeling by Single Cell Transcriptome",
         "DOI": "10.1101/2022.05.30.494067",
-        "Citations": 25
+        "Citations": 26
       },
       {
         "Title": "MEBOCOST: Metabolite-mediated Cell Communication Modeling by Single Cell Transcriptome",
@@ -19461,7 +19461,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 25,
+    "Citations": 26,
     "NumPubs": 0,
     "NumPreprints": 2,
     "GitHub": "zhengrongbin/MEBOCOST"
@@ -21872,7 +21872,7 @@
         "Title": "netSmooth: Network-smoothing based imputation for single cell RNA-seq",
         "DOI": "10.12688/f1000research.13511.2",
         "Date": "2018-01-24",
-        "Citations": 6
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -21882,7 +21882,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 7,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "netSmooth",
@@ -33721,7 +33721,7 @@
         "Title": "scMAPA: Identification of cell-type–specific alternative polyadenylation in complex tissues",
         "DOI": "10.1093/gigascience/giac033",
         "Date": "2022-04-30",
-        "Citations": 4
+        "Citations": 3
       }
     ],
     "Preprints": [
@@ -33731,7 +33731,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 4,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ybai3/scMAPA"
@@ -41520,7 +41520,7 @@
         "Title": "Ensemble deep learning of embeddings for clustering multimodal single-cell omics data",
         "DOI": "10.1093/bioinformatics/btad382",
         "Date": "2023-06-01",
-        "Citations": 4
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -41530,7 +41530,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "SnapCCESS",
@@ -46751,10 +46751,10 @@
       {
         "Title": "zUMIs - A fast and flexible pipeline to process RNA sequencing data with UMIs",
         "DOI": "10.1101/153940",
-        "Citations": 20
+        "Citations": 19
       }
     ],
-    "Citations": 319,
+    "Citations": 318,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sdparekh/zUMIs"
