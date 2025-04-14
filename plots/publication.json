@@ -3,10 +3,10 @@
     {
       "orientation": "v",
       "width": 0.9,
-      "base": 454,
+      "base": 350,
       "x": [1],
-      "y": [1359],
-      "text": "Count: 1359<br />Type: Published",
+      "y": [1463],
+      "text": "Count: 1463<br />Type: Published",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -30,8 +30,8 @@
       "width": 0.9,
       "base": 121,
       "x": [1],
-      "y": [333],
-      "text": "Count:  333<br />Type: Preprint",
+      "y": [229],
+      "text": "Count:  229<br />Type: Preprint",
       "type": "bar",
       "textposition": "none",
       "marker": {
@@ -77,9 +77,9 @@
     },
     {
       "x": [1],
-      "y": [1133.5],
-      "text": "Published 75%",
-      "hovertext": "Midpoint: 1133.5<br />Type: Published",
+      "y": [1081.5],
+      "text": "Published 80.7%",
+      "hovertext": "Midpoint: 1081.5<br />Type: Published",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -97,9 +97,9 @@
     },
     {
       "x": [1],
-      "y": [287.5],
-      "text": "Preprint 18.4%",
-      "hovertext": "Midpoint:  287.5<br />Type: Preprint",
+      "y": [235.5],
+      "text": "Preprint 12.6%",
+      "hovertext": "Midpoint:  235.5<br />Type: Preprint",
       "textfont": {
         "size": 22.6771653543307,
         "color": "rgba(255,255,255,1)"
@@ -271,23 +271,23 @@
   },
   "source": "A",
   "attrs": {
-    "28297c1eb425": {
+    "292336eab62a": {
       "x": {},
       "y": {},
       "fill": {},
       "type": "bar"
     },
-    "2829923da6": {
+    "292347e71ac8": {
       "x": {},
       "y": {},
       "fill": {},
       "label": {}
     }
   },
-  "cur_data": "28297c1eb425",
+  "cur_data": "292336eab62a",
   "visdat": {
-    "28297c1eb425": ["function (y) ", "x"],
-    "2829923da6": ["function (y) ", "x"]
+    "292336eab62a": ["function (y) ", "x"],
+    "292347e71ac8": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
