@@ -985,7 +985,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 4233
+        "Citations": 4237
       }
     ],
     "Preprints": [
@@ -995,7 +995,7 @@
         "Citations": 18
       }
     ],
-    "Citations": 4251,
+    "Citations": 4255,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "AUCell",
@@ -1222,11 +1222,11 @@
         "Title": "BALDR: a computational pipeline for paired heavy and light chain immunoglobulin reconstruction in single-cell RNA-seq data",
         "DOI": "10.1186/s13073-018-0528-3",
         "Date": "2018-03-20",
-        "Citations": 65
+        "Citations": 66
       }
     ],
     "Preprints": [],
-    "Citations": 65,
+    "Citations": 66,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "BosingerLab/BALDR"
@@ -1401,11 +1401,11 @@
         "Title": "BASIC: BCR assembly from single cells",
         "DOI": "10.1093/bioinformatics/btw631",
         "Date": "2016-10-02",
-        "Citations": 94
+        "Citations": 95
       }
     ],
     "Preprints": [],
-    "Citations": 94,
+    "Citations": 95,
     "NumPubs": 1,
     "NumPreprints": 0
   },
@@ -1567,7 +1567,7 @@
         "Title": "Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors",
         "DOI": "10.1038/nbt.4091",
         "Date": "2018-04-02",
-        "Citations": 1962
+        "Citations": 1964
       }
     ],
     "Preprints": [
@@ -1577,7 +1577,7 @@
         "Citations": 19
       }
     ],
-    "Citations": 1981,
+    "Citations": 1983,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "batchelor",
@@ -1648,7 +1648,7 @@
         "Title": "Cell type and gene expression deconvolution with BayesPrism enables Bayesian integrative analysis across bulk and single-cell RNA sequencing in oncology",
         "DOI": "10.1038/s43018-022-00356-3",
         "Date": "2022-04",
-        "Citations": 296
+        "Citations": 297
       }
     ],
     "Preprints": [
@@ -1658,7 +1658,7 @@
         "Citations": 10
       }
     ],
-    "Citations": 306,
+    "Citations": 307,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "Danko-Lab/TED"
@@ -1901,7 +1901,7 @@
         "Title": "Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data",
         "DOI": "10.1038/s41592-019-0690-6",
         "Date": "2020-01-06",
-        "Citations": 545
+        "Citations": 546
       }
     ],
     "Preprints": [
@@ -1911,7 +1911,7 @@
         "Citations": 18
       }
     ],
-    "Citations": 563,
+    "Citations": 564,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "murali-group/Beeline"
@@ -1953,11 +1953,11 @@
         "Title": "A novel approach to remove the batch effect of single-cell data",
         "DOI": "10.1038/s41421-019-0114-x",
         "Date": "2019-09-24",
-        "Citations": 48
+        "Citations": 49
       }
     ],
     "Preprints": [],
-    "Citations": 48,
+    "Citations": 49,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "beer",
@@ -2298,17 +2298,17 @@
         "Title": "Disentanglement of single-cell data with biolord",
         "DOI": "10.1038/s41587-023-02079-x",
         "Date": "2024-01-15",
-        "Citations": 12
+        "Citations": 13
       }
     ],
     "Preprints": [
       {
         "Title": "Biological representation disentanglement of single-cell data",
         "DOI": "10.1101/2023.03.05.531195",
-        "Citations": 2
+        "Citations": 3
       }
     ],
-    "Citations": 14,
+    "Citations": 16,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "biolord",
@@ -2770,11 +2770,11 @@
         "Title": "A Single-Cell Transcriptomic Map of the Human and Mouse Pancreas Reveals Inter- and Intra-cell Population Structure",
         "DOI": "10.1016/j.cels.2016.08.011",
         "Date": "2016-10",
-        "Citations": 1239
+        "Citations": 1240
       }
     ],
     "Preprints": [],
-    "Citations": 1239,
+    "Citations": 1240,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "shenorrLab/bseqsc"
@@ -2846,13 +2846,13 @@
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
         "DOI": "10.1038/s41587-021-00870-2",
         "Date": "2021-04-01",
-        "Citations": 337
+        "Citations": 338
       },
       {
         "Title": "kallisto, bustools and kb-python for quantifying bulk, single-cell and single-nucleus RNA-seq",
         "DOI": "10.1038/s41596-024-01057-0",
         "Date": "2024-10-10",
-        "Citations": 6
+        "Citations": 7
       },
       {
         "Title": "The barcode, UMI, set format and BUStools",
@@ -2878,7 +2878,7 @@
         "Citations": 83
       }
     ],
-    "Citations": 580,
+    "Citations": 582,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "BUStools/bustools"
@@ -3274,7 +3274,7 @@
         "Title": "Capybara: A computational tool to measure cell identity and fate transitions",
         "DOI": "10.1016/j.stem.2022.03.001",
         "Date": "2022-04",
-        "Citations": 37
+        "Citations": 38
       }
     ],
     "Preprints": [
@@ -3284,7 +3284,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 42,
+    "Citations": 43,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "morris-lab/Capybara"
@@ -3302,7 +3302,7 @@
         "Title": "One model fits all: Combining inference and simulation of gene regulatory networks",
         "DOI": "10.1371/journal.pcbi.1010962",
         "Date": "2023-03-27",
-        "Citations": 16
+        "Citations": 17
       }
     ],
     "Preprints": [
@@ -3312,7 +3312,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 18,
+    "Citations": 19,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "cardamom"
@@ -3776,11 +3776,11 @@
         "Title": "CCPlotR: an R package for the visualization of cell–cell interactions",
         "DOI": "10.1093/bioadv/vbad130",
         "Date": "2023-09-20",
-        "Citations": 6
+        "Citations": 7
       }
     ],
     "Preprints": [],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "CCPlotR",
@@ -4067,13 +4067,13 @@
         "Title": "Context-aware deconvolution of cell–cell communication with Tensor-cell2cell",
         "DOI": "10.1038/s41467-022-31369-2",
         "Date": "2022-06-27",
-        "Citations": 63
+        "Citations": 64
       },
       {
         "Title": "Inferring a spatial code of cell-cell interactions across a whole animal body",
         "DOI": "10.1371/journal.pcbi.1010715",
         "Date": "2022-11-17",
-        "Citations": 28
+        "Citations": 29
       }
     ],
     "Preprints": [
@@ -4088,7 +4088,7 @@
         "Citations": 9
       }
     ],
-    "Citations": 114,
+    "Citations": 116,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "cell2cell",
@@ -4137,7 +4137,7 @@
         "Title": "Cell2location maps fine-grained cell types in spatial transcriptomics",
         "DOI": "10.1038/s41587-021-01139-4",
         "Date": "2022-01-13",
-        "Citations": 696
+        "Citations": 697
       }
     ],
     "Preprints": [
@@ -4147,7 +4147,7 @@
         "Citations": 69
       }
     ],
-    "Citations": 765,
+    "Citations": 766,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "cell2location",
@@ -4212,10 +4212,10 @@
       {
         "Title": "Harnessing Agent-Based Modeling in CellAgentChat to Unravel Cell-Cell Interactions from Single-Cell Data",
         "DOI": "10.1101/2023.08.23.554489",
-        "Citations": 4
+        "Citations": 5
       }
     ],
-    "Citations": 4,
+    "Citations": 5,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "mcgilldinglab/CellAgentChat"
@@ -4431,7 +4431,7 @@
         "Title": "Unsupervised removal of systematic background noise from droplet-based single-cell experiments using CellBender",
         "DOI": "10.1038/s41592-023-01943-7",
         "Date": "2023-08-07",
-        "Citations": 314
+        "Citations": 315
       }
     ],
     "Preprints": [
@@ -4441,7 +4441,7 @@
         "Citations": 153
       }
     ],
-    "Citations": 467,
+    "Citations": 468,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "cellbender",
@@ -4521,11 +4521,11 @@
         "Title": "CellCall: integrating paired ligand–receptor and transcription factor activities for cell–cell communication",
         "DOI": "10.1093/nar/gkab638",
         "Date": "2021-07-31",
-        "Citations": 182
+        "Citations": 183
       }
     ],
     "Preprints": [],
-    "Citations": 182,
+    "Citations": 183,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ShellyCoder/cellcall"
@@ -4573,13 +4573,13 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 4288
+        "Citations": 4296
       },
       {
         "Title": "CellChat for systematic analysis of cell–cell communication from single-cell transcriptomics",
         "DOI": "10.1038/s41596-024-01045-4",
         "Date": "2024-09-16",
-        "Citations": 90
+        "Citations": 94
       }
     ],
     "Preprints": [
@@ -4594,7 +4594,7 @@
         "Citations": 88
       }
     ],
-    "Citations": 4491,
+    "Citations": 4503,
     "NumPubs": 2,
     "NumPreprints": 2,
     "GitHub": "jinworks/CellChat"
@@ -4642,11 +4642,11 @@
         "Title": "A relay velocity model infers cell-dependent RNA velocity",
         "DOI": "10.1038/s41587-023-01728-5",
         "Date": "2023-04-03",
-        "Citations": 56
+        "Citations": 57
       }
     ],
     "Preprints": [],
-    "Citations": 56,
+    "Citations": 57,
     "NumPubs": 1,
     "NumPreprints": 0,
     "PyPI": "celldancer",
@@ -5127,7 +5127,7 @@
         "Title": "Dissecting cell identity via network inference and in silico gene perturbation",
         "DOI": "10.1038/s41586-022-05688-9",
         "Date": "2023-02-08",
-        "Citations": 302
+        "Citations": 303
       }
     ],
     "Preprints": [
@@ -5137,7 +5137,7 @@
         "Citations": 59
       }
     ],
-    "Citations": 382,
+    "Citations": 383,
     "NumPubs": 2,
     "NumPreprints": 1,
     "GitHub": "morris-lab/CellOracle"
@@ -5156,7 +5156,7 @@
         "Title": "Learning single-cell perturbation responses using neural optimal transport",
         "DOI": "10.1038/s41592-023-01969-x",
         "Date": "2023-09-28",
-        "Citations": 58
+        "Citations": 60
       }
     ],
     "Preprints": [
@@ -5166,7 +5166,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 60,
+    "Citations": 62,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "bunnech/cellot"
@@ -5215,13 +5215,13 @@
         "Title": "Single-cell reconstruction of the early maternal–fetal interface in humans",
         "DOI": "10.1038/s41586-018-0698-6",
         "Date": "2018-11-14",
-        "Citations": 1742
+        "Citations": 1743
       },
       {
         "Title": "CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes",
         "DOI": "10.1038/s41596-020-0292-x",
         "Date": "2020-02-26",
-        "Citations": 2380
+        "Citations": 2382
       }
     ],
     "Preprints": [
@@ -5241,7 +5241,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 4181,
+    "Citations": 4184,
     "NumPubs": 2,
     "NumPreprints": 3,
     "PyPI": "cellphonedb",
@@ -5300,7 +5300,7 @@
         "Title": "Massively parallel digital transcriptional profiling of single cells",
         "DOI": "10.1038/ncomms14049",
         "Date": "2017-01-16",
-        "Citations": 5393
+        "Citations": 5394
       }
     ],
     "Preprints": [
@@ -5310,7 +5310,7 @@
         "Citations": 25
       }
     ],
-    "Citations": 5418,
+    "Citations": 5419,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "10XGenomics/cellranger"
@@ -5329,13 +5329,13 @@
         "Title": "CellRank for directed single-cell fate mapping",
         "DOI": "10.1038/s41592-021-01346-6",
         "Date": "2022-01-13",
-        "Citations": 500
+        "Citations": 502
       },
       {
         "Title": "CellRank 2: unified fate mapping in multiview single-cell data",
         "DOI": "10.1038/s41592-024-02303-9",
         "Date": "2024-06-13",
-        "Citations": 37
+        "Citations": 38
       }
     ],
     "Preprints": [
@@ -5350,7 +5350,7 @@
         "Citations": 14
       }
     ],
-    "Citations": 575,
+    "Citations": 578,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "cellrank",
@@ -5775,7 +5775,7 @@
         "Title": "Cross-tissue immune cell analysis reveals tissue-specific features in humans",
         "DOI": "10.1126/science.abl5197",
         "Date": "2022-05-13",
-        "Citations": 578
+        "Citations": 579
       }
     ],
     "Preprints": [
@@ -5785,7 +5785,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 591,
+    "Citations": 592,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "celltypist",
@@ -6127,6 +6127,57 @@
     "NumPreprints": 1,
     "Bioc": "CHETAH",
     "GitHub": "jdekanter/CHETAH"
+  },
+  {
+    "Tool": "chevreulPlot",
+    "Platform": "R",
+    "Code": "https://github.com/cobriniklab/chevreulPlot",
+    "Description": "Tools for plotting SingleCellExperiment objects in the chevreulPlot package. Includes functions for analysis and visualization of single-cell data.",
+    "License": "MIT",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["Visualisation"],
+    "Publications": [],
+    "Preprints": [],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 0,
+    "Bioc": "chevreulPlot",
+    "GitHub": "cobriniklab/chevreulPlot"
+  },
+  {
+    "Tool": "chevreulProcess",
+    "Platform": "R",
+    "Code": "https://github.com/whtns/chevreulProcess",
+    "Description": "Tools analyzing SingleCellExperiment objects as projects. for input into the Chevreul app downstream. Includes functions for analysis of single cell RNA sequencing data.",
+    "License": "MIT",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["CellCycle", "Clustering", "DimensionalityReduction", "Integration", "MarkerGenes", "Normalisation", "QualityControl"],
+    "Publications": [],
+    "Preprints": [],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 0,
+    "Bioc": "chevreulProcess",
+    "GitHub": "whtns/chevreulProcess"
+  },
+  {
+    "Tool": "chevreulShiny",
+    "Platform": "R",
+    "Code": "https://github.com/whtns/chevreulShiny",
+    "Description": "Tools for managing SingleCellExperiment objects as projects. Includes functions for analysis and visualization of single-cell data. Also included is a shiny app for visualization of pre-processed scRNA data.",
+    "License": "MIT",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["Interactive", "Visualisation"],
+    "Publications": [],
+    "Preprints": [],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 0,
+    "Bioc": "chevreulShiny",
+    "GitHub": "whtns/chevreulShiny"
   },
   {
     "Tool": "Chloris",
@@ -7261,11 +7312,11 @@
         "Title": "CommPath: An R package for inference and analysis of pathway-mediated cell-cell communication chain from single-cell transcriptomics",
         "DOI": "10.1016/j.csbj.2022.10.028",
         "Date": "2022-10",
-        "Citations": 14
+        "Citations": 15
       }
     ],
     "Preprints": [],
-    "Citations": 14,
+    "Citations": 15,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "yingyonghui/CommPath"
@@ -7535,7 +7586,7 @@
         "Title": "Computation and visualization of cell–cell signaling topologies in single-cell systems data using Connectome",
         "DOI": "10.1038/s41598-022-07959-x",
         "Date": "2022-03-09",
-        "Citations": 77
+        "Citations": 79
       }
     ],
     "Preprints": [
@@ -7545,7 +7596,7 @@
         "Citations": 23
       }
     ],
-    "Citations": 100,
+    "Citations": 102,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "msraredon/Connectome"
@@ -7927,7 +7978,7 @@
         "Title": "CosTaL: an accurate and scalable graph-based clustering algorithm for high-dimensional single-cell data analysis",
         "DOI": "10.1093/bib/bbad157",
         "Date": "2023-05-05",
-        "Citations": 2
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -7937,7 +7988,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 3,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "CosTaL",
@@ -8206,7 +8257,7 @@
         "Title": "Predicting cellular responses to complex perturbations in high‐throughput screens",
         "DOI": "10.15252/msb.202211517",
         "Date": "2023-05-08",
-        "Citations": 112
+        "Citations": 113
       }
     ],
     "Preprints": [
@@ -8216,7 +8267,7 @@
         "Citations": 42
       }
     ],
-    "Citations": 154,
+    "Citations": 155,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "facebookresearch/CPA"
@@ -8280,7 +8331,7 @@
         "Title": "CrossTalkeR: analysis and visualization of ligand–receptorne tworks",
         "DOI": "10.1093/bioinformatics/btab370",
         "Date": "2021-05-14",
-        "Citations": 40
+        "Citations": 41
       }
     ],
     "Preprints": [
@@ -8290,7 +8341,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 46,
+    "Citations": 47,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "CostaLab/CrossTalkeR"
@@ -8437,7 +8488,7 @@
         "Title": "Reconstruction of cell spatial organization from single-cell RNA sequencing data based on ligand-receptor mediated self-assembly",
         "DOI": "10.1038/s41422-020-0353-2",
         "Date": "2020-06-15",
-        "Citations": 113
+        "Citations": 114
       }
     ],
     "Preprints": [
@@ -8447,7 +8498,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 116,
+    "Citations": 117,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -8745,7 +8796,7 @@
         "Title": "High-resolution alignment of single-cell and spatial transcriptomes with CytoSPACE",
         "DOI": "10.1038/s41587-023-01697-9",
         "Date": "2023-03-06",
-        "Citations": 85
+        "Citations": 88
       }
     ],
     "Preprints": [
@@ -8755,7 +8806,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 89,
+    "Citations": 92,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "digitalcytometry/cytospace"
@@ -8773,7 +8824,7 @@
         "Title": "CytoTalk: De novo construction of signal transduction networks using single-cell transcriptomic data",
         "DOI": "10.1126/sciadv.abf1356",
         "Date": "2021-04-14",
-        "Citations": 97
+        "Citations": 98
       }
     ],
     "Preprints": [
@@ -8783,7 +8834,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 99,
+    "Citations": 100,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "tanlabcode/CytoTalk"
@@ -8802,10 +8853,10 @@
       {
         "Title": "Mapping single-cell developmental potential in health and disease with interpretable deep learning",
         "DOI": "10.1101/2024.03.19.585637",
-        "Citations": 27
+        "Citations": 28
       }
     ],
-    "Citations": 27,
+    "Citations": 28,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "cytotrace2-py",
@@ -9006,6 +9057,36 @@
     "NumPreprints": 2,
     "PyPI": "sc-dandelion",
     "GitHub": "zktuong/dandelion"
+  },
+  {
+    "Tool": "dandelionR",
+    "Platform": "R",
+    "Code": "https://github.com/tuonglab/dandelionR",
+    "Description": "dandelionR is an R package for performing single-cell immune repertoire trajectory analysis, based on the original python implementation in dandelion",
+    "License": "MIT",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["Immune", "Ordering", "Visualisation"],
+    "Publications": [
+      {
+        "Title": "Dandelion uses the single-cell adaptive immune receptor repertoire to explore lymphocyte developmental origins",
+        "DOI": "10.1038/s41587-023-01734-7",
+        "Date": "2023-04-13",
+        "Citations": 33
+      }
+    ],
+    "Preprints": [
+      {
+        "Title": "dandelionR: Single-cell immune repertoire trajectory analysis in R",
+        "DOI": "10.1101/2025.02.04.636146",
+        "Citations": 0
+      }
+    ],
+    "Citations": 33,
+    "NumPubs": 1,
+    "NumPreprints": 1,
+    "Bioc": "dandelionR",
+    "GitHub": "tuonglab/dandelionR"
   },
   {
     "Tool": "DAPCA",
@@ -9373,7 +9454,7 @@
         "Title": "Decontamination of ambient RNA in single-cell RNA-seq with DecontX",
         "DOI": "10.1186/s13059-020-1950-6",
         "Date": "2020-03-05",
-        "Citations": 337
+        "Citations": 338
       }
     ],
     "Preprints": [
@@ -9388,7 +9469,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 347,
+    "Citations": 348,
     "NumPubs": 2,
     "NumPreprints": 2,
     "Bioc": "decontX",
@@ -9490,7 +9571,7 @@
         "Title": "DeepCCI: a deep learning framework for identifying cell–cell interactions from single-cell RNA sequencing data",
         "DOI": "10.1093/bioinformatics/btad596",
         "Date": "2023-09-23",
-        "Citations": 14
+        "Citations": 15
       }
     ],
     "Preprints": [
@@ -9500,7 +9581,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 15,
+    "Citations": 16,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "JiangBioLab/DeepCCI"
@@ -9731,7 +9812,7 @@
         "Title": "DeepVelo: deep learning extends RNA velocity to multi-lineage systems with cell-specific kinetics",
         "DOI": "10.1186/s13059-023-03148-9",
         "Date": "2024-01-19",
-        "Citations": 15
+        "Citations": 16
       }
     ],
     "Preprints": [
@@ -9741,7 +9822,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 28,
+    "Citations": 29,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "deepvelo",
@@ -9952,7 +10033,7 @@
         "Title": "Multiplexed droplet single-cell RNA-sequencing using natural genetic variation",
         "DOI": "10.1038/nbt.4042",
         "Date": "2017-12-11",
-        "Citations": 927
+        "Citations": 928
       }
     ],
     "Preprints": [
@@ -9962,7 +10043,7 @@
         "Citations": 10
       }
     ],
-    "Citations": 937,
+    "Citations": 938,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "statgen/demuxlet"
@@ -10159,7 +10240,7 @@
         "Title": "Assessing single-cell transcriptomic variability through density-preserving data visualization",
         "DOI": "10.1038/s41587-020-00801-7",
         "Date": "2021-01-18",
-        "Citations": 117
+        "Citations": 118
       }
     ],
     "Preprints": [
@@ -10169,7 +10250,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 132,
+    "Citations": 133,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "hhcho/densvis"
@@ -10420,7 +10501,7 @@
         "Title": "DIALOGUE maps multicellular programs in tissue from single-cell or spatial transcriptomics data",
         "DOI": "10.1038/s41587-022-01288-0",
         "Date": "2022-05-05",
-        "Citations": 76
+        "Citations": 78
       }
     ],
     "Preprints": [
@@ -10430,7 +10511,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 82,
+    "Citations": 84,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "livnatje/DIALOGUE"
@@ -10952,7 +11033,7 @@
         "Title": "Computational reconstruction of the signalling networks surrounding implanted biomaterials from single-cell transcriptomics",
         "DOI": "10.1038/s41551-021-00770-5",
         "Date": "2021-08-02",
-        "Citations": 65
+        "Citations": 66
       }
     ],
     "Preprints": [
@@ -10962,7 +11043,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 70,
+    "Citations": 71,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "chris-cherry/domino"
@@ -10981,11 +11062,11 @@
         "Title": "Computational reconstruction of the signalling networks surrounding implanted biomaterials from single-cell transcriptomics",
         "DOI": "10.1038/s41551-021-00770-5",
         "Date": "2021-08-02",
-        "Citations": 65
+        "Citations": 66
       }
     ],
     "Preprints": [],
-    "Citations": 65,
+    "Citations": 66,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "dominoSignal",
@@ -11084,7 +11165,7 @@
         "Title": "DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors",
         "DOI": "10.1016/j.cels.2019.03.003",
         "Date": "2019-04",
-        "Citations": 2697
+        "Citations": 2699
       }
     ],
     "Preprints": [
@@ -11094,7 +11175,7 @@
         "Citations": 27
       }
     ],
-    "Citations": 2724,
+    "Citations": 2726,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "chris-mcginnis-ucsf/DoubletFinder"
@@ -11224,7 +11305,7 @@
         "Title": "Diffusion pseudotime robustly reconstructs lineage branching",
         "DOI": "10.1038/nmeth.3971",
         "Date": "2016-08-29",
-        "Citations": 1151
+        "Citations": 1152
       }
     ],
     "Preprints": [
@@ -11234,7 +11315,7 @@
         "Citations": 21
       }
     ],
-    "Citations": 1172,
+    "Citations": 1173,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -11788,11 +11869,11 @@
         "Title": "dsCellNet: A new computational tool to infer cell–cell communication networks in the developing and aging brain",
         "DOI": "10.1016/j.csbj.2022.07.047",
         "Date": "2022",
-        "Citations": 1
+        "Citations": 3
       }
     ],
     "Preprints": [],
-    "Citations": 1,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "songzh523/dsCellNet"
@@ -12037,7 +12118,7 @@
         "Title": "Mapping transcriptomic vector fields of single cells",
         "DOI": "10.1016/j.cell.2021.12.045",
         "Date": "2022-02",
-        "Citations": 291
+        "Citations": 292
       }
     ],
     "Preprints": [
@@ -12047,7 +12128,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 306,
+    "Citations": 307,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "aristoteleo/dynamo-release"
@@ -12146,7 +12227,7 @@
         "Title": "A comparison of single-cell trajectory inference methods",
         "DOI": "10.1038/s41587-019-0071-9",
         "Date": "2019-04-01",
-        "Citations": 1276
+        "Citations": 1278
       }
     ],
     "Preprints": [
@@ -12156,7 +12237,7 @@
         "Citations": 59
       }
     ],
-    "Citations": 1335,
+    "Citations": 1337,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "dynverse/dynverse"
@@ -13055,7 +13136,7 @@
         "Title": "exFINDER: identify external communication signals using single-cell transcriptomics data",
         "DOI": "10.1093/nar/gkad262",
         "Date": "2023-04-07",
-        "Citations": 7
+        "Citations": 8
       }
     ],
     "Preprints": [
@@ -13065,7 +13146,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 7,
+    "Citations": 8,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ChanghanGitHub/exFINDER"
@@ -13679,7 +13760,7 @@
         "Title": "Comprehensive characterization of single-cell full-length isoforms in human and mouse with long-read sequencing",
         "DOI": "10.1186/s13059-021-02525-6",
         "Date": "2021-11-11",
-        "Citations": 131
+        "Citations": 132
       }
     ],
     "Preprints": [
@@ -13689,7 +13770,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 146,
+    "Citations": 147,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "FLAMES",
@@ -14009,11 +14090,11 @@
         "Title": "CellComm infers cellular crosstalk that drives haematopoietic stem and progenitor cell development",
         "DOI": "10.1038/s41556-022-00884-1",
         "Date": "2022-04-12",
-        "Citations": 19
+        "Citations": 20
       }
     ],
     "Preprints": [],
-    "Citations": 19,
+    "Citations": 20,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "edroaldo/fusca"
@@ -14141,17 +14222,17 @@
         "Title": "Predicting transcriptional outcomes of novel multigene perturbations with GEARS",
         "DOI": "10.1038/s41587-023-01905-6",
         "Date": "2023-08-17",
-        "Citations": 95
+        "Citations": 97
       }
     ],
     "Preprints": [
       {
         "Title": "GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations",
         "DOI": "10.1101/2022.07.12.499735",
-        "Citations": 28
+        "Citations": 29
       }
     ],
-    "Citations": 123,
+    "Citations": 126,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "cell-gears",
@@ -14822,7 +14903,7 @@
         "Title": "Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model",
         "DOI": "10.1186/s13059-019-1861-6",
         "Date": "2019-12-23",
-        "Citations": 335
+        "Citations": 336
       }
     ],
     "Preprints": [
@@ -14832,7 +14913,7 @@
         "Citations": 36
       }
     ],
-    "Citations": 371,
+    "Citations": 372,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "glmpca",
@@ -15211,10 +15292,10 @@
       {
         "Title": "Graph-Dynamo: Learning stochastic cellular state transition dynamics from single cell data",
         "DOI": "10.1101/2023.09.24.559170",
-        "Citations": 5
+        "Citations": 6
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "graph-dynamo",
@@ -15827,7 +15908,7 @@
         "Title": "Fast, sensitive and accurate integration of single-cell data with Harmony",
         "DOI": "10.1038/s41592-019-0619-0",
         "Date": "2019-11-18",
-        "Citations": 5823
+        "Citations": 5829
       }
     ],
     "Preprints": [
@@ -15837,7 +15918,7 @@
         "Citations": 96
       }
     ],
-    "Citations": 5919,
+    "Citations": 5925,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "harmony",
@@ -16157,7 +16238,7 @@
         "Title": "Hotspot identifies informative gene modules across modalities of single-cell genomics",
         "DOI": "10.1016/j.cels.2021.04.005",
         "Date": "2021-05",
-        "Citations": 153
+        "Citations": 154
       }
     ],
     "Preprints": [
@@ -16167,7 +16248,7 @@
         "Citations": 12
       }
     ],
-    "Citations": 165,
+    "Citations": 166,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hotspotsc",
@@ -16624,7 +16705,7 @@
         "Title": "Dissection of intercellular communication using the transcriptome-based framework ICELLNET",
         "DOI": "10.1038/s41467-021-21244-x",
         "Date": "2021-02-17",
-        "Citations": 142
+        "Citations": 143
       },
       {
         "Title": "ICELLNET v2: a versatile method for cell–cell communication analysis from human transcriptomic data",
@@ -16640,7 +16721,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 159,
+    "Citations": 160,
     "NumPubs": 2,
     "NumPreprints": 1,
     "GitHub": "soumelis-lab/ICELLNET"
@@ -16687,11 +16768,11 @@
         "Title": "Integrative differential expression and gene set enrichment analysis using summary statistics for scRNA-seq studies",
         "DOI": "10.1038/s41467-020-15298-6",
         "Date": "2020-03-27",
-        "Citations": 61
+        "Citations": 60
       }
     ],
     "Preprints": [],
-    "Citations": 61,
+    "Citations": 60,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "xzhoulab/iDEA"
@@ -17053,11 +17134,11 @@
         "Title": "Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma",
         "DOI": "10.1126/science.1254257",
         "Date": "2014-06-12",
-        "Citations": 3931
+        "Citations": 3932
       }
     ],
     "Preprints": [],
-    "Citations": 3931,
+    "Citations": 3932,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "infercnv",
@@ -17300,7 +17381,7 @@
         "Title": "InterCellar enables interactive analysis and exploration of cell−cell communication in single-cell transcriptomic data",
         "DOI": "10.1038/s42003-021-02986-2",
         "Date": "2022-01-11",
-        "Citations": 16
+        "Citations": 17
       }
     ],
     "Preprints": [
@@ -17310,7 +17391,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 17,
+    "Citations": 18,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "InterCellar",
@@ -17330,11 +17411,11 @@
         "Title": "InterCellDB: A User‐Defined Database for Inferring Intercellular Networks",
         "DOI": "10.1002/advs.202200045",
         "Date": "2022-06-02",
-        "Citations": 9
+        "Citations": 10
       }
     ],
     "Preprints": [],
-    "Citations": 9,
+    "Citations": 10,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ZJUDBlab/InterCellDB"
@@ -17638,10 +17719,10 @@
       {
         "Title": "iSORT: An Integrative Method for Reconstructing Spatial Organization of Cells using Transfer Learning",
         "DOI": "10.1101/2024.02.28.582493",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 0,
+    "Citations": 1,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "isortpy",
@@ -17661,10 +17742,10 @@
       {
         "Title": "iTALK: an R Package to Characterize and Illustrate Intercellular Communication",
         "DOI": "10.1101/507871",
-        "Citations": 204
+        "Citations": 205
       }
     ],
-    "Citations": 204,
+    "Citations": 205,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "Coolgenome/iTALK"
@@ -18090,13 +18171,13 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 8191
+        "Citations": 8194
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
         "DOI": "10.1038/s41587-021-00870-2",
         "Date": "2021-04-01",
-        "Citations": 337
+        "Citations": 338
       },
       {
         "Title": "A discriminative learning approach to differential expression analysis for single-cell RNA-seq",
@@ -18132,7 +18213,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 8782,
+    "Citations": 8786,
     "NumPubs": 3,
     "NumPreprints": 5,
     "GitHub": "pachterlab/kallisto"
@@ -18508,7 +18589,7 @@
         "Title": "Inferring single-cell transcriptomic dynamics with structured latent gene expression dynamics",
         "DOI": "10.1016/j.crmeth.2023.100581",
         "Date": "2023-09",
-        "Citations": 13
+        "Citations": 14
       }
     ],
     "Preprints": [
@@ -18518,7 +18599,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 19,
+    "Citations": 20,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "Spencerfar/LatentVelo"
@@ -18662,7 +18743,7 @@
         "Title": "Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data",
         "DOI": "10.1038/s41467-022-30755-0",
         "Date": "2022-06-09",
-        "Citations": 310
+        "Citations": 313
       }
     ],
     "Preprints": [
@@ -18672,7 +18753,7 @@
         "Citations": 16
       }
     ],
-    "Citations": 326,
+    "Citations": 329,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "liana",
@@ -18692,7 +18773,7 @@
         "Title": "Confronting false discoveries in single-cell differential expression",
         "DOI": "10.1038/s41467-021-25960-2",
         "Date": "2021-09-28",
-        "Citations": 589
+        "Citations": 588
       }
     ],
     "Preprints": [
@@ -18702,7 +18783,7 @@
         "Citations": 12
       }
     ],
-    "Citations": 601,
+    "Citations": 600,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "neurorestore/Libra"
@@ -18954,7 +19035,7 @@
         "Title": "LRLoop: a method to predict feedback loops in cell–cell communication",
         "DOI": "10.1093/bioinformatics/btac447",
         "Date": "2022-07-05",
-        "Citations": 17
+        "Citations": 18
       }
     ],
     "Preprints": [
@@ -18964,7 +19045,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 18,
+    "Citations": 19,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "Pinlyu3/LRLoop"
@@ -19255,7 +19336,7 @@
         "Title": "Recovering Gene Interactions from Single-Cell Data Using Data Diffusion",
         "DOI": "10.1016/j.cell.2018.05.061",
         "Date": "2018-07",
-        "Citations": 1406
+        "Citations": 1407
       }
     ],
     "Preprints": [
@@ -19265,7 +19346,7 @@
         "Citations": 62
       }
     ],
-    "Citations": 1468,
+    "Citations": 1469,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "magic-impute",
@@ -19314,7 +19395,7 @@
         "Title": "Inference of cell state transitions and cell fate plasticity from single-cell with MARGARET",
         "DOI": "10.1093/nar/gkac412",
         "Date": "2022-05-25",
-        "Citations": 15
+        "Citations": 16
       }
     ],
     "Preprints": [
@@ -19324,7 +19405,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 16,
+    "Citations": 17,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "Zafar-Lab/Margaret"
@@ -19519,7 +19600,7 @@
         "Title": "MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data",
         "DOI": "10.1186/s13059-015-0844-5",
         "Date": "2015-12-10",
-        "Citations": 2465
+        "Citations": 2466
       }
     ],
     "Preprints": [
@@ -19529,7 +19610,7 @@
         "Citations": 11
       }
     ],
-    "Citations": 2476,
+    "Citations": 2477,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "MAST",
@@ -19923,11 +20004,11 @@
         "Title": "MDIC3: Matrix decomposition to infer cell-cell communication",
         "DOI": "10.1016/j.patter.2023.100911",
         "Date": "2024-01",
-        "Citations": 1
+        "Citations": 2
       }
     ],
     "Preprints": [],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 0,
     "PyPI": "MDIC3",
@@ -20177,7 +20258,7 @@
         "Title": "Metacell-2: a divide-and-conquer metacell algorithm for scalable scRNA-seq analysis",
         "DOI": "10.1186/s13059-022-02667-1",
         "Date": "2022-04-19",
-        "Citations": 54
+        "Citations": 55
       },
       {
         "Title": "MCProj: metacell projection for interpretable and quantitative use of transcriptional atlases",
@@ -20203,7 +20284,7 @@
         "Citations": 12
       }
     ],
-    "Citations": 358,
+    "Citations": 359,
     "NumPubs": 3,
     "NumPreprints": 3,
     "PyPI": "metacells",
@@ -20520,7 +20601,7 @@
         "Title": "Differential abundance testing on single-cell data using k-nearest neighbor graphs",
         "DOI": "10.1038/s41587-021-01033-z",
         "Date": "2021-09-30",
-        "Citations": 462
+        "Citations": 464
       }
     ],
     "Preprints": [
@@ -20535,7 +20616,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 491,
+    "Citations": 493,
     "NumPubs": 1,
     "NumPreprints": 2,
     "Bioc": "miloR",
@@ -20765,6 +20846,35 @@
     "GitHub": "hannenhalli-lab/miRSCAPE"
   },
   {
+    "Tool": "miRTalk",
+    "Platform": "R",
+    "Code": "https://github.com/multitalk/miRTalk",
+    "Description": "miRTalk is a pioneering framework for inferring EV-derived miRNA-mediated cell-cell communications with a curated database, miRTalkDB, which includes EV-derived miRNA-target associations.",
+    "License": "GPL-3.0",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["GeneNetworks", "VariableGenes", "Visualisation"],
+    "Publications": [
+      {
+        "Title": "Extracellular vesicle-derived miRNA-mediated cell–cell communication inference for single-cell transcriptomic data with miRTalk",
+        "DOI": "10.1186/s13059-025-03566-x",
+        "Date": "2025-04-14",
+        "Citations": 0
+      }
+    ],
+    "Preprints": [
+      {
+        "Title": "Extracellular vesicle-derived miRNA-mediated cell-cell communication inference for single-cell transcriptomic data with miRTalk",
+        "DOI": "10.1101/2024.07.07.602386",
+        "Citations": 1
+      }
+    ],
+    "Citations": 1,
+    "NumPubs": 1,
+    "NumPreprints": 1,
+    "GitHub": "multitalk/miRTalk"
+  },
+  {
     "Tool": "Miscell",
     "Platform": "Python",
     "Code": "https://github.com/lixiangchun/Miscell",
@@ -20906,11 +21016,11 @@
         "Title": "MiXCR: software for comprehensive adaptive immunity profiling",
         "DOI": "10.1038/nmeth.3364",
         "Date": "2015-04-29",
-        "Citations": 1417
+        "Citations": 1418
       }
     ],
     "Preprints": [],
-    "Citations": 1677,
+    "Citations": 1678,
     "NumPubs": 2,
     "NumPreprints": 0,
     "GitHub": "milaboratory/mixcr"
@@ -20942,6 +21052,29 @@
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "keleslab/mlg"
+  },
+  {
+    "Tool": "mLLMCelltype",
+    "Platform": "R/Python",
+    "Code": "https://github.com/cafferychen777/mLLMCelltype",
+    "Description": "An iterative multi-LLM consensus framework for cell type annotation in single-cell RNA sequencing data. By leveraging multiple large language models (GPT, Claude, Gemini, Qwen), it significantly improves annotation accuracy while providing transparent uncertainty quantification.",
+    "License": "MIT",
+    "Added": "2025-04-18",
+    "Updated": "2025-04-24",
+    "Categories": ["Classification", "Interactive", "MarkerGenes"],
+    "Publications": [],
+    "Preprints": [
+      {
+        "Title": "Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data",
+        "DOI": "10.1101/2025.04.10.647852",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 1,
+    "PyPI": "mllmcelltype",
+    "GitHub": "cafferychen777/mLLMCelltype"
   },
   {
     "Tool": "MMCCI",
@@ -21091,7 +21224,7 @@
         "Title": "MOFA+: a statistical framework for comprehensive integration of multi-modal single-cell data",
         "DOI": "10.1186/s13059-020-02015-1",
         "Date": "2020-05-11",
-        "Citations": 515
+        "Citations": 516
       },
       {
         "Title": "Multi‐Omics Factor Analysis—a framework for unsupervised integration of multi‐omics data sets",
@@ -21112,7 +21245,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 1397,
+    "Citations": 1398,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "mofapy",
@@ -21132,7 +21265,7 @@
         "Title": "MOFA+: a statistical framework for comprehensive integration of multi-modal single-cell data",
         "DOI": "10.1186/s13059-020-02015-1",
         "Date": "2020-05-11",
-        "Citations": 515
+        "Citations": 516
       }
     ],
     "Preprints": [
@@ -21142,7 +21275,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 528,
+    "Citations": 529,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "MOFA2",
@@ -21186,19 +21319,19 @@
         "Title": "The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells",
         "DOI": "10.1038/nbt.2859",
         "Date": "2014-03-23",
-        "Citations": 5519
+        "Citations": 5524
       },
       {
         "Title": "Single-cell mRNA quantification and differential analysis with Census",
         "DOI": "10.1038/nmeth.4150",
         "Date": "2017-01-23",
-        "Citations": 1425
+        "Citations": 1427
       },
       {
         "Title": "Reversed graph embedding resolves complex single-cell trajectories",
         "DOI": "10.1038/nmeth.4402",
         "Date": "2017-08-21",
-        "Citations": 3435
+        "Citations": 3437
       }
     ],
     "Preprints": [
@@ -21208,7 +21341,7 @@
         "Citations": 58
       }
     ],
-    "Citations": 10437,
+    "Citations": 10446,
     "NumPubs": 3,
     "NumPreprints": 1,
     "Bioc": "monocle",
@@ -21350,7 +21483,7 @@
         "Title": "Mapping cells through time and space with moscot",
         "DOI": "10.1038/s41586-024-08453-2",
         "Date": "2025-01-22",
-        "Citations": 8
+        "Citations": 10
       }
     ],
     "Preprints": [
@@ -21360,7 +21493,7 @@
         "Citations": 41
       }
     ],
-    "Citations": 49,
+    "Citations": 51,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "moscot",
@@ -22108,7 +22241,7 @@
         "Title": "Dissecting transition cells from single-cell transcriptome data through multiscale stochastic dynamics",
         "DOI": "10.1038/s41467-021-25548-w",
         "Date": "2021-09-23",
-        "Citations": 69
+        "Citations": 71
       }
     ],
     "Preprints": [
@@ -22118,7 +22251,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 74,
+    "Citations": 76,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "cliffzhou92/MuTrans-release"
@@ -22228,11 +22361,11 @@
         "Title": "Predicting cell-to-cell communication networks using NATMI",
         "DOI": "10.1038/s41467-020-18873-z",
         "Date": "2020-10-06",
-        "Citations": 195
+        "Citations": 196
       }
     ],
     "Preprints": [],
-    "Citations": 195,
+    "Citations": 196,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "forrest-lab/NATMI"
@@ -22325,7 +22458,7 @@
         "Title": "Nebulosa recovers single-cell gene expression signals by kernel density estimation",
         "DOI": "10.1093/bioinformatics/btab003",
         "Date": "2021-01-18",
-        "Citations": 221
+        "Citations": 222
       }
     ],
     "Preprints": [
@@ -22335,7 +22468,7 @@
         "Citations": 18
       }
     ],
-    "Citations": 239,
+    "Citations": 240,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "Nebulosa",
@@ -22354,7 +22487,7 @@
         "Title": "Reconstructing physical cell interaction networks from single-cell data using Neighbor-seq",
         "DOI": "10.1093/nar/gkac333",
         "Date": "2022-05-10",
-        "Citations": 10
+        "Citations": 11
       }
     ],
     "Preprints": [
@@ -22364,7 +22497,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 13,
+    "Citations": 14,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sjdlabgroup/Neighborseq"
@@ -22436,7 +22569,7 @@
         "Title": "netSmooth: Network-smoothing based imputation for single cell RNA-seq",
         "DOI": "10.12688/f1000research.13511.2",
         "Date": "2018-01-24",
-        "Citations": 5
+        "Citations": 6
       }
     ],
     "Preprints": [
@@ -22446,7 +22579,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "netSmooth",
@@ -22582,7 +22715,7 @@
         "Title": "Inferring neuron-neuron communications from single-cell transcriptomics through NeuronChat",
         "DOI": "10.1038/s41467-023-36800-w",
         "Date": "2023-02-28",
-        "Citations": 42
+        "Citations": 43
       }
     ],
     "Preprints": [
@@ -22592,7 +22725,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 42,
+    "Citations": 43,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "Wei-BioMath/NeuronChat"
@@ -22663,7 +22796,7 @@
         "Title": "NicheNet: modeling intercellular communication by linking ligands to target genes",
         "DOI": "10.1038/s41592-019-0667-5",
         "Date": "2019-12-09",
-        "Citations": 1381
+        "Citations": 1383
       }
     ],
     "Preprints": [
@@ -22673,7 +22806,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 1381,
+    "Citations": 1383,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "saeyslab/nichenetr"
@@ -22692,7 +22825,7 @@
         "Title": "Comprehensive visualization of cell–cell interactions in single-cell and spatial transcriptomics with NICHES",
         "DOI": "10.1093/bioinformatics/btac775",
         "Date": "2022-12-02",
-        "Citations": 51
+        "Citations": 52
       }
     ],
     "Preprints": [
@@ -22702,7 +22835,7 @@
         "Citations": 9
       }
     ],
-    "Citations": 60,
+    "Citations": 61,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "msraredon/NICHES"
@@ -23519,7 +23652,7 @@
         "Title": "Characterization of cell fate probabilities in single-cell data with Palantir",
         "DOI": "10.1038/s41587-019-0068-4",
         "Date": "2019-03-21",
-        "Citations": 549
+        "Citations": 550
       }
     ],
     "Preprints": [
@@ -23529,7 +23662,7 @@
         "Citations": 9
       }
     ],
-    "Citations": 558,
+    "Citations": 559,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "palantir",
@@ -23775,7 +23908,7 @@
         "Title": "Fundamental limits on dynamic inference from single-cell snapshots",
         "DOI": "10.1073/pnas.1714723115",
         "Date": "2018-02-20",
-        "Citations": 263
+        "Citations": 264
       }
     ],
     "Preprints": [
@@ -23785,7 +23918,7 @@
         "Citations": 10
       }
     ],
-    "Citations": 273,
+    "Citations": 274,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "AllonKleinLab/PBA"
@@ -24073,7 +24206,7 @@
         "Title": "Visualizing structure and transitions in high-dimensional biological data",
         "DOI": "10.1038/s41587-019-0336-3",
         "Date": "2019-12-03",
-        "Citations": 777
+        "Citations": 779
       }
     ],
     "Preprints": [
@@ -24083,7 +24216,7 @@
         "Citations": 28
       }
     ],
-    "Citations": 805,
+    "Citations": 807,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "phateR",
@@ -24289,11 +24422,11 @@
         "Title": "PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes",
         "DOI": "10.1038/s41587-023-01887-5",
         "Date": "2023-07-31",
-        "Citations": 30
+        "Citations": 31
       }
     ],
     "Preprints": [],
-    "Citations": 30,
+    "Citations": 31,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "kunwang34/PhyloVelo"
@@ -24907,7 +25040,7 @@
         "Title": "Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions",
         "DOI": "10.1038/s41467-021-23518-w",
         "Date": "2021-05-28",
-        "Citations": 52
+        "Citations": 53
       }
     ],
     "Preprints": [
@@ -24917,7 +25050,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 53,
+    "Citations": 54,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "prescient",
@@ -25348,11 +25481,11 @@
         "Title": "PyMINEr Finds Gene and Autocrine-Paracrine Networks from Human Islet scRNA-Seq",
         "DOI": "10.1016/j.celrep.2019.01.063",
         "Date": "2019-02",
-        "Citations": 65
+        "Citations": 66
       }
     ],
     "Preprints": [],
-    "Citations": 65,
+    "Citations": 66,
     "NumPubs": 1,
     "NumPreprints": 0
   },
@@ -25565,7 +25698,7 @@
         "Title": "De Novo Prediction of Stem Cell Identity using Single-Cell Transcriptome Data",
         "DOI": "10.1016/j.stem.2016.05.010",
         "Date": "2016-08",
-        "Citations": 523
+        "Citations": 524
       },
       {
         "Title": "Single-cell messenger RNA sequencing reveals rare intestinal cell types",
@@ -25593,7 +25726,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 1713,
+    "Citations": 1714,
     "NumPubs": 4,
     "NumPreprints": 1,
     "CRAN": "RaceID",
@@ -26454,7 +26587,7 @@
         "Title": "A likelihood-based deconvolution of bulk gene expression data using single-cell references",
         "DOI": "10.1101/gr.272344.120",
         "Date": "2021-07-22",
-        "Citations": 27
+        "Citations": 28
       }
     ],
     "Preprints": [
@@ -26464,7 +26597,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 28,
+    "Citations": 29,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "rnasieve",
@@ -26533,11 +26666,11 @@
         "Title": "RobustCCC: a robustness evaluation tool for cell-cell communication methods",
         "DOI": "10.3389/fgene.2023.1236956",
         "Date": "2023-07-21",
-        "Citations": 3
+        "Citations": 4
       }
     ],
     "Preprints": [],
-    "Citations": 3,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "GaoLabXDU/RobustCCC"
@@ -26752,17 +26885,17 @@
         "Title": "The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads",
         "DOI": "10.1093/nar/gkz114",
         "Date": "2019-02-20",
-        "Citations": 2206
+        "Citations": 2207
       }
     ],
     "Preprints": [
       {
         "Title": "The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads",
         "DOI": "10.1101/377762",
-        "Citations": 46
+        "Citations": 49
       }
     ],
-    "Citations": 2252,
+    "Citations": 2256,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "Rsubread"
@@ -27001,7 +27134,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 9283
+        "Citations": 9286
       },
       {
         "Title": "A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification",
@@ -27033,7 +27166,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 9618,
+    "Citations": 9621,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -27272,7 +27405,7 @@
         "Title": "Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN",
         "DOI": "10.1038/s41592-024-02191-z",
         "Date": "2024-02-16",
-        "Citations": 36
+        "Citations": 37
       }
     ],
     "Preprints": [
@@ -27282,7 +27415,7 @@
         "Citations": 16
       }
     ],
-    "Citations": 52,
+    "Citations": 53,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "snap-stanford/saturn"
@@ -27518,7 +27651,7 @@
         "Title": "sc-REnF: An entropy guided robust feature selection for single-cell RNA-seq data",
         "DOI": "10.1093/bib/bbab517",
         "Date": "2022-01-17",
-        "Citations": 13
+        "Citations": 12
       }
     ],
     "Preprints": [
@@ -27533,7 +27666,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 17,
+    "Citations": 16,
     "NumPubs": 1,
     "NumPreprints": 2,
     "GitHub": "Snehalikalall/sc-REnF"
@@ -28570,13 +28703,13 @@
         "Title": "SCANPY: large-scale single-cell gene expression data analysis",
         "DOI": "10.1186/s13059-017-1382-0",
         "Date": "2018-02-06",
-        "Citations": 5691
+        "Citations": 5698
       },
       {
         "Title": "PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells",
         "DOI": "10.1186/s13059-019-1663-x",
         "Date": "2019-03-19",
-        "Citations": 1177
+        "Citations": 1178
       }
     ],
     "Preprints": [
@@ -28591,7 +28724,7 @@
         "Citations": 27
       }
     ],
-    "Citations": 6913,
+    "Citations": 6921,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "scanpy",
@@ -29707,7 +29840,7 @@
         "Title": "scCancer2: data-driven in-depth annotations of the tumor microenvironment at single-level resolution",
         "DOI": "10.1093/bioinformatics/btae028",
         "Date": "2024-01-18",
-        "Citations": 1
+        "Citations": 0
       }
     ],
     "Preprints": [
@@ -29717,7 +29850,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "czythu/scCancer"
@@ -29792,11 +29925,11 @@
         "Title": "scCATCH: Automatic Annotation on Cell Types of Clusters from Single-Cell RNA Sequencing Data",
         "DOI": "10.1016/j.isci.2020.100882",
         "Date": "2020-03",
-        "Citations": 238
+        "Citations": 239
       }
     ],
     "Preprints": [],
-    "Citations": 238,
+    "Citations": 239,
     "NumPubs": 1,
     "NumPreprints": 0,
     "CRAN": "scCATCH",
@@ -30051,7 +30184,7 @@
         "Title": "scCODA is a Bayesian model for compositional single-cell data analysis",
         "DOI": "10.1038/s41467-021-27150-6",
         "Date": "2021-11-25",
-        "Citations": 199
+        "Citations": 200
       }
     ],
     "Preprints": [
@@ -30061,7 +30194,7 @@
         "Citations": 12
       }
     ],
-    "Citations": 211,
+    "Citations": 212,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scCODA",
@@ -30169,11 +30302,11 @@
         "Title": "scConnect: a method for exploratory analysis of cell-cell communication based on single cell RNA sequencing data",
         "DOI": "10.1093/bioinformatics/btab245",
         "Date": "2021-05-11",
-        "Citations": 25
+        "Citations": 26
       }
     ],
     "Preprints": [],
-    "Citations": 25,
+    "Citations": 26,
     "NumPubs": 1,
     "NumPreprints": 0,
     "PyPI": "scConnect",
@@ -30274,7 +30407,7 @@
         "Title": "scCross: a deep generative model for unifying single-cell multi-omics with seamless integration, cross-modal generation, and in silico exploration",
         "DOI": "10.1186/s13059-024-03338-z",
         "Date": "2024-07-29",
-        "Citations": 10
+        "Citations": 11
       }
     ],
     "Preprints": [
@@ -30284,7 +30417,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 11,
+    "Citations": 12,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "sccross",
@@ -30491,11 +30624,11 @@
         "Title": "Doublet identification in single-cell sequencing data using scDblFinder",
         "DOI": "10.12688/f1000research.73600.1",
         "Date": "2021-09-28",
-        "Citations": 394
+        "Citations": 395
       }
     ],
     "Preprints": [],
-    "Citations": 394,
+    "Citations": 395,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "scDblFinder",
@@ -30675,7 +30808,7 @@
         "Title": "Characterizing transcriptional heterogeneity through pathway and gene set overdispersion analysis",
         "DOI": "10.1038/nmeth.3734",
         "Date": "2016-01-18",
-        "Citations": 358
+        "Citations": 359
       }
     ],
     "Preprints": [
@@ -30685,7 +30818,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 1549,
+    "Citations": 1550,
     "NumPubs": 2,
     "NumPreprints": 1,
     "Bioc": "scde",
@@ -30989,7 +31122,7 @@
         "Title": "scDesign2: a transparent simulator that generates high-fidelity single-cell gene expression count data with gene correlations captured",
         "DOI": "10.1186/s13059-021-02367-2",
         "Date": "2021-05-25",
-        "Citations": 68
+        "Citations": 69
       }
     ],
     "Preprints": [
@@ -30999,7 +31132,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 74,
+    "Citations": 75,
     "NumPubs": 2,
     "NumPreprints": 1,
     "GitHub": "JSB-UCLA/scDesign2"
@@ -31175,7 +31308,7 @@
         "Title": "scDiffCom: a tool for differential analysis of cell–cell interactions provides a mouse atlas of aging changes in intercellular communication",
         "DOI": "10.1038/s43587-023-00514-x",
         "Date": "2023-11-02",
-        "Citations": 10
+        "Citations": 11
       }
     ],
     "Preprints": [
@@ -31185,7 +31318,7 @@
         "Citations": 13
       }
     ],
-    "Citations": 23,
+    "Citations": 24,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "scDiffCom",
@@ -31769,13 +31902,13 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 4233
+        "Citations": 4237
       },
       {
         "Title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis",
         "DOI": "10.1038/s41596-020-0336-2",
         "Date": "2020-06-19",
-        "Citations": 832
+        "Citations": 833
       }
     ],
     "Preprints": [
@@ -31785,7 +31918,7 @@
         "Citations": 18
       }
     ],
-    "Citations": 5083,
+    "Citations": 5088,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "pyscenic",
@@ -31804,7 +31937,7 @@
         "Title": "SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks",
         "DOI": "10.1038/s41592-023-01938-4",
         "Date": "2023-07-13",
-        "Citations": 281
+        "Citations": 282
       }
     ],
     "Preprints": [
@@ -31814,7 +31947,7 @@
         "Citations": 49
       }
     ],
-    "Citations": 330,
+    "Citations": 331,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "aertslab/scenicplus"
@@ -31850,7 +31983,7 @@
         "Title": "Single-cell entropy for accurate estimation of differentiation potency from a cell’s transcriptome",
         "DOI": "10.1038/ncomms15599",
         "Date": "2017-06-01",
-        "Citations": 263
+        "Citations": 264
       },
       {
         "Title": "Ultra-fast scalable estimation of single-cell differentiation potency from scRNA-Seq data",
@@ -31866,7 +31999,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 287,
+    "Citations": 288,
     "NumPubs": 2,
     "NumPreprints": 1,
     "GitHub": "aet21/SCENT"
@@ -31884,11 +32017,11 @@
         "Title": "scEpath: energy landscape-based inference of transition probabilities and cellular trajectories from single-cell transcriptomic data",
         "DOI": "10.1093/bioinformatics/bty058",
         "Date": "2018-02-05",
-        "Citations": 92
+        "Citations": 93
       }
     ],
     "Preprints": [],
-    "Citations": 92,
+    "Citations": 93,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "sqjin/scEpath"
@@ -32048,7 +32181,7 @@
         "Title": "Integration of single-cell RNA-seq data into population models to characterize cancer metabolism",
         "DOI": "10.1371/journal.pcbi.1006733",
         "Date": "2019-02-28",
-        "Citations": 85
+        "Citations": 86
       }
     ],
     "Preprints": [
@@ -32058,7 +32191,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 86,
+    "Citations": 87,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "BIMIB-DISCo/scFBA"
@@ -32083,7 +32216,7 @@
         "Title": "A graph neural network model to estimate cell-wise metabolic flux using single-cell RNA-seq data",
         "DOI": "10.1101/gr.271205.120",
         "Date": "2021-07-22",
-        "Citations": 120
+        "Citations": 121
       }
     ],
     "Preprints": [
@@ -32098,7 +32231,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 131,
+    "Citations": 132,
     "NumPubs": 2,
     "NumPreprints": 2,
     "GitHub": "changwn/scFEA"
@@ -33177,7 +33310,7 @@
         "Title": "Benchmarking atlas-level data integration in single-cell genomics",
         "DOI": "10.1038/s41592-021-01336-8",
         "Date": "2021-12-23",
-        "Citations": 776
+        "Citations": 777
       }
     ],
     "Preprints": [
@@ -33187,7 +33320,7 @@
         "Citations": 80
       }
     ],
-    "Citations": 856,
+    "Citations": 857,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scib",
@@ -33918,7 +34051,7 @@
         "Title": "Coordinated, multicellular patterns of transcriptional variation that stratify patient cohorts are revealed by tensor decomposition",
         "DOI": "10.1038/s41587-024-02411-z",
         "Date": "2024-09-23",
-        "Citations": 4
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -33928,7 +34061,7 @@
         "Citations": 14
       }
     ],
-    "Citations": 18,
+    "Citations": 19,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "scITD",
@@ -34356,6 +34489,23 @@
     "GitHub": "PMBio/scLVM"
   },
   {
+    "Tool": "scMAGCA",
+    "Platform": "Python",
+    "Code": "https://github.com/zemingzhou30/scMAGCA",
+    "Description": "Single Cell Multi-omics adversarial graph convolutional autoencoder",
+    "License": "MIT",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["DimensionalityReduction", "Integration"],
+    "Publications": [],
+    "Preprints": [],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 0,
+    "PyPI": "scMAGCA",
+    "GitHub": "zemingzhou30/scMAGCA"
+  },
+  {
     "Tool": "scMAGeCK",
     "Platform": "R/Python",
     "Code": "https://bitbucket.org/weililab/scmageck",
@@ -34478,7 +34628,7 @@
         "Title": "scmap: projection of single-cell RNA-seq data across data sets",
         "DOI": "10.1038/nmeth.4644",
         "Date": "2018-04-02",
-        "Citations": 621
+        "Citations": 622
       }
     ],
     "Preprints": [
@@ -34488,7 +34638,7 @@
         "Citations": 12
       }
     ],
-    "Citations": 633,
+    "Citations": 634,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scmap",
@@ -34820,7 +34970,7 @@
         "Title": "Evaluating stably expressed genes in single cells",
         "DOI": "10.1093/gigascience/giz106",
         "Date": "2019-09-16",
-        "Citations": 63
+        "Citations": 62
       }
     ],
     "Preprints": [
@@ -34840,7 +34990,7 @@
         "Citations": 9
       }
     ],
-    "Citations": 249,
+    "Citations": 248,
     "NumPubs": 3,
     "NumPreprints": 3,
     "Bioc": "scMerge",
@@ -35007,11 +35157,11 @@
         "Title": "Inferring microenvironmental regulation of gene expression from single-cell RNA sequencing data using scMLnet with an application to COVID-19",
         "DOI": "10.1093/bib/bbaa327",
         "Date": "2020-12-21",
-        "Citations": 97
+        "Citations": 98
       }
     ],
     "Preprints": [],
-    "Citations": 97,
+    "Citations": 98,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "SunXQlab/scMLnet"
@@ -37010,6 +37160,23 @@
     "GitHub": "mary77/scQcut"
   },
   {
+    "Tool": "scQTLtools",
+    "Platform": "R",
+    "Code": "https://github.com/XFWuCN/scQTLtools",
+    "Description": "This package specializes in analyzing and visualizing eQTL at the single-cell level",
+    "License": "MIT",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["Normalisation", "Variants", "Visualisation"],
+    "Publications": [],
+    "Preprints": [],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 0,
+    "Bioc": "scQTLtools",
+    "GitHub": "XFWuCN/scQTLtools"
+  },
+  {
     "Tool": "scQuint",
     "Platform": "Python",
     "Code": "https://github.com/songlab-cal/scquint",
@@ -37097,7 +37264,7 @@
         "Title": "Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors",
         "DOI": "10.1038/nbt.4091",
         "Date": "2018-04-02",
-        "Citations": 1962
+        "Citations": 1964
       },
       {
         "Title": "Pooling across cells to normalize single-cell RNA sequencing data with many zero counts",
@@ -37113,7 +37280,7 @@
         "Citations": 19
       }
     ],
-    "Citations": 2934,
+    "Citations": 2936,
     "NumPubs": 2,
     "NumPreprints": 1,
     "Bioc": "scran",
@@ -37425,7 +37592,7 @@
         "Title": "Comparative analysis of cell–cell communication at single-cell resolution",
         "DOI": "10.1038/s41587-023-01782-z",
         "Date": "2023-05-11",
-        "Citations": 52
+        "Citations": 53
       }
     ],
     "Preprints": [
@@ -37435,7 +37602,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 60,
+    "Citations": 61,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "BlishLab/scriabin"
@@ -37775,7 +37942,7 @@
         "Title": "Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data",
         "DOI": "10.1016/j.cels.2018.11.005",
         "Date": "2019-04",
-        "Citations": 1808
+        "Citations": 1809
       }
     ],
     "Preprints": [
@@ -37785,7 +37952,7 @@
         "Citations": 29
       }
     ],
-    "Citations": 1837,
+    "Citations": 1838,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scrublet",
@@ -38037,6 +38204,35 @@
     "GitHub": "xuebaliang/scSemiCluster"
   },
   {
+    "Tool": "scSemiProfiler",
+    "Platform": "Python",
+    "Code": "https://github.com/mcgilldinglab/scSemiProfiler",
+    "Description": "scSemiProfiler is a deep generative AI tool designed for cost-effective single-cell data generation",
+    "License": "GPL-3.0",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["Simulation"],
+    "Publications": [
+      {
+        "Title": "scSemiProfiler: Advancing large-scale single-cell studies through semi-profiling with deep generative models and active learning",
+        "DOI": "10.1038/s41467-024-50150-1",
+        "Date": "2024-07-16",
+        "Citations": 2
+      }
+    ],
+    "Preprints": [
+      {
+        "Title": "scSemiProfiler: Advancing Large-scale Single-cell Studies through Semi-profiling with Deep Generative Models and Active Learning",
+        "DOI": "10.1101/2023.11.20.567929",
+        "Citations": 0
+      }
+    ],
+    "Citations": 2,
+    "NumPubs": 1,
+    "NumPreprints": 1,
+    "GitHub": "mcgilldinglab/scSemiProfiler"
+  },
+  {
     "Tool": "scSensitiveGeneDefine",
     "Platform": "R",
     "Code": "https://github.com/Zechuan-Chen/scSensitiveGeneDefine",
@@ -38072,11 +38268,11 @@
         "Title": "Identify, quantify and characterize cellular communication from single-cell RNA sequencing data with scSeqComm",
         "DOI": "10.1093/bioinformatics/btac036",
         "Date": "2022-01-19",
-        "Citations": 30
+        "Citations": 31
       }
     ],
     "Preprints": [],
-    "Citations": 30,
+    "Citations": 31,
     "NumPubs": 1,
     "NumPreprints": 0
   },
@@ -38146,10 +38342,10 @@
       {
         "Title": "scShapes: A statistical framework for identifying distribution shapes in single-cell RNA-sequencing data",
         "DOI": "10.1101/2022.02.13.480299",
-        "Citations": 2
+        "Citations": 3
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scShapes",
@@ -38395,11 +38591,11 @@
         "Title": "scSorter: assigning cells to known cell types according to marker genes",
         "DOI": "10.1186/s13059-021-02281-7",
         "Date": "2021-02-22",
-        "Citations": 86
+        "Citations": 88
       }
     ],
     "Preprints": [],
-    "Citations": 86,
+    "Citations": 88,
     "NumPubs": 1,
     "NumPreprints": 0,
     "CRAN": "scSorter",
@@ -38727,7 +38923,7 @@
         "Title": "Sctensor detects many-to-many cell–cell interactions from single cell RNA-sequencing data",
         "DOI": "10.1186/s12859-023-05490-y",
         "Date": "2023-11-07",
-        "Citations": 5
+        "Citations": 6
       }
     ],
     "Preprints": [
@@ -38742,7 +38938,7 @@
         "Citations": 43
       }
     ],
-    "Citations": 49,
+    "Citations": 50,
     "NumPubs": 1,
     "NumPreprints": 2,
     "Bioc": "scTensor",
@@ -39488,7 +39684,7 @@
         "Title": "Generalizing RNA velocity to transient cell states through dynamical modeling",
         "DOI": "10.1038/s41587-020-0591-3",
         "Date": "2020-08-03",
-        "Citations": 2032
+        "Citations": 2035
       }
     ],
     "Preprints": [
@@ -39498,7 +39694,7 @@
         "Citations": 137
       }
     ],
-    "Citations": 2169,
+    "Citations": 2172,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scvelo",
@@ -39546,7 +39742,7 @@
         "Title": "A Python library for probabilistic analysis of single-cell omics data",
         "DOI": "10.1038/s41587-021-01206-w",
         "Date": "2022-02-07",
-        "Citations": 433
+        "Citations": 435
       },
       {
         "Title": "Deep generative modeling for single-cell transcriptomics",
@@ -39631,7 +39827,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 3312,
+    "Citations": 3314,
     "NumPubs": 7,
     "NumPreprints": 10,
     "PyPI": "scvi-tools",
@@ -39892,7 +40088,7 @@
         "Title": "SEACells infers transcriptional and epigenomic cellular states from single-cell genomics data",
         "DOI": "10.1038/s41587-023-01716-9",
         "Date": "2023-03-27",
-        "Citations": 106
+        "Citations": 107
       }
     ],
     "Preprints": [
@@ -39902,7 +40098,7 @@
         "Citations": 18
       }
     ],
-    "Citations": 124,
+    "Citations": 125,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "SEACells",
@@ -40041,11 +40237,11 @@
         "Title": "SelfE: Gene Selection via Self-Expression for Single-Cell Data",
         "DOI": "10.1109/TCBB.2020.2997326",
         "Date": "2020",
-        "Citations": 1
+        "Citations": 2
       }
     ],
     "Preprints": [],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "Priyadarshini-Rai/SelfE"
@@ -40099,7 +40295,7 @@
         "Title": "Cluster-independent marker feature identification from single-cell omics data using SEMITONES",
         "DOI": "10.1093/nar/gkac639",
         "Date": "2022-07-31",
-        "Citations": 9
+        "Citations": 8
       }
     ],
     "Preprints": [
@@ -40109,7 +40305,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 11,
+    "Citations": 10,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ohlerlab/SEMITONES"
@@ -40337,37 +40533,37 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 12069
+        "Citations": 12072
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
         "DOI": "10.1016/j.cell.2021.04.048",
         "Date": "2021-06",
-        "Citations": 10003
+        "Citations": 10008
       },
       {
         "Title": "Spatial reconstruction of single-cell gene expression data",
         "DOI": "10.1038/nbt.3192",
         "Date": "2015-04-13",
-        "Citations": 5252
+        "Citations": 5255
       },
       {
         "Title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
         "DOI": "10.1038/nbt.4096",
         "Date": "2018-04-02",
-        "Citations": 10461
+        "Citations": 10464
       },
       {
         "Title": "Dictionary learning for integrative, multimodal and scalable single-cell analysis",
         "DOI": "10.1038/s41587-023-01767-y",
         "Date": "2023-05-25",
-        "Citations": 1423
+        "Citations": 1429
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
         "DOI": "10.1186/s13059-019-1874-1",
         "Date": "2019-12-23",
-        "Citations": 3263
+        "Citations": 3266
       }
     ],
     "Preprints": [
@@ -40397,7 +40593,7 @@
         "Citations": 99
       }
     ],
-    "Citations": 43017,
+    "Citations": 43040,
     "NumPubs": 6,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -40637,7 +40833,7 @@
         "Title": "High throughput error corrected Nanopore single cell transcriptome sequencing",
         "DOI": "10.1038/s41467-020-17800-6",
         "Date": "2020-08-12",
-        "Citations": 164
+        "Citations": 165
       }
     ],
     "Preprints": [
@@ -40647,7 +40843,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 170,
+    "Citations": 171,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ucagenomix/sicelore"
@@ -41629,7 +41825,7 @@
         "Title": "SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics",
         "DOI": "10.1093/nar/gkaa183",
         "Date": "2020-03-20",
-        "Citations": 318
+        "Citations": 319
       }
     ],
     "Preprints": [
@@ -41639,7 +41835,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 323,
+    "Citations": 324,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "SingleCellSignalR",
@@ -41754,7 +41950,7 @@
         "Title": "Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage",
         "DOI": "10.1038/s41590-018-0276-y",
         "Date": "2019-01-14",
-        "Citations": 3253
+        "Citations": 3256
       }
     ],
     "Preprints": [
@@ -41764,7 +41960,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 3257,
+    "Citations": 3260,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "SingleR",
@@ -42249,7 +42445,7 @@
         "Title": "Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics",
         "DOI": "10.1186/s12864-018-4772-0",
         "Date": "2018-06-19",
-        "Citations": 2155
+        "Citations": 2156
       }
     ],
     "Preprints": [
@@ -42259,7 +42455,7 @@
         "Citations": 22
       }
     ],
-    "Citations": 2177,
+    "Citations": 2178,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "slingshot",
@@ -42588,7 +42784,7 @@
         "Title": "Solo: Doublet Identification in Single-Cell RNA-Seq via Semi-Supervised Deep Learning",
         "DOI": "10.1016/j.cels.2020.05.010",
         "Date": "2020-07",
-        "Citations": 167
+        "Citations": 168
       }
     ],
     "Preprints": [
@@ -42598,7 +42794,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 169,
+    "Citations": 170,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "solo-sc",
@@ -42641,7 +42837,7 @@
         "Title": "Cell lineage and communication network inference via optimization for single-cell transcriptomics",
         "DOI": "10.1093/nar/gkz204",
         "Date": "2019-03-29",
-        "Citations": 133
+        "Citations": 134
       }
     ],
     "Preprints": [
@@ -42651,7 +42847,7 @@
         "Citations": 7
       }
     ],
-    "Citations": 140,
+    "Citations": 141,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "WangShuxiong/SoptSC"
@@ -42728,7 +42924,7 @@
         "Title": "SoupX removes ambient RNA contamination from droplet-based single-cell RNA sequencing data",
         "DOI": "10.1093/gigascience/giaa151",
         "Date": "2020-12-26",
-        "Citations": 953
+        "Citations": 954
       }
     ],
     "Preprints": [
@@ -42738,7 +42934,7 @@
         "Citations": 78
       }
     ],
-    "Citations": 1031,
+    "Citations": 1032,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "SoupX",
@@ -42787,11 +42983,11 @@
         "Title": "Inferring spatial and signaling relationships between cells from single cell transcriptomic data",
         "DOI": "10.1038/s41467-020-15968-5",
         "Date": "2020-04-29",
-        "Citations": 279
+        "Citations": 281
       }
     ],
     "Preprints": [],
-    "Citations": 279,
+    "Citations": 281,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "zcang/SpaOTsc"
@@ -43051,7 +43247,7 @@
         "Title": "Integration, exploration, and analysis of high‐dimensional single‐cell cytometry data using Spectre",
         "DOI": "10.1002/cyto.a.24350",
         "Date": "2021-04-26",
-        "Citations": 116
+        "Citations": 117
       }
     ],
     "Preprints": [
@@ -43061,7 +43257,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 124,
+    "Citations": 125,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ImmuneDynamics/Spectre"
@@ -43253,6 +43449,36 @@
     "NumPreprints": 0,
     "PyPI": "splicejac",
     "GitHub": "federicobocci/spliceJAC"
+  },
+  {
+    "Tool": "SplineDV",
+    "Platform": "R",
+    "Code": "https://github.com/Xenon8778/SplineDV",
+    "Description": "A spline based scRNA-seq method for identifying differentially variable (DV) genes across two experimental conditions",
+    "License": "GPL-2.0",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["DifferentialExpression", "VariableGenes", "Visualisation"],
+    "Publications": [
+      {
+        "Title": "Exploring cell-to-cell variability and functional insights through differentially variable gene analysis",
+        "DOI": "10.1038/s41540-025-00507-z",
+        "Date": "2025-03-20",
+        "Citations": 0
+      }
+    ],
+    "Preprints": [
+      {
+        "Title": "Beyond Differential Expression: Embracing Cell-to-Cell Variability in Single-Cell Gene Expression Data Analysis",
+        "DOI": "10.1101/2024.08.08.607086",
+        "Citations": 0
+      }
+    ],
+    "Citations": 0,
+    "NumPubs": 1,
+    "NumPreprints": 1,
+    "Bioc": "SplineDV",
+    "GitHub": "Xenon8778/SplineDV"
   },
   {
     "Tool": "SPmarker",
@@ -43487,7 +43713,7 @@
         "Title": "Stabilized mosaic single-cell data integration using unshared features",
         "DOI": "10.1038/s41587-023-01766-z",
         "Date": "2023-05-25",
-        "Citations": 45
+        "Citations": 46
       }
     ],
     "Preprints": [
@@ -43497,7 +43723,7 @@
         "Citations": 14
       }
     ],
-    "Citations": 59,
+    "Citations": 60,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "StabMap",
@@ -43557,7 +43783,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 40795
+        "Citations": 40806
       }
     ],
     "Preprints": [
@@ -43567,7 +43793,7 @@
         "Citations": 264
       }
     ],
-    "Citations": 41059,
+    "Citations": 41070,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -43645,10 +43871,10 @@
       {
         "Title": "Optimal transport analysis reveals trajectories in steady-state systems",
         "DOI": "10.1101/2021.03.02.433630",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 21,
+    "Citations": 22,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "zsteve/StationaryOT"
@@ -43939,6 +44165,23 @@
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "BennyStrobes/surge"
+  },
+  {
+    "Tool": "SVP",
+    "Platform": "R/C++",
+    "Code": "https://github.com/YuLab-SMU/SVP",
+    "Description": "SVP uses the distance between cells and cells, features and features, cells and features in the space of MCA to build nearest neighbor graph, then uses random walk with restart algorithm to calculate the activity score of gene sets",
+    "License": "GPL-3.0",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["DimensionalityReduction", "GeneSets", "MarkerGenes", "Visualisation"],
+    "Publications": [],
+    "Preprints": [],
+    "Citations": 0,
+    "NumPubs": 0,
+    "NumPreprints": 0,
+    "Bioc": "SVP",
+    "GitHub": "YuLab-SMU/SVP"
   },
   {
     "Tool": "SwarnSeq",
@@ -44586,7 +44829,7 @@
         "Title": "TFvelo: gene regulation inspired RNA velocity estimation",
         "DOI": "10.1038/s41467-024-45661-w",
         "Date": "2024-02-15",
-        "Citations": 13
+        "Citations": 15
       }
     ],
     "Preprints": [
@@ -44596,7 +44839,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 14,
+    "Citations": 16,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "xiaoyeye/TFvelo"
@@ -44669,11 +44912,11 @@
         "Title": "Reconstructing growth and dynamic trajectories from single-cell transcriptomics data",
         "DOI": "10.1038/s42256-023-00763-w",
         "Date": "2023-11-30",
-        "Citations": 27
+        "Citations": 28
       }
     ],
     "Preprints": [],
-    "Citations": 27,
+    "Citations": 28,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "yutongo/TIGON"
@@ -44721,11 +44964,11 @@
         "Title": "TimeTalk uses single-cell RNA-seq datasets to decipher cell-cell communication during early embryo development",
         "DOI": "10.1038/s42003-023-05283-2",
         "Date": "2023-09-02",
-        "Citations": 2
+        "Citations": 3
       }
     ],
     "Preprints": [],
-    "Citations": 2,
+    "Citations": 3,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "ChengLiLab/TimeTalk"
@@ -44744,7 +44987,7 @@
         "Title": "TimiGP: Inferring cell-cell interactions and prognostic associations in the tumor immune microenvironment through gene pairs",
         "DOI": "10.1016/j.xcrm.2023.101121",
         "Date": "2023-07",
-        "Citations": 6
+        "Citations": 7
       }
     ],
     "Preprints": [
@@ -44754,7 +44997,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 6,
+    "Citations": 7,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "CSkylarL/TimiGP"
@@ -45162,10 +45405,10 @@
       {
         "Title": "Learning transcriptional and regulatory dynamics driving cancer cell plasticity using neural ODE-based optimal transport",
         "DOI": "10.1101/2023.03.28.534644",
-        "Citations": 3
+        "Citations": 6
       }
     ],
-    "Citations": 3,
+    "Citations": 6,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "TrajectoryNet",
@@ -45275,7 +45518,7 @@
         "Title": "TraSig: inferring cell-cell interactions from pseudotime ordering of scRNA-Seq data",
         "DOI": "10.1186/s13059-022-02629-7",
         "Date": "2022-03-07",
-        "Citations": 11
+        "Citations": 12
       }
     ],
     "Preprints": [
@@ -45285,7 +45528,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 14,
+    "Citations": 15,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "doraadong/TraSig"
@@ -45395,11 +45638,11 @@
         "Title": "Identification of spatial expression trends in single-cell gene expression data",
         "DOI": "10.1038/nmeth.4634",
         "Date": "2018-03-19",
-        "Citations": 282
+        "Citations": 283
       }
     ],
     "Preprints": [],
-    "Citations": 282,
+    "Citations": 283,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "edsgard/trendsceek"
@@ -45470,7 +45713,7 @@
         "Title": "Universal prediction of cell-cycle position using transfer learning",
         "DOI": "10.1186/s13059-021-02581-y",
         "Date": "2022-01-31",
-        "Citations": 64
+        "Citations": 63
       }
     ],
     "Preprints": [
@@ -45480,7 +45723,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 69,
+    "Citations": 68,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "tricycle",
@@ -45507,10 +45750,10 @@
       {
         "Title": "Triku: a feature selection method based on nearest neighbors for single-cell data",
         "DOI": "10.1101/2021.02.12.430764",
-        "Citations": 3
+        "Citations": 4
       }
     ],
-    "Citations": 20,
+    "Citations": 21,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "triku"
@@ -45551,7 +45794,7 @@
         "Title": "Nonparametric single-cell multiomic characterization of trio relationships between transcription factors, target genes, and cis-regulatory regions",
         "DOI": "10.1016/j.cels.2022.08.004",
         "Date": "2022-09",
-        "Citations": 28
+        "Citations": 29
       }
     ],
     "Preprints": [
@@ -45561,7 +45804,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 29,
+    "Citations": 30,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -45608,11 +45851,11 @@
         "Title": "TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data",
         "DOI": "10.1038/s41592-021-01142-2",
         "Date": "2021-05-13",
-        "Citations": 216
+        "Citations": 218
       }
     ],
     "Preprints": [],
-    "Citations": 216,
+    "Citations": 218,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "liulab-dfci/TRUST4"
@@ -45821,7 +46064,7 @@
         "Title": "UCell: Robust and scalable single-cell gene signature scoring",
         "DOI": "10.1016/j.csbj.2021.06.043",
         "Date": "2021",
-        "Citations": 537
+        "Citations": 539
       }
     ],
     "Preprints": [
@@ -45831,7 +46074,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 540,
+    "Citations": 542,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "UCell",
@@ -45923,7 +46166,7 @@
         "Title": "UMI-tools: modeling sequencing errors in Unique Molecular Identifiers to improve quantification accuracy",
         "DOI": "10.1101/gr.209601.116",
         "Date": "2017-01-18",
-        "Citations": 1689
+        "Citations": 1691
       }
     ],
     "Preprints": [
@@ -45933,7 +46176,7 @@
         "Citations": 27
       }
     ],
-    "Citations": 1716,
+    "Citations": 1718,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "umi-tools",
@@ -46163,7 +46406,7 @@
         "Title": "A unified computational framework for single-cell data integration with optimal transport",
         "DOI": "10.1038/s41467-022-35094-8",
         "Date": "2022-12-01",
-        "Citations": 49
+        "Citations": 50
       }
     ],
     "Preprints": [
@@ -46173,7 +46416,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 53,
+    "Citations": 54,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "uniport",
@@ -46193,7 +46436,7 @@
         "Title": "UniTVelo: temporally unified RNA velocity reinforces single-cell trajectory inference",
         "DOI": "10.1038/s41467-022-34188-7",
         "Date": "2022-11-03",
-        "Citations": 72
+        "Citations": 73
       }
     ],
     "Preprints": [
@@ -46203,7 +46446,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 76,
+    "Citations": 77,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "unitvelo",
@@ -46558,7 +46801,7 @@
         "Title": "B-cell receptor reconstruction from single-cell RNA-seq with VDJPuzzle",
         "DOI": "10.1093/bioinformatics/bty203",
         "Date": "2018-04-05",
-        "Citations": 91
+        "Citations": 92
       }
     ],
     "Preprints": [
@@ -46568,7 +46811,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 93,
+    "Citations": 94,
     "NumPubs": 1,
     "NumPreprints": 1
   },
@@ -46683,7 +46926,7 @@
         "Title": "RNA velocity of single cells",
         "DOI": "10.1038/s41586-018-0414-6",
         "Date": "2018-08-08",
-        "Citations": 3308
+        "Citations": 3309
       }
     ],
     "Preprints": [
@@ -46693,7 +46936,7 @@
         "Citations": 31
       }
     ],
-    "Citations": 3339,
+    "Citations": 3340,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "velocyto",
@@ -46743,7 +46986,7 @@
         "Title": "Representation learning of RNA velocity reveals robust cell transitions",
         "DOI": "10.1073/pnas.2105859118",
         "Date": "2021-12-06",
-        "Citations": 39
+        "Citations": 40
       }
     ],
     "Preprints": [
@@ -46753,7 +46996,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 44,
+    "Citations": 45,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "qiaochen/VeloRep"
@@ -46794,10 +47037,10 @@
       {
         "Title": "Bayesian Inference of RNA Velocity from Multi-Lineage Single-Cell Data",
         "DOI": "10.1101/2022.07.08.499381",
-        "Citations": 24
+        "Citations": 25
       }
     ],
-    "Citations": 24,
+    "Citations": 25,
     "NumPubs": 0,
     "NumPreprints": 1,
     "PyPI": "velovae",
@@ -46893,6 +47136,35 @@
     "GitHub": "rorymaizels/velvet"
   },
   {
+    "Tool": "VelvetVAE",
+    "Platform": "Python",
+    "Code": "https://github.com/rorymaizels/velvetVAE",
+    "Description": "VelvetVAE: deep dynamical modelling from temporal transcriptomics",
+    "License": "MIT",
+    "Added": "2025-04-24",
+    "Updated": "2025-04-24",
+    "Categories": ["ExpressionPatterns", "Normalisation", "Ordering", "VariableGenes", "Visualisation"],
+    "Publications": [
+      {
+        "Title": "Reconstructing developmental trajectories using latent dynamical systems and time-resolved transcriptomics",
+        "DOI": "10.1016/j.cels.2024.04.004",
+        "Date": "2024-05",
+        "Citations": 6
+      }
+    ],
+    "Preprints": [
+      {
+        "Title": "Deep dynamical modelling of developmental trajectories with temporal transcriptomics",
+        "DOI": "10.1101/2023.07.06.547989",
+        "Citations": 5
+      }
+    ],
+    "Citations": 11,
+    "NumPubs": 1,
+    "NumPreprints": 1,
+    "GitHub": "rorymaizels/velvetVAE"
+  },
+  {
     "Tool": "Venus",
     "Platform": "Python",
     "Code": "https://github.com/aicb-ZhangLabs/Venus",
@@ -46905,11 +47177,11 @@
         "Title": "Venus: An efficient virus infection detection and fusion site discovery method using single-cell and bulk RNA-seq data",
         "DOI": "10.1371/journal.pcbi.1010636",
         "Date": "2022-10-27",
-        "Citations": 6
+        "Citations": 5
       }
     ],
     "Preprints": [],
-    "Citations": 6,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "aicb-ZhangLabs/Venus"
@@ -46956,7 +47228,7 @@
         "Title": "Generalized and scalable trajectory inference in single-cell omics data with VIA",
         "DOI": "10.1038/s41467-021-25773-3",
         "Date": "2021-09-20",
-        "Citations": 65
+        "Citations": 66
       },
       {
         "Title": "StaVia: spatially and temporally aware cartography with higher-order random walks for cell atlases",
@@ -46977,7 +47249,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 68,
+    "Citations": 69,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "pyVIA",
@@ -47548,7 +47820,7 @@
         "Title": "Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming",
         "DOI": "10.1016/j.cell.2019.01.006",
         "Date": "2019-02",
-        "Citations": 529
+        "Citations": 533
       }
     ],
     "Preprints": [
@@ -47558,7 +47830,7 @@
         "Citations": 33
       }
     ],
-    "Citations": 562,
+    "Citations": 566,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "wot",
@@ -47859,7 +48131,7 @@
         "Title": "zUMIs - A fast and flexible pipeline to process RNA sequencing data with UMIs",
         "DOI": "10.1093/gigascience/giy059",
         "Date": "2018-05-26",
-        "Citations": 311
+        "Citations": 312
       }
     ],
     "Preprints": [
@@ -47869,7 +48141,7 @@
         "Citations": 19
       }
     ],
-    "Citations": 330,
+    "Citations": 331,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sdparekh/zUMIs"
