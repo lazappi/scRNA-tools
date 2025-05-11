@@ -451,14 +451,14 @@
   },
   "source": "A",
   "attrs": {
-    "186e3a24c60d": {
+    "183974834b77": {
       "x": {},
       "y": {},
       "fill": {},
       "text": {},
       "type": "bar"
     },
-    "186e4f9623a2": {
+    "183965f33065": {
       "x": {},
       "y": {},
       "fill": {},
@@ -467,10 +467,10 @@
       "colour": {}
     }
   },
-  "cur_data": "186e3a24c60d",
+  "cur_data": "183974834b77",
   "visdat": {
-    "186e3a24c60d": ["function (y) ", "x"],
-    "186e4f9623a2": ["function (y) ", "x"]
+    "183974834b77": ["function (y) ", "x"],
+    "183965f33065": ["function (y) ", "x"]
   },
   "highlight": {
     "on": "plotly_click",
