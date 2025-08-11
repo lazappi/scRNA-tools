@@ -7043,10 +7043,10 @@
       {
         "Title": "Optimal tuning of weighted kNN- and diffusion-based methods for denoising single cell genomics data",
         "DOI": "10.1101/2020.02.28.970202",
-        "Citations": 4
+        "Citations": 3
       }
     ],
-    "Citations": 28,
+    "Citations": 27,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "DEWAKSS"
@@ -7977,10 +7977,10 @@
       {
         "Title": "Reference-free Cell-type Annotation for Single-cell Transcriptomics using Deep Learning with a Weighted Graph Neural Network",
         "DOI": "10.1101/2020.05.13.094953",
-        "Citations": 6
+        "Citations": 5
       }
     ],
-    "Citations": 6,
+    "Citations": 5,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "ZJUFanLab/DeepSort"
@@ -8314,7 +8314,7 @@
         "Title": "Digital Cell Sorter (DCS): a cell type identification, anomaly detection, and Hopfield landscapes toolkit for single-cell transcriptomics",
         "DOI": "10.7717/peerj.10670",
         "Date": "2021-01-13",
-        "Citations": 8
+        "Citations": 9
       }
     ],
     "Preprints": [
@@ -8329,7 +8329,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 35,
+    "Citations": 36,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "DigitalCellSorter",
@@ -11677,7 +11677,7 @@
         "Title": "Fast, sensitive and accurate integration of single-cell data with Harmony",
         "DOI": "10.1038/s41592-019-0619-0",
         "Date": "2019-11-18",
-        "Citations": 6657
+        "Citations": 6658
       }
     ],
     "Preprints": [
@@ -11687,7 +11687,7 @@
         "Citations": 98
       }
     ],
-    "Citations": 6755,
+    "Citations": 6756,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "harmony",
@@ -13552,11 +13552,11 @@
         "Title": "Improved integration of single-cell transcriptome and surface protein expression by LinQ-View",
         "DOI": "10.1016/j.crmeth.2021.100056",
         "Date": "2021-07",
-        "Citations": 9
+        "Citations": 8
       }
     ],
     "Preprints": [],
-    "Citations": 9,
+    "Citations": 8,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "WilsonImmunologyLab/LinQView"
@@ -15466,11 +15466,11 @@
         "Title": "MiXCR: software for comprehensive adaptive immunity profiling",
         "DOI": "10.1038/nmeth.3364",
         "Date": "2015-04-29",
-        "Citations": 1470
+        "Citations": 1471
       }
     ],
     "Preprints": [],
-    "Citations": 1739,
+    "Citations": 1740,
     "NumPubs": 2,
     "NumPreprints": 0,
     "GitHub": "milaboratory/mixcr"
@@ -21574,11 +21574,11 @@
         "Title": "Unbiased visualization of single-cell genomic data with SCUBI",
         "DOI": "10.1016/j.crmeth.2021.100135",
         "Date": "2022-01",
-        "Citations": 6
+        "Citations": 5
       }
     ],
     "Preprints": [],
-    "Citations": 6,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 0
   },
@@ -23349,7 +23349,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 43068
+        "Citations": 43072
       }
     ],
     "Preprints": [
@@ -23359,7 +23359,7 @@
         "Citations": 295
       }
     ],
-    "Citations": 43363,
+    "Citations": 43367,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -24132,11 +24132,11 @@
         "Title": "SelfE: Gene Selection via Self-Expression for Single-Cell Data",
         "DOI": "10.1109/TCBB.2020.2997326",
         "Date": "2020",
-        "Citations": 2
+        "Citations": 1
       }
     ],
     "Preprints": [],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "Priyadarshini-Rai/SelfE"
@@ -24462,7 +24462,7 @@
         "Title": "SifiNet: a robust and accurate method to identify feature gene sets and annotate cells",
         "DOI": "10.1093/nar/gkae307",
         "Date": "2024-04-22",
-        "Citations": 2
+        "Citations": 3
       }
     ],
     "Preprints": [
@@ -24472,7 +24472,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 4,
+    "Citations": 5,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "SiFINeT",
@@ -25115,7 +25115,7 @@
         "Title": "A fast, scalable and versatile tool for analysis of single-cell omics data",
         "DOI": "10.1038/s41592-023-02139-9",
         "Date": "2024-01-08",
-        "Citations": 68
+        "Citations": 69
       }
     ],
     "Preprints": [
@@ -25125,7 +25125,7 @@
         "Citations": 8
       }
     ],
-    "Citations": 76,
+    "Citations": 77,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "snapatac2",
@@ -27021,10 +27021,10 @@
       {
         "Title": "Triku: a feature selection method based on nearest neighbors for single-cell data",
         "DOI": "10.1101/2021.02.12.430764",
-        "Citations": 4
+        "Citations": 3
       }
     ],
-    "Citations": 21,
+    "Citations": 20,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "triku"
@@ -27370,11 +27370,11 @@
         "Title": "Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis",
         "DOI": "10.1126/science.aar3131",
         "Date": "2018-04-26",
-        "Citations": 757
+        "Citations": 758
       }
     ],
     "Preprints": [],
-    "Citations": 757,
+    "Citations": 758,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "farrellja/URD"
@@ -28281,7 +28281,7 @@
         "Title": "Vireo: Bayesian demultiplexing of pooled single-cell RNA-seq data without genotype reference",
         "DOI": "10.1186/s13059-019-1865-2",
         "Date": "2019-12-13",
-        "Citations": 257
+        "Citations": 258
       }
     ],
     "Preprints": [
@@ -28291,7 +28291,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 262,
+    "Citations": 263,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "vireoSNP",
@@ -31512,7 +31512,7 @@
         "Title": "Decontamination of ambient RNA in single-cell RNA-seq with DecontX",
         "DOI": "10.1186/s13059-020-1950-6",
         "Date": "2020-03-05",
-        "Citations": 382
+        "Citations": 383
       }
     ],
     "Preprints": [
@@ -31527,7 +31527,7 @@
         "Citations": 5
       }
     ],
-    "Citations": 394,
+    "Citations": 395,
     "NumPubs": 2,
     "NumPreprints": 2,
     "Bioc": "decontX",
@@ -31547,7 +31547,7 @@
         "Title": "decoupleR: ensemble of computational methods to infer biological activities from omics data",
         "DOI": "10.1093/bioadv/vbac016",
         "Date": "2022-03-08",
-        "Citations": 505
+        "Citations": 506
       }
     ],
     "Preprints": [
@@ -31557,7 +31557,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 507,
+    "Citations": 508,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "decoupler",
@@ -31577,7 +31577,7 @@
         "Title": "Multiplexed droplet single-cell RNA-sequencing using natural genetic variation",
         "DOI": "10.1038/nbt.4042",
         "Date": "2017-12-11",
-        "Citations": 967
+        "Citations": 968
       }
     ],
     "Preprints": [
@@ -31587,7 +31587,7 @@
         "Citations": 10
       }
     ],
-    "Citations": 977,
+    "Citations": 978,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "statgen/demuxlet"
@@ -32545,10 +32545,10 @@
       {
         "Title": "Interpreting structure in sequence count data with differential expression analysis allowing for grades of membership",
         "DOI": "10.1101/2023.03.03.531029",
-        "Citations": 2
+        "Citations": 3
       }
     ],
-    "Citations": 13,
+    "Citations": 14,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "fastTopics",
@@ -33284,11 +33284,11 @@
         "Title": "Hierarchicell: an R-package for estimating power for tests of differential expression with single-cell data",
         "DOI": "10.1186/s12864-021-07635-w",
         "Date": "2021-05-01",
-        "Citations": 9
+        "Citations": 10
       }
     ],
     "Preprints": [],
-    "Citations": 9,
+    "Citations": 10,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "kdzimm/hierarchicell"
@@ -34041,7 +34041,7 @@
         "Title": "Near-optimal probabilistic RNA-seq quantification",
         "DOI": "10.1038/nbt.3519",
         "Date": "2016-04-04",
-        "Citations": 8597
+        "Citations": 8598
       },
       {
         "Title": "Modular, efficient and constant-memory single-cell RNA-seq preprocessing",
@@ -34083,7 +34083,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 9229,
+    "Citations": 9230,
     "NumPubs": 3,
     "NumPreprints": 5,
     "GitHub": "pachterlab/kallisto"
@@ -37161,7 +37161,7 @@
         "Title": "scAlign: a tool for alignment, integration, and rare cell identification from scRNA-seq data",
         "DOI": "10.1186/s13059-019-1766-4",
         "Date": "2019-08-14",
-        "Citations": 76
+        "Citations": 77
       }
     ],
     "Preprints": [
@@ -37171,7 +37171,7 @@
         "Citations": 6
       }
     ],
-    "Citations": 82,
+    "Citations": 83,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scalign",
@@ -37340,10 +37340,10 @@
       {
         "Title": "scClassifR: Framework to accurately classify cell types in single-cell RNA-sequencing data",
         "DOI": "10.1101/2020.12.22.424025",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 21,
+    "Citations": 22,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scAnnotatR",
@@ -37574,11 +37574,11 @@
         "Title": "A Bayesian framework to study tumor subclone–specific expression by combining bulk DNA and single-cell RNA sequencing data",
         "DOI": "10.1101/gr.278234.123",
         "Date": "2024-01-09",
-        "Citations": 3
+        "Citations": 2
       }
     ],
     "Preprints": [],
-    "Citations": 3,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 0
   },
@@ -38130,10 +38130,10 @@
       {
         "Title": "scClassifR: Framework to accurately classify cell types in single-cell RNA-sequencing data",
         "DOI": "10.1101/2020.12.22.424025",
-        "Citations": 1
+        "Citations": 2
       }
     ],
-    "Citations": 1,
+    "Citations": 2,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "grisslab/scClassifR"
@@ -39153,10 +39153,10 @@
       {
         "Title": "Reference-free Cell-type Annotation for Single-cell Transcriptomics using Deep Learning with a Weighted Graph Neural Network",
         "DOI": "10.1101/2020.05.13.094953",
-        "Citations": 6
+        "Citations": 5
       }
     ],
-    "Citations": 125,
+    "Citations": 124,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "ZJUFanLab/scDeepSort"
@@ -40024,10 +40024,10 @@
       {
         "Title": "scGEApp: a Matlab app for feature selection on single-cell RNA sequencing data",
         "DOI": "10.1101/544163",
-        "Citations": 3
+        "Citations": 4
       }
     ],
-    "Citations": 28,
+    "Citations": 29,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "jamesjcai/scGEAToolbox"
@@ -40081,10 +40081,10 @@
       {
         "Title": "scGNN: a novel graph neural network framework for single-cell RNA-Seq analyses",
         "DOI": "10.1101/2020.08.02.233569",
-        "Citations": 4
+        "Citations": 5
       }
     ],
-    "Citations": 249,
+    "Citations": 250,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "scgnn/scGNN"
@@ -40983,10 +40983,10 @@
       {
         "Title": "Interpretable trajectory inference with single-cell Linear Adaptive Negative-binomial Expression (scLANE) testing",
         "DOI": "10.1101/2023.12.19.572477",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 0,
+    "Citations": 1,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "jr-leary7/scLANE"
@@ -42317,10 +42317,10 @@
       {
         "Title": "Uncovering disease-related multicellular pathway modules on large-scale single-cell transcriptomes with scPAFA",
         "DOI": "10.1101/2024.03.11.584023",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scPAFA",
@@ -43721,11 +43721,11 @@
         "Title": "scSNPdemux: a sensitive demultiplexing pipeline using single nucleotide polymorphisms for improved pooled single-cell RNA sequencing analysis",
         "DOI": "10.1186/s12859-023-05440-8",
         "Date": "2023-08-31",
-        "Citations": 3
+        "Citations": 4
       }
     ],
     "Preprints": [],
-    "Citations": 3,
+    "Citations": 4,
     "NumPubs": 1,
     "NumPreprints": 0,
     "GitHub": "wkljohn/scSNPdemux"
@@ -44068,10 +44068,10 @@
       {
         "Title": "scShapes: A statistical framework for identifying distribution shapes in single-cell RNA-sequencing data",
         "DOI": "10.1101/2022.02.13.480299",
-        "Citations": 2
+        "Citations": 3
       }
     ],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scShapes",
@@ -44218,7 +44218,7 @@
         "Title": "Genotype-free demultiplexing of pooled single-cell RNA-seq",
         "DOI": "10.1186/s13059-019-1852-7",
         "Date": "2019-12-19",
-        "Citations": 81
+        "Citations": 82
       }
     ],
     "Preprints": [
@@ -44228,7 +44228,7 @@
         "Citations": 4
       }
     ],
-    "Citations": 85,
+    "Citations": 86,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scSplit",
@@ -44524,10 +44524,10 @@
       {
         "Title": "Scaling cross-tissue single-cell annotation models",
         "DOI": "10.1101/2023.10.07.561331",
-        "Citations": 5
+        "Citations": 4
       }
     ],
-    "Citations": 35,
+    "Citations": 34,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "theislab/scTab"
@@ -47286,7 +47286,7 @@
         "Title": "Solo: Doublet Identification in Single-Cell RNA-Seq via Semi-Supervised Deep Learning",
         "DOI": "10.1016/j.cels.2020.05.010",
         "Date": "2020-07",
-        "Citations": 185
+        "Citations": 186
       }
     ],
     "Preprints": [
@@ -47296,7 +47296,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 187,
+    "Citations": 188,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "solo-sc",
@@ -47316,7 +47316,7 @@
         "Title": "Souporcell: robust clustering of single-cell RNA-seq data by genotype without reference genotypes",
         "DOI": "10.1038/s41592-020-0820-1",
         "Date": "2020-05-04",
-        "Citations": 381
+        "Citations": 382
       }
     ],
     "Preprints": [
@@ -47326,7 +47326,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 396,
+    "Citations": 397,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "wheaton5/souporcell"
@@ -48321,10 +48321,10 @@
       {
         "Title": "zUMIs - A fast and flexible pipeline to process RNA sequencing data with UMIs",
         "DOI": "10.1101/153940",
-        "Citations": 20
+        "Citations": 19
       }
     ],
-    "Citations": 347,
+    "Citations": 346,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sdparekh/zUMIs"
