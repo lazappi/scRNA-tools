@@ -1144,10 +1144,10 @@
       {
         "Title": "Dissecting tumor cell programs through group biology estimation in clinical single-cell transcriptomics",
         "DOI": "10.1101/2021.10.22.465130",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 0,
+    "Citations": 1,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "sjohri20/beanie"
@@ -4419,13 +4419,13 @@
         "Title": "Inference and analysis of cell-cell communication using CellChat",
         "DOI": "10.1038/s41467-021-21246-9",
         "Date": "2021-02-17",
-        "Citations": 5416
+        "Citations": 5417
       },
       {
         "Title": "CellChat for systematic analysis of cell–cell communication from single-cell transcriptomics",
         "DOI": "10.1038/s41596-024-01045-4",
         "Date": "2024-09-16",
-        "Citations": 353
+        "Citations": 354
       }
     ],
     "Preprints": [
@@ -4440,7 +4440,7 @@
         "Citations": 109
       }
     ],
-    "Citations": 5904,
+    "Citations": 5906,
     "NumPubs": 2,
     "NumPreprints": 2,
     "GitHub": "jinworks/CellChat"
@@ -4897,7 +4897,7 @@
         "Title": "Inference of high-resolution trajectories in single-cell RNA-seq data by using RNA velocity",
         "DOI": "10.1016/j.crmeth.2021.100095",
         "Date": "2021-10",
-        "Citations": 37
+        "Citations": 38
       }
     ],
     "Preprints": [
@@ -4907,7 +4907,7 @@
         "Citations": 3
       }
     ],
-    "Citations": 40,
+    "Citations": 41,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "cellpath",
@@ -5001,7 +5001,7 @@
         "Title": "CellRank for directed single-cell fate mapping",
         "DOI": "10.1038/s41592-021-01346-6",
         "Date": "2022-01-13",
-        "Citations": 585
+        "Citations": 586
       },
       {
         "Title": "CellRank 2: unified fate mapping in multiview single-cell data",
@@ -5022,7 +5022,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 714,
+    "Citations": 715,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "cellrank",
@@ -5297,7 +5297,7 @@
         "Title": "Cross-tissue immune cell analysis reveals tissue-specific features in humans",
         "DOI": "10.1126/science.abl5197",
         "Date": "2022-05-13",
-        "Citations": 743
+        "Citations": 744
       }
     ],
     "Preprints": [
@@ -5307,7 +5307,7 @@
         "Citations": 15
       }
     ],
-    "Citations": 758,
+    "Citations": 759,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "celltypist",
@@ -11893,10 +11893,10 @@
       {
         "Title": "Identifying Informative Gene Modules Across Modalities of Single Cell Genomics",
         "DOI": "10.1101/2020.02.06.937805",
-        "Citations": 11
+        "Citations": 12
       }
     ],
-    "Citations": 197,
+    "Citations": 198,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "hotspotsc",
@@ -19166,10 +19166,10 @@
       {
         "Title": "Gene expression noise dynamics unveil functional heterogeneity of ageing hematopoietic stem cells",
         "DOI": "10.1101/2022.08.04.502776",
-        "Citations": 4
+        "Citations": 5
       }
     ],
-    "Citations": 1765,
+    "Citations": 1766,
     "NumPubs": 4,
     "NumPreprints": 1,
     "CRAN": "RaceID",
@@ -21574,11 +21574,11 @@
         "Title": "Unbiased visualization of single-cell genomic data with SCUBI",
         "DOI": "10.1016/j.crmeth.2021.100135",
         "Date": "2022-01",
-        "Citations": 5
+        "Citations": 6
       }
     ],
     "Preprints": [],
-    "Citations": 5,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 0
   },
@@ -23735,10 +23735,10 @@
       {
         "Title": "Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data",
         "DOI": "10.1101/812131",
-        "Citations": 3
+        "Citations": 4
       }
     ],
-    "Citations": 546,
+    "Citations": 547,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "IanevskiAleksandr/sc-type"
@@ -23821,7 +23821,7 @@
         "Title": "SCANPY: large-scale single-cell gene expression data analysis",
         "DOI": "10.1186/s13059-017-1382-0",
         "Date": "2018-02-06",
-        "Citations": 6733
+        "Citations": 6734
       },
       {
         "Title": "PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells",
@@ -23842,7 +23842,7 @@
         "Citations": 29
       }
     ],
-    "Citations": 8102,
+    "Citations": 8103,
     "NumPubs": 2,
     "NumPreprints": 2,
     "PyPI": "scanpy",
@@ -24208,7 +24208,7 @@
         "Title": "Comprehensive Integration of Single-Cell Data",
         "DOI": "10.1016/j.cell.2019.05.031",
         "Date": "2019-06",
-        "Citations": 13232
+        "Citations": 13233
       },
       {
         "Title": "Integrated analysis of multimodal single-cell data",
@@ -24268,7 +24268,7 @@
         "Citations": 101
       }
     ],
-    "Citations": 49249,
+    "Citations": 49250,
     "NumPubs": 6,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -25173,10 +25173,10 @@
       {
         "Title": "Ensemble deep learning of embeddings for clustering multimodal single-cell omics data",
         "DOI": "10.1101/2023.02.22.529627",
-        "Citations": 0
+        "Citations": 1
       }
     ],
-    "Citations": 11,
+    "Citations": 12,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "SnapCCESS",
@@ -26468,7 +26468,7 @@
         "Title": "Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram",
         "DOI": "10.1038/s41592-021-01264-7",
         "Date": "2021-10-28",
-        "Citations": 645
+        "Citations": 646
       }
     ],
     "Preprints": [
@@ -26478,7 +26478,7 @@
         "Citations": 27
       }
     ],
-    "Citations": 672,
+    "Citations": 673,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "tangram-sc",
@@ -32231,7 +32231,7 @@
         "Title": "A comparison of single-cell trajectory inference methods",
         "DOI": "10.1038/s41587-019-0071-9",
         "Date": "2019-04-01",
-        "Citations": 1376
+        "Citations": 1377
       }
     ],
     "Preprints": [
@@ -32241,7 +32241,7 @@
         "Citations": 59
       }
     ],
-    "Citations": 1435,
+    "Citations": 1436,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "dynverse/dynverse"
@@ -33143,11 +33143,11 @@
         "Title": "GNN-based embedding for clustering scRNA-seq data",
         "DOI": "10.1093/bioinformatics/btab787",
         "Date": "2021-11-19",
-        "Citations": 60
+        "Citations": 61
       }
     ],
     "Preprints": [],
-    "Citations": 60,
+    "Citations": 61,
     "NumPubs": 1,
     "NumPreprints": 0,
     "PyPI": "graph-sc",
@@ -35214,7 +35214,7 @@
         "Title": "netSmooth: Network-smoothing based imputation for single cell RNA-seq",
         "DOI": "10.12688/f1000research.13511.2",
         "Date": "2018-01-24",
-        "Citations": 6
+        "Citations": 5
       }
     ],
     "Preprints": [
@@ -35224,7 +35224,7 @@
         "Citations": 1
       }
     ],
-    "Citations": 7,
+    "Citations": 6,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "netSmooth",
@@ -37362,10 +37362,10 @@
       {
         "Title": "scClassifR: Framework to accurately classify cell types in single-cell RNA-sequencing data",
         "DOI": "10.1101/2020.12.22.424025",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 24,
+    "Citations": 23,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "scAnnotatR",
@@ -38067,7 +38067,7 @@
         "Title": "scCancer2: data-driven in-depth annotations of the tumor microenvironment at single-level resolution",
         "DOI": "10.1093/bioinformatics/btae028",
         "Date": "2024-01-18",
-        "Citations": 1
+        "Citations": 0
       }
     ],
     "Preprints": [
@@ -38077,7 +38077,7 @@
         "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "czythu/scCancer"
@@ -38152,10 +38152,10 @@
       {
         "Title": "scClassifR: Framework to accurately classify cell types in single-cell RNA-sequencing data",
         "DOI": "10.1101/2020.12.22.424025",
-        "Citations": 2
+        "Citations": 1
       }
     ],
-    "Citations": 2,
+    "Citations": 1,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "grisslab/scClassifR"
@@ -41005,10 +41005,10 @@
       {
         "Title": "Interpretable trajectory inference with single-cell Linear Adaptive Negative-binomial Expression (scLANE) testing",
         "DOI": "10.1101/2023.12.19.572477",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 0,
     "NumPreprints": 1,
     "GitHub": "jr-leary7/scLANE"
@@ -42339,10 +42339,10 @@
       {
         "Title": "Uncovering disease-related multicellular pathway modules on large-scale single-cell transcriptomes with scPAFA",
         "DOI": "10.1101/2024.03.11.584023",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "scPAFA",
@@ -44546,10 +44546,10 @@
       {
         "Title": "Scaling cross-tissue single-cell annotation models",
         "DOI": "10.1101/2023.10.07.561331",
-        "Citations": 4
+        "Citations": 5
       }
     ],
-    "Citations": 37,
+    "Citations": 38,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "theislab/scTab"
@@ -45762,11 +45762,11 @@
         "Title": "schex avoids overplotting for large single cell RNA-sequencing datasets",
         "DOI": "10.1093/bioinformatics/btz907",
         "Date": "2019-12-03",
-        "Citations": 13
+        "Citations": 14
       }
     ],
     "Preprints": [],
-    "Citations": 13,
+    "Citations": 14,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "schex",
@@ -48171,7 +48171,7 @@
         "Title": "RNA velocity of single cells",
         "DOI": "10.1038/s41586-018-0414-6",
         "Date": "2018-08-08",
-        "Citations": 3635
+        "Citations": 3636
       }
     ],
     "Preprints": [
@@ -48181,7 +48181,7 @@
         "Citations": 32
       }
     ],
-    "Citations": 3667,
+    "Citations": 3668,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "velocyto",
