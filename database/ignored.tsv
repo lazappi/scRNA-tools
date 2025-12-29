@@ -3137,6 +3137,7 @@ JIND	PyPI	jfind
 JIND	PyPI	jin
 JIND	PyPI	jinad
 JIND	PyPI	jindo
+JIND	PyPI	jindr
 JIND	PyPI	jingd
 JIND	PyPI	jingdi
 JIND	PyPI	jinxed
@@ -3223,6 +3224,7 @@ LATE	PyPI	latte
 LATE	PyPI	slate
 LATE	PyPI	xlate
 LAmbDA	PyPI	LambdaData
+LAmbDA	PyPI	LambdaG
 LAmbDA	PyPI	LambdaGuard
 LAmbDA	PyPI	LambdaLib
 LAmbDA	PyPI	LambdaPage
@@ -3241,6 +3243,7 @@ LAmbDA	PyPI	lambdAWS
 LAmbDA	PyPI	lambda
 LAmbDA	PyPI	lambda-api
 LAmbDA	PyPI	lambda-cli
+LAmbDA	PyPI	lambda-corr
 LAmbDA	PyPI	lambda-cron
 LAmbDA	PyPI	lambda-env
 LAmbDA	PyPI	lambda-ex
@@ -3248,6 +3251,7 @@ LAmbDA	PyPI	lambda-git
 LAmbDA	PyPI	lambda-kit
 LAmbDA	PyPI	lambda-lift
 LAmbDA	PyPI	lambda-lite
+LAmbDA	PyPI	lambda-or
 LAmbDA	PyPI	lambda-repl
 LAmbDA	PyPI	lambda-run
 LAmbDA	PyPI	lambda-tago
@@ -3339,6 +3343,7 @@ LandSCENT	CRAN	landest
 LandSCENT	CRAN	landsat
 LandSCENT	Conda	lancet
 LatentVelo	PyPI	latent
+LatentVelo	PyPI	latentflow
 LatentVelo	PyPI	latentplot
 LatentVelo	PyPI	latentseal
 Libra	CRAN	Libra
@@ -3390,6 +3395,7 @@ MAESTRO	PyPI	maestro-cli
 MAESTRO	PyPI	maestro-mcp
 MAESTRO	PyPI	maestro-music
 MAESTRO	PyPI	maestro-ng
+MAESTRO	PyPI	maestro-sdk
 MAESTRO	PyPI	maestro-servo
 MAESTRO	PyPI	maestro-tools
 MAESTRO	PyPI	maestroclient
@@ -3428,6 +3434,7 @@ MAGIC	CRAN	magicaxis
 MAGIC	CRAN	magicfor
 MAGIC	CRAN	magick
 MAGIC	CRAN	magickGUI
+MAGIC	Conda	magicattr
 MAGIC	Conda	r-magic
 MAGIC	PyPI	Fmagic
 MAGIC	PyPI	MagiSlack
@@ -3480,6 +3487,7 @@ MARGARET	PyPI	marat
 MARGARET	PyPI	margaret
 MARGARET	PyPI	margarine
 MARGARET	PyPI	marge
+MARS	PyPI	AMRS
 MARS	PyPI	ARS
 MARS	PyPI	MARDS
 MARS	PyPI	MARSS
@@ -3504,12 +3512,14 @@ MARS	PyPI	marise
 MARS	PyPI	marius
 MARS	PyPI	markos
 MARS	PyPI	markus
+MARS	PyPI	marlos
 MARS	PyPI	marms
 MARS	PyPI	marrs
 MARS	PyPI	mars
 MARS	PyPI	marsa
 MARS	PyPI	marsapy
 MARS	PyPI	marscan
+MARS	PyPI	marsel
 MARS	PyPI	marsgpt
 MARS	PyPI	marsh
 MARS	PyPI	marsh64
@@ -3523,7 +3533,10 @@ MARS	PyPI	marso
 MARS	PyPI	marsopt
 MARS	PyPI	marspy
 MARS	PyPI	marssss
+MARS	PyPI	marstar
 MARS	PyPI	marsyas
+MARS	PyPI	marsys
+MARS	PyPI	martas
 MARS	PyPI	marths
 MARS	PyPI	marxs
 MARS	PyPI	marys
@@ -3619,6 +3632,7 @@ MATES	PyPI	matnexus
 MATES	PyPI	matpes
 MATES	PyPI	matrices
 MATES	PyPI	mats
+MATES	PyPI	matsh
 MATES	PyPI	mattress
 MATES	PyPI	maxtest
 MATES	PyPI	pymates
@@ -3679,10 +3693,12 @@ MELT	PyPI	smelt
 MERLoT	CRAN	MERO
 MERLoT	CRAN	melt
 MERLoT	CRAN	merTools
+MERLoT	PyPI	MERO
 MERLoT	PyPI	Merlin-bot
 MERLoT	PyPI	Merlot
 MERLoT	PyPI	melo
 MERLoT	PyPI	melt
+MERLoT	PyPI	merl
 MERLoT	PyPI	merlict
 MERLoT	PyPI	merlin-moth
 MERLoT	PyPI	merlion
@@ -3727,6 +3743,7 @@ MINI-EX	PyPI	minex
 MINI-EX	PyPI	mini
 MINI-EX	PyPI	mini-auspex
 MINI-EX	PyPI	mini-cube
+MINI-EX	PyPI	mini-des
 MINI-EX	PyPI	mini-face
 MINI-EX	PyPI	mini-maze
 MINI-EX	PyPI	mini-ode
@@ -3810,6 +3827,7 @@ MUFFIN	PyPI	muffin-jade
 MUFFIN	PyPI	muffin-ml
 MUFFIN	PyPI	muffin-rest
 MUFFIN	PyPI	muffin_rail
+MUFFIN	PyPI	muffinbite
 MUFFIN	PyPI	muffinpy
 MUFFIN	PyPI	muffinscorp
 MUFFIN	PyPI	muffnn
@@ -3836,6 +3854,7 @@ MacroPolo	PyPI	macro-photo
 MacroPolo	PyPI	macro-polo
 MacroPolo	PyPI	macroplot
 MacroPolo	PyPI	macroplots
+MacroPolo	PyPI	macrotools
 MacroPolo	PyPI	marcopolo
 MacroPolo	PyPI	markopolo
 MarkerCount	PyPI	marker
@@ -4009,6 +4028,7 @@ MultiMAP	PyPI	mulmap
 MultiMAP	PyPI	multi
 MultiMAP	PyPI	multi-dimpy
 MultiMAP	PyPI	multi-maths
+MultiMAP	PyPI	multi-mcp
 MultiMAP	PyPI	multi-tap
 MultiMAP	PyPI	multiCompare
 MultiMAP	PyPI	multiJump
@@ -4030,11 +4050,13 @@ MultiMAP	PyPI	multipath
 MultiMAP	PyPI	multipca
 MultiMAP	PyPI	multipla
 MultiMAP	PyPI	multipy
+MultiMAP	PyPI	multisp
 MultiMAP	PyPI	multistamper
 MultiMAP	PyPI	multitaper
 MultiMAP	PyPI	pymultimap
 MultiMAP	PyPI	ultima
 MultiMAP	PyPI	ultimapy
+MultiMAP	PyPI	wzhmultimap
 MultiVelo	PyPI	multi
 MultiVelo	PyPI	multi-elo
 MultiVelo	PyPI	multido
@@ -4070,6 +4092,7 @@ NICHES	CRAN	nichetools
 NIFA	CRAN	ifa
 NLBayes	CRAN	dlbayes
 NLBayes	PyPI	bayes
+NOMAD	PyPI	ENOMAD
 NOMAD	PyPI	PyNOMAD
 NOMAD	PyPI	SQNomad
 NOMAD	PyPI	genomad
@@ -4079,6 +4102,7 @@ NOMAD	PyPI	noma
 NOMAD	PyPI	nomad
 NOMAD	PyPI	nomad-api
 NOMAD	PyPI	nomad-dev
+NOMAD	PyPI	nomad-gui
 NOMAD	PyPI	nomad-lab
 NOMAD	PyPI	nomad1
 NOMAD	PyPI	nomad2
@@ -4115,6 +4139,7 @@ NanoPARE	PyPI	nanolog-parser
 NanoPARE	PyPI	nanophaser
 NanoPARE	PyPI	nanopie
 NanoPARE	PyPI	nanoprep
+NanoPARE	PyPI	nanoprepro
 NanoPARE	PyPI	nanoprobe
 NanoPARE	PyPI	nanotrace
 NanoPARE	PyPI	nanovar
