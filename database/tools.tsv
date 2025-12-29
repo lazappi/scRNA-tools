@@ -947,7 +947,7 @@ SingleR	R	https://github.com/dviraran/SingleR	SingleR leverages reference transc
 SingleSplice	R/Perl/C++	https://github.com/jw156605/SingleSplice	Algorithm for detecting alternative splicing in a population of single cells.	GPL-2.0	2017-01-24	2017-01-24
 Sinto	Python	https://github.com/timoast/sinto	Sinto is a toolkit for processing aligned single-cell data	MIT	2020-05-22	2020-05-22
 SkewC	R/Perl/Shell	https://github.com/LSBDT/SkewC	SkewC a novel quality-assessment method to identify poor quality single-cells in scRNA-seq experiments	MIT	2023-01-27	2023-01-27
-SnapATAC2	Python/Rust	https://github.com/kaizhang/SnapATAC2	SnapATAC2: A Python/Rust package for single-cell epigenomics analysis	NA	2023-10-20	2024-01-12
+SnapATAC2	Python/Rust	https://github.com/kaizhang/SnapATAC2	SnapATAC2: A Python/Rust package for single-cell epigenomics analysis	MIT	2023-10-20	2025-12-29
 SnapCCESS	Python	https://github.com/yulijia/SnapCCESS	A python package to generate ensemble deep learning of embeddings for clustering multimodal single-cell omics data	NA	2023-02-24	2024-09-15
 SoCube	Python	https://github.com/idrblab/socube	SoCube is an end-to-end doublet detection tool with novel feature embedding strategy	MIT	2023-03-24	2023-03-24
 SoloTE	Python/Shell	https://github.com/bvaldebenitom/SoloTE	For analysis of transposable elements in single-cell RNA-Seq data using locus-specific expression	GPL-3.0	2022-10-14	2023-08-11
@@ -1131,7 +1131,7 @@ cell2cell	Python	https://github.com/earmingol/cell2cell	Inferring cell-cell inte
 cell2fate	Python	https://github.com/BayraktarLab/cell2fate	A formulation of RNA velocity based on a linearization of the velocity ODE	Apache-2.0	2023-08-11	2025-04-13
 cell2location	Python	https://github.com/BayraktarLab/cell2location	Cell2location maps the spatial distribution of cell types by integrating single-cell RNA-seq (scRNA-seq) and multi-cell spatial transcriptomic data from a given tissue	Apache-2.0	2020-11-22	2022-03-04
 cell2sentence	Python	https://github.com/rahuldhodapkar/cell2sentence	Reframing cells as sentences of genes, ordered by expression	CC-BY-NC-SA-4.0	2023-10-20	2023-10-20
-cell2sentence-ft	Python	https://github.com/vandijklab/cell2sentence	Cell2Sentence is a novel method for adapting large language models to single-cell transcriptomics	MIT	2023-10-20	2025-04-12
+cell2sentence-ft	Python	https://github.com/vandijklab/cell2sentence	Cell2Sentence is a novel method for adapting large language models to single-cell transcriptomics	Apache-2.0	2023-10-20	2025-12-29
 cellAlign	R/C++	https://github.com/shenorrLab/cellAlign	CellAlign is a tool for quantitative comparison of expression dynamics within or between single-cell trajectories.	Custom	2018-03-14	2018-03-14
 cellBrowser	Python	https://github.com/maximilianh/cellBrowser	Python pipeline and Javascript scatter plot library for single-cell datasets	GPL-3.0	2018-10-02	2018-10-02
 cellDancer	Python	https://github.com/GuangyuWangLab2021/cellDancer	cellDancer is a modularized, parallelized, and scalable tool based on a deep learning framework for the RNA velocity analysis of scRNA-seq	BSD-3-Clause	2023-03-31	2023-04-06
@@ -1445,7 +1445,7 @@ scClassify	R	https://github.com/SydneyBioX/scClassify	Single cell classification
 scClustBench	R/C++	https://github.com/taiyunkim/scClustBench	Perform clustering on single-cell RNA-sequencing data with different similarity metrics on k-means and SIMLR clustering methods.	NA	2018-08-31	2018-08-31
 scClustViz	R	https://github.com/BaderLab/scClustViz	An interactive R Shiny tool for visualizing single-cell RNAseq clustering results from the Seurat R package or any other analysis pipeline.	MIT	2018-07-27	2018-10-03
 scCobra	Python	https://github.com/mcgilldinglab/scCobra	Contrastive cell embedding learning with domain adaptation for single-cell data integration	MIT	2022-10-28	2025-06-18
-scConfluence	Python	https://github.com/cantinilab/scconfluence	scConfluence is a novel method for the integration of unpaired multiomics data combining uncoupled autoencoders and Inverse Optimal Transport to learn low-dimensional cell embeddings	NA	2024-03-08	2025-04-13
+scConfluence	Python	https://github.com/cantinilab/scconfluence	scConfluence is a novel method for the integration of unpaired multiomics data combining uncoupled autoencoders and Inverse Optimal Transport to learn low-dimensional cell embeddings	GPL-3.0	2024-03-08	2025-12-29
 scConnect	Python	https://github.com/JonETJakobsson/scConnect	scConnect: Like Tinder but for single cells	MIT	2021-05-21	2021-05-21
 scConsensus	R	https://github.com/prabhakarlab/scConsensus	An approach combining semi-supervised and unsupervised clustering for cell type annotation in single-cell RNA-seq data	MIT	2020-04-28	2020-04-28
 scCorr	R	https://github.com/CBIIT-CGBB/scCorr	A graph-based k-partitioning approach for single-cell gene-gene correlation analysis	GPL-2.0	2021-03-12	2022-01-14
@@ -1613,7 +1613,7 @@ scPNMF	R	https://github.com/JSB-UCLA/scPNMF	scPNMF is a method to facilitate gen
 scPOP	R/C++	https://github.com/vinay-swamy/scPOP	scPOP is a lightweight, low dependency R package which brings together multiple metrics to evaluate batch correction for single cell RNA-seq	GPL-3.0	2021-08-01	2021-10-18
 scPOST	R	https://github.com/immunogenomics/scpost	Simulation of single-cell datasets for power analyses that estimate power to detect cell state frequency shifts between conditions	MIT	2020-11-29	2020-11-29
 scPRAM	Python	https://github.com/jiang-q19/scPRAM	scPRAM accurately predicts single-cell gene expression perturbation response based on attention mechanism	MIT	2024-01-05	2024-01-05
-scPRINT	Python	https://github.com/cantinilab/scPRINT	scPRINT is a large transformer model built for the inference of gene networks (connections between genes explaining the cell's expression profile) from scRNAseq data	MIT	2024-10-29	2024-10-29
+scPRINT	Python	https://github.com/cantinilab/scPRINT	scPRINT is a large transformer model built for the inference of gene networks (connections between genes explaining the cell's expression profile) from scRNAseq data	GPL-3.0	2024-10-29	2025-12-29
 scPSD	MATLAB/Python/R	https://github.com/VafaeeLab/psdMAT	A novel pre-processing method (scPSD) inspired by power spectral density analysis to extract important information from large-scale single-cell omics data and enhance the separation of cellular phenotypes	NA	2021-10-29	2022-06-17
 scPSM	R	https://github.com/eleozzr/scPSM	ScPSM (a propensity score matching method for scRNA-seq data) is a statistical tool useful for simultaneously correcting batch effect, imputing dropout and denoising gene expression	MIT	2022-08-12	2022-08-12
 scPagwas	R	https://github.com/dengchunyu/scPagwas	scPagwas employing the polygenic regression model to uncover trait-relevant cell subpopulations by incorporating pathway activity transformed scRNA-seq data with genome-wide association studies (GWAS) data	MIT	2023-03-10	2024-01-05
