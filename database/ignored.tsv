@@ -8615,6 +8615,7 @@ scJoint	PyPI	joint
 scKINETICS	PyPI	kinetics
 scKINETICS	PyPI	scKinetics
 scLANE	CRAN	scan
+scLINE	Bioc	scLANE
 scLINE	CRAN	scLink
 scLKME	PyPI	slackme
 scLens	CRAN	scales
@@ -8875,6 +8876,7 @@ scRAE	PyPI	scrape
 scRAE	PyPI	scrape-it
 scRAE	PyPI	scrape-md
 scRAE	PyPI	scrape-up
+scRAE	PyPI	scrape2md
 scRAE	PyPI	scrapeAI
 scRAE	PyPI	scrapeDev
 scRAE	PyPI	scrapeGG
@@ -8916,6 +8918,7 @@ scRAE	PyPI	scrappie
 scRAE	PyPI	scrappier
 scRAE	PyPI	scrapple
 scRAE	PyPI	scrapse
+scRAE	PyPI	scrapster
 scRAE	PyPI	scrat
 scRAE	PyPI	scrawler
 scRAE	PyPI	scream
@@ -8956,6 +8959,7 @@ scRNA	PyPI	scram
 scRNA	PyPI	scrap
 scRNA	PyPI	scrat
 scRNA	PyPI	screenai
+scRNA	PyPI	scrin
 scRNA	PyPI	scrnaseq
 scRNA	PyPI	scrng
 scRNASequest	PyPI	scrnaseq
@@ -9080,6 +9084,7 @@ scValue	PyPI	value
 scViewer	Bioc	scviR
 scWizard	PyPI	cswizards
 scWizard	PyPI	dswizard
+scWizard	PyPI	oswizard
 scWizard	PyPI	specwizard
 scWizard	PyPI	wizard
 scWizard	PyPI	xswizard
@@ -9290,6 +9295,7 @@ scsim	PyPI	oscsipm
 scsim	PyPI	schism
 scsim	PyPI	scim
 scsim	PyPI	scs
+scsim	PyPI	scsim
 scsim	PyPI	scsims
 scsim	PyPI	scsit
 scsim	PyPI	scsm
@@ -9306,11 +9312,13 @@ scumi	PyPI	scui
 scumi	PyPI	scuid
 scumi	PyPI	scum
 scumi	PyPI	scuti
+scumi	PyPI	sumi
 scvis	PyPI	cvis
 scvis	PyPI	scelvis
 scvis	PyPI	scv
 scvis	PyPI	scv-dist
 scvis	PyPI	scvi
+scvis	PyPI	scviz
 scvr	PyPI	SVR
 scvr	PyPI	scmver
 scvr	PyPI	scv
@@ -9340,6 +9348,7 @@ singleCellTK	CRAN	singleCellHaystack
 singleseqgset	CRAN	SingleCaseES
 sircel	PyPI	sice
 sircel	PyPI	simrel
+sircel	PyPI	sirc
 sircel	PyPI	sircle
 sircel	PyPI	sire
 sketchR	CRAN	sketch
@@ -9376,6 +9385,7 @@ sparca	PyPI	sparce
 sparca	PyPI	sparch
 sparca	PyPI	sparcl
 sparca	PyPI	sparcli
+sparca	PyPI	sparcs
 sparca	PyPI	sparcur
 sparca	PyPI	sparkai
 sparca	PyPI	sparkcraft
@@ -9452,6 +9462,7 @@ trackplot	PyPI	tracktolib
 tradeSeq	CRAN	trade
 transformGamPoi	CRAN	Transform
 transformGamPoi	CRAN	transformmos
+trendsceek	CRAN	trendseries
 txburst	PyPI	burst
 txburst	PyPI	taxburst
 uniPort	Bioc	UniProt.ws
@@ -9471,6 +9482,7 @@ velociraptor	CRAN	velociraptr
 velociraptor	PyPI	Velociwrapper
 velociraptor	PyPI	pyvelociraptor
 velociraptor	PyPI	velociraptor
+velociraptor	PyPI	velociraptor-mcp-server
 velvet	PyPI	veet
 velvet	PyPI	velvet
 visnormsc	PyPI	vinorm
