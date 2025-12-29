@@ -7263,6 +7263,7 @@ cellsnp-lite	PyPI	cellSNP
 cellstates	PyPI	CellStar
 cellstates	PyPI	cell-sets
 cellstates	PyPI	cell-states
+cellstates	PyPI	cellstate-pred
 cellstates	PyPI	celltest
 cellstates	PyPI	celstash
 cellxgene_VIP	PyPI	CellGen
@@ -7319,6 +7320,7 @@ cola	CRAN	covLCA
 community	CRAN	communication
 compass	PyPI	COMPAS
 compass	PyPI	COMPAS-AGS
+compass	PyPI	CompBase
 compass	PyPI	CompStats
 compass	PyPI	CompassAI
 compass	PyPI	ccompass
@@ -7425,11 +7427,13 @@ decoupler	PyPI	decoupled
 decoupler	PyPI	decoupple
 densVis	PyPI	densli
 densVis	PyPI	denss
+densVis	PyPI	densus
 densityCut	CRAN	densityClust
 densvis	Bioc	densvis
 densvis	CRAN	esvis
 densvis	PyPI	densli
 densvis	PyPI	denss
+densvis	PyPI	densus
 dincta	CRAN	Dict
 dincta	CRAN	dina
 dincta	CRAN	dint
@@ -7486,6 +7490,7 @@ fba	PyPI	fbads
 fba	PyPI	foba
 fcoex	CRAN	FCO
 findPC	Bioc	findIPs
+findPC	CRAN	FIND
 findPC	CRAN	findPackage
 fishpond	CRAN	fishMod
 forest-fire-clustering	PyPI	forest-fire-clusterin-flynn-chen
@@ -7533,6 +7538,7 @@ genet	PyPI	gene2tab
 genet	PyPI	genea
 genet	PyPI	geneanot
 genet	PyPI	geneant
+genet	PyPI	genecast
 genet	PyPI	genegist
 genet	PyPI	genenet
 genet	PyPI	geneparts
@@ -7544,6 +7550,7 @@ genet	PyPI	generates
 genet	PyPI	generatr
 genet	PyPI	generest
 genet	PyPI	genes
+genet	PyPI	genestore
 genet	PyPI	genesynth
 genet	PyPI	genet
 genet	PyPI	genetable
@@ -7573,6 +7580,7 @@ genet	PyPI	gense
 genet	PyPI	gent
 genet	PyPI	genta
 genet	PyPI	gentex
+genet	PyPI	gentf
 genet	PyPI	gentk
 genet	PyPI	genty
 genet	PyPI	geonet
@@ -7697,6 +7705,7 @@ ivis	CRAN	civis
 ivis	CRAN	ivs
 kBET	CRAN	BET
 kmermaid	PyPI	mermaid
+kmermaid	PyPI	mermaidc
 kmermaid	PyPI	mermaidz
 ktest	PyPI	KwTest
 ktest	PyPI	Oktest
@@ -7710,6 +7719,7 @@ ktest	PyPI	kaitest
 ktest	PyPI	kaytest
 ktest	PyPI	kdtest
 ktest	PyPI	kitest
+ktest	PyPI	kmtest
 ktest	PyPI	kp-test
 ktest	PyPI	ktest
 ktest	PyPI	ktestpy
@@ -7796,11 +7806,13 @@ miloR	CRAN	milorGWAS
 miloR	CRAN	milr
 minicore	Conda	minio
 minicore	PyPI	mince
+minicore	PyPI	minco
 minicore	PyPI	mini-coffee
 minicore	PyPI	mini-color
 minicore	PyPI	mini-worker
 minicore	PyPI	miniOrange
 minicore	PyPI	minicef
+minicore	PyPI	minicem
 minicore	PyPI	minicode
 minicore	PyPI	minicord
 minicore	PyPI	minicrm
@@ -7931,12 +7943,15 @@ phyloRNA	CRAN	phyloraster
 phyloRNA	CRAN	phyloregion
 phyloRNA	CRAN	phylosignal
 phyloRNA	PyPI	PhyloTracer
+phyloRNA	PyPI	phylo-grad
 phyloRNA	PyPI	phyloRNN
 phyloRNA	PyPI	phylograph
 phyloRNA	PyPI	phylorank
+phyloRNA	PyPI	phylorun
 phyloRNA	PyPI	phylostan
 phyloRNA	PyPI	phyra
 phyloRNA	PyPI	pyLoRa
+pmVAE	PyPI	pmv
 pmVAE	PyPI	pvae
 polyApipe	CRAN	polyaAeppli
 polyApipe	PyPI	polarspiper
@@ -7945,6 +7960,7 @@ polyApipe	PyPI	polyA
 polyApipe	PyPI	polyai
 polyApipe	PyPI	polyair
 polyApipe	PyPI	polyapi
+polyApipe	PyPI	polyase
 polyApipe	PyPI	polyaxonpiptests
 polyApipe	PyPI	polymap
 polyApipe	PyPI	polyp
@@ -8100,6 +8116,7 @@ scAL	PyPI	scalify
 scAL	PyPI	scalign
 scAL	PyPI	scaling
 scAL	PyPI	scallop
+scAL	PyPI	scallpy
 scAL	PyPI	scalpel
 scAL	PyPI	scalpl
 scAL	PyPI	scalpyr
@@ -8108,6 +8125,7 @@ scAL	PyPI	scalum
 scAL	PyPI	scaluq
 scAL	PyPI	scalyca
 scAL	PyPI	scanli
+scAL	PyPI	sceala
 scAL	PyPI	scmail
 scAL	PyPI	scrall
 scAL	PyPI	scrawl
@@ -8199,6 +8217,7 @@ scAdapt	PyPI	Adapt
 scAdapt	PyPI	adapt
 scAdapt	PyPI	scada
 scAdapt	PyPI	scadat
+scAdapt	PyPI	scadda
 scAlign	CRAN	Scalelink
 scAlign	CRAN	align
 scAlign	CRAN	bscaling
@@ -8253,6 +8272,8 @@ scBatch	CRAN	catch
 scBatch	CRAN	scCATCH
 scBiG	PyPI	scb
 scBiG	PyPI	scibag
+scBonita	PyPI	scbiot
+scBonita	PyPI	scboa
 scBoolSeq	PyPI	scbtools
 scBridge	PyPI	bridge
 scBridge	PyPI	fsbridge
@@ -8376,6 +8397,7 @@ scDEAL	PyPI	Scal
 scDEAL	PyPI	scal
 scDEAL	PyPI	scdl
 scDEAL	PyPI	sceLDA
+scDEAL	PyPI	sceala
 scDEAL	PyPI	scelda
 scDECAF	Bioc	scde
 scDECAF	CRAN	scDECO
