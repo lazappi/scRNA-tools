@@ -465,6 +465,7 @@ BayesPrism	CRAN	BayesARIMAX
 BayesPrism	CRAN	BayesMixSurv
 BayesPrism	CRAN	BayesPIM
 BayesPrism	CRAN	BayesRS
+BayesPrism	CRAN	BayesSIM
 BayesPrism	CRAN	BayesfMRI
 BayesPrism	CRAN	TE
 BayesPrism	CRAN	TED
@@ -522,6 +523,7 @@ CASCC	CRAN	cacc
 CASi	CRAN	CASMI
 CASi	CRAN	CalSim
 CASi	CRAN	cansim
+CASi	CRAN	casimir
 CASi	CRAN	casino
 CASi	CRAN	catsim
 CASi	CRAN	cvasi
@@ -573,6 +575,7 @@ CHOIR	CRAN	CHOIRBM
 CHOIR	CRAN	ChoR
 CIA	PyPI	CIMA
 CIA	PyPI	CSIA
+CIA	PyPI	TCIA
 CIA	PyPI	acia
 CIA	PyPI	chia
 CIA	PyPI	ci
@@ -628,17 +631,21 @@ CLEAR	PyPI	CTLearn
 CLEAR	PyPI	ClearData
 CLEAR	PyPI	ClearIO
 CLEAR	PyPI	ClearJson
+CLEAR	PyPI	ClearLogs
 CLEAR	PyPI	ClearWrap
 CLEAR	PyPI	Clearlib
 CLEAR	PyPI	cblearn
+CLEAR	PyPI	celar
 CLEAR	PyPI	cglearn
 CLEAR	PyPI	chlearn
+CLEAR	PyPI	clayer
 CLEAR	PyPI	cle
 CLEAR	PyPI	clea
 CLEAR	PyPI	cleaREST
 CLEAR	PyPI	cleaker
 CLEAR	PyPI	clean
 CLEAR	PyPI	clean-rst
+CLEAR	PyPI	cleancore
 CLEAR	PyPI	cleaner
 CLEAR	PyPI	cleaners
 CLEAR	PyPI	cleanfree
@@ -657,6 +664,7 @@ CLEAR	PyPI	clear-bow
 CLEAR	PyPI	clear-cut
 CLEAR	PyPI	clear-dev
 CLEAR	PyPI	clear-s2s
+CLEAR	PyPI	clear-uq
 CLEAR	PyPI	clearCNV
 CLEAR	PyPI	clearList
 CLEAR	PyPI	clearREPL
@@ -669,7 +677,10 @@ CLEAR	PyPI	clearcli
 CLEAR	PyPI	clearconf
 CLEAR	PyPI	clearctl
 CLEAR	PyPI	clearcut
+CLEAR	PyPI	clearcv
+CLEAR	PyPI	cleared
 CLEAR	PyPI	clearedge
+CLEAR	PyPI	clearenv
 CLEAR	PyPI	clearflow
 CLEAR	PyPI	clearing
 CLEAR	PyPI	clearkit
@@ -758,11 +769,13 @@ CONICS	PyPI	conc
 CONICS	PyPI	conci
 CONICS	PyPI	concise
 CONICS	PyPI	conficus
+CONICS	PyPI	conicio
 CONICS	PyPI	conics
 CONICS	PyPI	cons
 CONICS	PyPI	convis
 CONICS	PyPI	pyConics
 COPILOT	CRAN	CIplot
+COPILOT	CRAN	CORPlot
 COPILOT	CRAN	cowplot
 COSG	PyPI	COS
 COSG	PyPI	Cogs
@@ -788,6 +801,7 @@ COT	PyPI	copt
 COT	PyPI	cort
 COT	PyPI	cost
 COT	PyPI	cot
+COT	PyPI	cota
 COT	PyPI	cotas
 COT	PyPI	cotat
 COT	PyPI	cotb
@@ -844,6 +858,7 @@ CRMetrics	PyPI	cimetrics
 CRMetrics	PyPI	ckmetrics
 CRMetrics	PyPI	clmetrics
 CRMetrics	PyPI	cm2metrics
+CRMetrics	PyPI	covmetrics
 CRMetrics	PyPI	cpkmetrics
 CRMetrics	PyPI	cv-metrics
 CRMetrics	PyPI	rjmetrics
@@ -874,6 +889,7 @@ CaSee	PyPI	case
 CaSee	PyPI	casebased
 CaSee	PyPI	casec
 CaSee	PyPI	cased
+CaSee	PyPI	casedev
 CaSee	PyPI	casegenmc
 CaSee	PyPI	caseless
 CaSee	PyPI	casemaker
@@ -954,6 +970,8 @@ CellAnnotator	PyPI	cellannotation
 CellAnnotator	PyPI	cellanova
 CellBridge	Bioc	CellBarcode
 CellBridge	Bioc	CelliD
+CellBridge	PyPI	cbridge
+CellBridge	PyPI	celbridge
 CellBridge	PyPI	cellgrid
 CellBridge	PyPI	cljbridge
 CellCap	PyPI	CellChip
@@ -965,6 +983,7 @@ CellCap	PyPI	cell-AAP
 CellCap	PyPI	cellSP
 CellCap	PyPI	cella
 CellCap	PyPI	cellar
+CellCap	PyPI	cellarc
 CellCap	PyPI	cellarpy
 CellCap	PyPI	cellchart
 CellCap	PyPI	cellenics-api
@@ -1021,6 +1040,8 @@ CellMapper	PyPI	cellsampler
 CellMeSH	PyPI	CellMet
 CellMeSH	PyPI	CellMethy
 CellMeSH	PyPI	cell-models
+CellMeSH	PyPI	cellmech
+CellMeSH	PyPI	cellphase
 CellMeSH	PyPI	cells
 CellMeSH	PyPI	celmech
 CellO	PyPI	CellCover
@@ -1058,16 +1079,20 @@ CellO	PyPI	cellx
 CellO	PyPI	cellygon
 CellO	PyPI	cellz
 CellO	PyPI	celox
+CellO	PyPI	cerillo
 CellO	PyPI	chellow
 CellO	PyPI	cjhello
 CellO	PyPI	cyhello
 CellO	PyPI	ichello
+CellO	PyPI	scellop
 CellOT	PyPI	CellMet
 CellOT	PyPI	CellNet
 CellOT	PyPI	Cellcyto
 CellOT	PyPI	Cellist
 CellOT	PyPI	cell
+CellOT	PyPI	cellart
 CellOT	PyPI	cellcount
+CellOT	PyPI	cellect
 CellOT	PyPI	cellforest
 CellOT	PyPI	cellkit
 CellOT	PyPI	cello
@@ -1115,9 +1140,11 @@ CellTICS	PyPI	CELICUS
 CellTICS	PyPI	CellAutDisp
 CellTICS	PyPI	Cellist
 CellTICS	PyPI	celldict
+CellTICS	PyPI	cellects
 CellTICS	PyPI	cellocity
 CellTICS	PyPI	cells
 CellTICS	PyPI	celltypist
+CellTICS	PyPI	celltypist2
 CellTICS	PyPI	celtis
 CellTrek	Bioc	cellTree
 CellTrek	CRAN	celltrackR
@@ -1135,6 +1162,7 @@ Cellar	PyPI	CellStar
 Cellar	PyPI	CellTasker
 Cellar	PyPI	Cellan
 Cellar	PyPI	cela
+Cellar	PyPI	celar
 Cellar	PyPI	celare
 Cellar	PyPI	cell
 Cellar	PyPI	cell-ai
@@ -1142,12 +1170,14 @@ Cellar	PyPI	cell-gears
 Cellar	PyPI	cell-sr
 Cellar	PyPI	cella
 Cellar	PyPI	cellar
+Cellar	PyPI	cellarc
 Cellar	PyPI	cellardoor
 Cellar	PyPI	cellare
 Cellar	PyPI	cellaredz
 Cellar	PyPI	cellarlessz
 Cellar	PyPI	cellarpy
 Cellar	PyPI	cellarr
+Cellar	PyPI	cellart
 Cellar	PyPI	cellchart
 Cellar	PyPI	cellcharter
 Cellar	PyPI	celldancer
@@ -1166,6 +1196,7 @@ Cellar	PyPI	cellwars
 Cellar	PyPI	ellar
 Census	CRAN	Census2016
 Census	CRAN	censusapi
+Census	CRAN	censuspyrID
 Census	CRAN	censusr
 Census	CRAN	censusxy
 Census	CRAN	censys
@@ -1207,6 +1238,7 @@ Chord	CRAN	cord
 Chord	CRAN	ggchord
 Citrus	CRAN	citr
 Citrus	CRAN	citrus
+Citrus	CRAN	citsr
 Citrus	PyPI	citrus
 ClusterDE	Bioc	ClusterJudge
 ClusterDE	Bioc	clusterSeq
@@ -1238,6 +1270,7 @@ ClusterMap	CRAN	ClusterVAR
 ClusterMap	CRAN	clustDRM
 ClusterMap	CRAN	clustRcompaR
 ClusterMap	CRAN	cluster
+ClusterMap	CRAN	clusterGGM
 ClusterMap	CRAN	clusterMI
 ClusterMap	CRAN	clusterSim
 ClusterMap	CRAN	clusterWebApp
@@ -1253,6 +1286,7 @@ ClusterMine	CRAN	ClusterR
 ClusterMine	CRAN	Clustering
 ClusterMine	CRAN	clustDRM
 ClusterMine	CRAN	cluster
+ClusterMine	CRAN	clusterGGM
 ClusterMine	CRAN	clusterGenomics
 ClusterMine	CRAN	clusterMI
 ClusterMine	CRAN	clusterSEs
@@ -1289,6 +1323,7 @@ CoNGA	PyPI	condiga
 CoNGA	PyPI	confa
 CoNGA	PyPI	confg
 CoNGA	PyPI	configa
+CoNGA	PyPI	configai
 CoNGA	PyPI	configya
 CoNGA	PyPI	congas
 CoNGA	PyPI	congo-lab
@@ -1641,6 +1676,7 @@ DISCO	PyPI	discosuck
 DISCO	PyPI	discot
 DISCO	PyPI	discotec
 DISCO	PyPI	discotech
+DISCO	PyPI	discotify
 DISCO	PyPI	discotime
 DISCO	PyPI	discotool
 DISCO	PyPI	discotp
@@ -1679,6 +1715,7 @@ DRA	PyPI	DrAdm
 DRA	PyPI	JDRA
 DRA	PyPI	dirA
 DRA	PyPI	dr
+DRA	PyPI	dra
 DRA	PyPI	drac
 DRA	PyPI	draco
 DRA	PyPI	drae
@@ -1731,6 +1768,7 @@ DREAM	PyPI	dreamberd
 DREAM	PyPI	dreambox
 DREAM	PyPI	dreamcoat
 DREAM	PyPI	dreamer
+DREAM	PyPI	dreamer4
 DREAM	PyPI	dreamerv2
 DREAM	PyPI	dreamerv3
 DREAM	PyPI	dreamhack
@@ -1738,6 +1776,7 @@ DREAM	PyPI	dreamify
 DREAM	PyPI	dreamix
 DREAM	PyPI	dreamkit
 DREAM	PyPI	dreaml
+DREAM	PyPI	dreamlake
 DREAM	PyPI	dreammake
 DREAM	PyPI	dreamml
 DREAM	PyPI	dreamnet
@@ -1750,6 +1789,7 @@ DREAM	PyPI	dreamteam
 DREAM	PyPI	dreamtest
 DREAM	PyPI	dreamtim
 DREAM	PyPI	dreamui
+DREAM	PyPI	dreamweb
 DREAM	PyPI	dreamy
 DREAM	PyPI	dreem
 DREAM	PyPI	idream
@@ -1773,6 +1813,7 @@ DTFLOW	PyPI	d6tflow
 DTFLOW	PyPI	dFlow
 DTFLOW	PyPI	dataflow
 DTFLOW	PyPI	dotflow
+DTFLOW	PyPI	dtflow
 DTFLOW	PyPI	dtflw
 DTFLOW	PyPI	tflow
 DTWScore	CRAN	dscore
@@ -1798,6 +1839,7 @@ DeepCCI	PyPI	deepcivics
 DeepCCI	PyPI	deepcodec
 DeepCCI	PyPI	deepcoil
 DeepCCI	PyPI	deepcs
+DeepCCI	PyPI	deepcsim
 DeepCCI	PyPI	deepcv
 DeepCCI	PyPI	deepinc
 DeepCCI	PyPI	deepl-cli
@@ -1818,14 +1860,18 @@ DeepCycle	PyPI	deepl
 DeepCycle	PyPI	deepler
 DeepCycle	PyPI	deeplex
 DeepCycle	PyPI	deepnccl
+DeepCycle	PyPI	deepscale
 DeepCycle	PyPI	deepy
+DeepCycle	PyPI	depcycle
 DeepDRIM	PyPI	DeepDrishti
 DeepDRIM	PyPI	DeeprAI
 DeepDRIM	PyPI	deep-dircmp
 DeepDRIM	PyPI	deep4dream
 DeepDRIM	PyPI	deepMRI
 DeepDRIM	PyPI	deep_dircmp
+DeepDRIM	PyPI	deepdir
 DeepDRIM	PyPI	deepdive-ml
+DeepDRIM	PyPI	deepdiver
 DeepDRIM	PyPI	deepdr
 DeepDRIM	PyPI	deepdream
 DeepDRIM	PyPI	deepdrive
@@ -1863,6 +1909,7 @@ DeepImpute	PyPI	deepclimate
 DeepImpute	PyPI	deepimpute
 DeepImpute	PyPI	deepkime
 DeepImpute	PyPI	deepmet
+DeepImpute	PyPI	deepsuite
 DeepImpute	PyPI	deeptime
 DeepKINET	PyPI	DeepINN
 DeepKINET	PyPI	deep-fine
@@ -1913,6 +1960,8 @@ DeepRIG	PyPI	deepaipng
 DeepRIG	PyPI	deepair
 DeepRIG	PyPI	deepbrain
 DeepRIG	PyPI	deepbridge
+DeepRIG	PyPI	deepbrief
+DeepRIG	PyPI	deepdir
 DeepRIG	PyPI	deepdr
 DeepRIG	PyPI	deepdrive
 DeepRIG	PyPI	deeper
@@ -1955,9 +2004,11 @@ DeepSEM	PyPI	deepSD
 DeepSEM	PyPI	deepSI
 DeepSEM	PyPI	deepSeg
 DeepSEM	PyPI	deepaste
+DeepSEM	PyPI	deepbase
 DeepSEM	PyPI	deepcase
 DeepSEM	PyPI	deepchem
 DeepSEM	PyPI	deepcs
+DeepSEM	PyPI	deepcsim
 DeepSEM	PyPI	deepdream
 DeepSEM	PyPI	deepee
 DeepSEM	PyPI	deeper
@@ -1974,6 +2025,7 @@ DeepSEM	PyPI	deepparse
 DeepSEM	PyPI	deeps
 DeepSEM	PyPI	deepsa
 DeepSEM	PyPI	deepsafe
+DeepSEM	PyPI	deepscale
 DeepSEM	PyPI	deepse
 DeepSEM	PyPI	deepsea
 DeepSEM	PyPI	deepsee
@@ -1996,6 +2048,7 @@ DeepSEM	PyPI	deepspore
 DeepSEM	PyPI	deepss
 DeepSEM	PyPI	deepstream
 DeepSEM	PyPI	deepstreampy
+DeepSEM	PyPI	deepsuite
 DeepSEM	PyPI	deepswarm
 DeepSEM	PyPI	deepsweep
 DeepSEM	PyPI	deepszsim
@@ -2017,6 +2070,7 @@ DeepSort	PyPI	deepforest
 DeepSort	PyPI	deeplot
 DeepSort	PyPI	deepmost
 DeepSort	PyPI	deepopt
+DeepSort	PyPI	deepprostate
 DeepSort	PyPI	deepprot
 DeepSort	PyPI	deepr
 DeepSort	PyPI	deeprobust
@@ -2153,6 +2207,7 @@ Dynamo	PyPI	dynamodb
 Dynamo	PyPI	dynamodb-ce
 Dynamo	PyPI	dynamodbgeo
 Dynamo	PyPI	dynamodel
+Dynamo	PyPI	dynamodelx
 Dynamo	PyPI	dynamodict
 Dynamo	PyPI	dynamodm
 Dynamo	PyPI	dynamodol
@@ -2186,6 +2241,7 @@ EDClust	CRAN	evclust
 EDGE	Bioc	edge
 EDGE	Bioc	edgeR
 EDGE	CRAN	edgeRun
+ELSA	PyPI	ElSabio
 ELSA	PyPI	ela
 ELSA	PyPI	elas
 ELSA	PyPI	elisa
@@ -2209,6 +2265,7 @@ EMBEDR	PyPI	embedd
 EMBEDR	PyPI	embeddb
 EMBEDR	PyPI	embedder
 EMBEDR	PyPI	embedders
+EMBEDR	PyPI	embeddoor
 EMBEDR	PyPI	embedhq
 EMBEDR	PyPI	embedia
 EMBEDR	PyPI	embedid
@@ -2232,6 +2289,7 @@ EMBEDR	PyPI	embodier
 EMBEDR	PyPI	embr
 ENCORE	CRAN	encode
 ENCORE	CRAN	genscore
+ENHANCE	CRAN	enhancer
 ENHANCE	PyPI	EnhancedInput
 ENHANCE	PyPI	EnhancerAI
 ENHANCE	PyPI	PyEnhance
@@ -2272,9 +2330,11 @@ EVI	PyPI	aevi
 EVI	PyPI	envi
 EVI	PyPI	ev
 EVI	PyPI	evi
+EVI	PyPI	eview
 EVI	PyPI	eviex
 EVI	PyPI	evil
 EVI	PyPI	evina
+EVI	PyPI	evipy
 EVI	PyPI	eviz
 EVI	PyPI	ezvi
 EVI	PyPI	levi
@@ -2368,7 +2428,9 @@ FORKS	PyPI	for
 FORKS	PyPI	fork
 FORKS	PyPI	forki
 FORKS	PyPI	forks
+FORKS	PyPI	forkstack
 FORKS	PyPI	forku
+FORKS	PyPI	forkx
 FRmatch	Bioc	frma
 FRmatch	CRAN	rematch
 FRmatch	CRAN	rsmatch
@@ -2382,6 +2444,7 @@ FastRNA	PyPI	FastDRaW
 FastRNA	PyPI	FastSnake
 FastRNA	PyPI	FasterAPI
 FastRNA	PyPI	astra
+FastRNA	PyPI	fasrat
 FastRNA	PyPI	fast
 FastRNA	PyPI	fast-grab
 FastRNA	PyPI	fast-n
@@ -2398,6 +2461,7 @@ FastRNA	PyPI	fastai
 FastRNA	PyPI	fastani
 FastRNA	PyPI	fastanpr
 FastRNA	PyPI	fastaq
+FastRNA	PyPI	fastar
 FastRNA	PyPI	fastarg
 FastRNA	PyPI	fastart
 FastRNA	PyPI	fastasr
@@ -2408,6 +2472,7 @@ FastRNA	PyPI	fastcan
 FastRNA	PyPI	fastcorn
 FastRNA	PyPI	fastcraft
 FastRNA	PyPI	fastcrawl
+FastRNA	PyPI	fastcron
 FastRNA	PyPI	fastda
 FastRNA	PyPI	fasten
 FastRNA	PyPI	faster
@@ -2428,6 +2493,7 @@ FastRNA	PyPI	fastrag
 FastRNA	PyPI	fastrand
 FastRNA	PyPI	fastrandom
 FastRNA	PyPI	fastrank
+FastRNA	PyPI	fastrapi
 FastRNA	PyPI	fastrates
 FastRNA	PyPI	fastre
 FastRNA	PyPI	fastread
@@ -2437,10 +2503,12 @@ FastRNA	PyPI	fastrk
 FastRNA	PyPI	fastrl
 FastRNA	PyPI	fastrlapi
 FastRNA	PyPI	fastrlsa
+FastRNA	PyPI	fastroai
 FastRNA	PyPI	fastrpa
 FastRNA	PyPI	fastrq
 FastRNA	PyPI	fastrun
 FastRNA	PyPI	fastsr
+FastRNA	PyPI	faststrap
 FastRNA	PyPI	fasttrack
 FastRNA	PyPI	fasttrain
 FastRNA	PyPI	fasttran
@@ -2463,6 +2531,7 @@ FiRE	PyPI	faire
 FiRE	PyPI	ffire
 FiRE	PyPI	fibre
 FiRE	PyPI	figure
+FiRE	PyPI	filare
 FiRE	PyPI	fir
 FiRE	PyPI	fire
 FiRE	PyPI	fireTS
@@ -2508,6 +2577,7 @@ FiRE	PyPI	fitree
 FiRE	PyPI	fre
 FiRE	PyPI	mfire
 FiRE	PyPI	nfire
+FiRE	PyPI	ofire
 FlowGrid	PyPI	flowerfield
 FlowGrid	PyPI	flowi
 FlowGrid	PyPI	flowvid
@@ -2555,6 +2625,7 @@ GIANT	PyPI	giantstar
 GIANT	PyPI	gint
 GIANT	PyPI	giquant
 GLMsim	CRAN	glmm
+GLUE	Conda	glue-qt
 GLUE	Conda	glueviz
 GLUE	PyPI	CGlue
 GLUE	PyPI	glglue
@@ -2588,10 +2659,13 @@ GRM	CRAN	gRim
 GRM	PyPI	grm
 GRNUlar	PyPI	granula
 GRouNdGAN	PyPI	ground
+GRouNdGAN	PyPI	groundcua
 GRouNdGAN	PyPI	groundhog
 GRouNdGAN	PyPI	groundhogday
+GRouNdGAN	PyPI	grounding
 GRouNdGAN	PyPI	groundmag
 GRouNdGAN	PyPI	grounds
+GRouNdGAN	PyPI	groundsman
 GRouNdGAN	PyPI	groundstation
 GRouNdGAN	PyPI	groundx
 GSEApy	CRAN	gsEasy
@@ -2606,6 +2680,7 @@ GapClust	CRAN	graphclust
 Garnett	PyPI	garnett
 GenKI	PyPI	enki
 GenKI	PyPI	gen
+GenKI	PyPI	genTik
 GenKI	PyPI	genai
 GenKI	PyPI	genanki
 GenKI	PyPI	genia
@@ -2703,10 +2778,12 @@ GraphCS	PyPI	graph-sd
 GraphCS	PyPI	graph-svg
 GraphCS	PyPI	graph-vis
 GraphCS	PyPI	graph-z-c
+GraphCS	PyPI	graph2doc
 GraphCS	PyPI	graph2tac
 GraphCS	PyPI	graph2vec
 GraphCS	PyPI	graphD
 GraphCS	PyPI	graphQ
+GraphCS	PyPI	graphRC
 GraphCS	PyPI	graphabc
 GraphCS	PyPI	graphagus
 GraphCS	PyPI	graphc
@@ -2759,6 +2836,7 @@ GraphCS	PyPI	graphs2go
 GraphCS	PyPI	graphscii
 GraphCS	PyPI	graphscope
 GraphCS	PyPI	graphsdk
+GraphCS	PyPI	graphsets
 GraphCS	PyPI	graphsh
 GraphCS	PyPI	graphsim
 GraphCS	PyPI	graphsite
@@ -2789,6 +2867,7 @@ GraphSCC	PyPI	GraphST
 GraphSCC	PyPI	gracehpc
 GraphSCC	PyPI	graph
 GraphSCC	PyPI	graph-sc
+GraphSCC	PyPI	graphRC
 GraphSCC	PyPI	graphc
 GraphSCC	PyPI	graphcache
 GraphSCC	PyPI	graphcalc
@@ -2820,6 +2899,7 @@ GraphSCI	PyPI	graph-cli
 GraphSCI	PyPI	graph-sc
 GraphSCI	PyPI	graph-split
 GraphSCI	PyPI	graph-vis
+GraphSCI	PyPI	graphRC
 GraphSCI	PyPI	graphc
 GraphSCI	PyPI	graphcast
 GraphSCI	PyPI	graphce
@@ -2844,6 +2924,7 @@ GraphSCI	PyPI	graphius
 GraphSCI	PyPI	graphix
 GraphSCI	PyPI	graphos
 GraphSCI	PyPI	graphs
+GraphSCI	PyPI	graphs-csirhall
 GraphSCI	PyPI	graphscii
 GraphSCI	PyPI	graphsciics
 GraphSCI	PyPI	graphscope
@@ -2918,6 +2999,7 @@ HieRFIT	Bioc	hierinf
 HieRFIT	CRAN	hierfstat
 HoneyBADGER	PyPI	honeybadger
 Hopper	PyPI	HOPP
+Hopper	PyPI	HOPPET
 Hopper	PyPI	chopper
 Hopper	PyPI	choppera
 Hopper	PyPI	ghopper
