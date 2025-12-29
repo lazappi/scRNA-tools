@@ -22,6 +22,7 @@ ACTIVA	PyPI	activecache
 ACTIVA	PyPI	activewatch
 ADC	PyPI	ADCPy
 ADC	PyPI	ADCT
+ADC	PyPI	aadc
 ADC	PyPI	ad
 ADC	PyPI	adbc
 ADC	PyPI	adc
@@ -30,9 +31,11 @@ ADC	PyPI	adcc
 ADC	PyPI	adce
 ADC	PyPI	adcl
 ADC	PyPI	adcom
+ADC	PyPI	adcp
 ADC	PyPI	addc
 ADC	PyPI	adic
 ADC	PyPI	adoc
+ADC	PyPI	adsc
 ADC	PyPI	cadc
 ADC	PyPI	padc
 ADC	PyPI	yadc
@@ -40,6 +43,7 @@ ADClust	PyPI	aclust
 ADClust	PyPI	adcl
 ADClust	PyPI	adcustom
 ADClust	PyPI	adcutils
+ADClust	PyPI	andclust
 ADClust	PyPI	beadclust
 ADClust	PyPI	clust
 ADClust	PyPI	dclut
@@ -85,6 +89,7 @@ ANS	PyPI	fans
 ANS	PyPI	hans
 ANS	PyPI	sans
 APL	CRAN	APML
+APL	CRAN	aplms
 APL	CRAN	aplot
 APL	CRAN	capl
 APL	PyPI	APL
@@ -130,6 +135,7 @@ ASAP	PyPI	asarPy
 ASAP	PyPI	ashapi
 ASAP	PyPI	asp
 ASAP	PyPI	aspa
+ASAP	PyPI	astapy
 ASAP	PyPI	iasap
 ASAP	PyPI	nasap
 ASTK	CRAN	AST
@@ -158,6 +164,7 @@ AutoClass	PyPI	AutoAsd
 AutoClass	PyPI	AutoCAD
 AutoClass	PyPI	AutoClassifier
 AutoClass	PyPI	AutoLMS
+AutoClass	PyPI	AutoXLA
 AutoClass	PyPI	audioclass
 AutoClass	PyPI	auto-clash
 AutoClass	PyPI	auto-ss
@@ -176,6 +183,7 @@ AutoClass	PyPI	autoclass
 AutoClass	PyPI	autoclasstoc
 AutoClass	PyPI	autoclasswrapper
 AutoClass	PyPI	autoclean
+AutoClass	PyPI	autoclean-ds
 AutoClass	PyPI	autocleanser
 AutoClass	PyPI	autocleus
 AutoClass	PyPI	autocli
@@ -184,6 +192,7 @@ AutoClass	PyPI	autocml
 AutoClass	PyPI	autocolab
 AutoClass	PyPI	autocsr
 AutoClass	PyPI	autodla
+AutoClass	PyPI	autodocmiashs
 AutoClass	PyPI	autofaiss
 AutoClass	PyPI	autolab
 AutoClass	PyPI	autoleastsq
@@ -207,6 +216,7 @@ AutoImpute	PyPI	autoimp
 AutoImpute	PyPI	autoimport
 AutoImpute	PyPI	autoimpute
 AutoImpute	PyPI	autoit
+AutoImpute	PyPI	autoite
 AutoImpute	PyPI	automate
 AutoImpute	PyPI	autome
 AutoImpute	PyPI	automlite
@@ -241,6 +251,7 @@ BABEL	PyPI	babelplot
 BABEL	PyPI	babelrts
 BABEL	PyPI	babelscan
 BABEL	PyPI	babeltalk
+BABEL	PyPI	babelvec
 BABEL	PyPI	babex
 BABEL	PyPI	babla
 BABEL	PyPI	barbel
@@ -273,6 +284,7 @@ BASIC	PyPI	BasicCalc
 BASIC	PyPI	BasicDB
 BASIC	PyPI	BasicFSM
 BASIC	PyPI	BasicHttp
+BASIC	PyPI	BasicTS
 BASIC	PyPI	BasicTree
 BASIC	PyPI	BasicVFS
 BASIC	PyPI	Q-BASIC
@@ -298,6 +310,7 @@ BASIC	PyPI	basicCAS
 BASIC	PyPI	basicCal
 BASIC	PyPI	basicCals
 BASIC	PyPI	basicMLpy
+BASIC	PyPI	basicagi
 BASIC	PyPI	basicai
 BASIC	PyPI	basicalc
 BASIC	PyPI	basically
@@ -342,6 +355,7 @@ BASIC	PyPI	basskick
 BASIC	PyPI	basylic
 BASIC	PyPI	itbasic
 BASIC	PyPI	j5basic
+BASIC	PyPI	mbasic
 BASIC	PyPI	mybasic
 BASIC	PyPI	pcbasic
 BASIC	PyPI	pybasic
