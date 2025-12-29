@@ -4177,6 +4177,7 @@ OpenBioMed	PyPI	OpenMediaBot
 OpenBioMed	PyPI	openbb-oecd
 OpenBioMed	PyPI	openbd
 OpenBioMed	PyPI	openbim
+OpenBioMed	PyPI	openbiomcp
 OpenBioMed	PyPI	openbm
 OpenBioMed	PyPI	openbmi
 OpenBioMed	PyPI	openembed
@@ -4314,6 +4315,7 @@ PROSSTT	PyPI	prosit
 PROSSTT	PyPI	prosrs
 PROSSTT	PyPI	prossa
 PROSSTT	PyPI	prost
+PROSSTT	PyPI	prostata
 PROSSTT	PyPI	prostats
 PROSSTT	PyPI	prosto
 PROSSTT	PyPI	rsstt
@@ -4357,6 +4359,7 @@ Polaratio	PyPI	polario
 Polaratio	PyPI	polarion
 Polaratio	PyPI	polaris
 Polaratio	PyPI	polarity
+Polaratio	PyPI	polarix
 Polaratio	PyPI	polarization
 Polaratio	PyPI	polaroid
 Polaratio	PyPI	polars-astro
@@ -4411,9 +4414,11 @@ Pre-Phaser	PyPI	preparse
 PreTSA	CRAN	pretest
 PreTSA	CRAN	pretestcad
 ProjecTILs	Bioc	projectR
+ProjecTILs	CRAN	projectLSA
 ProjecTILs	CRAN	projections
 ProjecTILs	CRAN	projects
 ProjectSVR	Bioc	projectR
+ProjectSVR	CRAN	projectLSA
 ProjectSVR	CRAN	projections
 ProjectSVR	CRAN	projects
 Psix	Conda	six
@@ -4433,6 +4438,7 @@ PyMINEr	PyPI	Pyliner
 PyMINEr	PyPI	miner
 PyMINEr	PyPI	phytominer
 PyMINEr	PyPI	pmine
+PyMINEr	PyPI	py-mineatar
 PyMINEr	PyPI	pyCombiner
 PyMINEr	PyPI	pycgminer
 PyMINEr	PyPI	pycmdliner
@@ -4501,6 +4507,7 @@ PySCUBA	PyPI	scuba
 Pyro-Velocity	PyPI	post-velocity
 QClus	PyPI	QCluster
 QClus	PyPI	clus
+QClus	PyPI	qc2plus
 QClus	PyPI	qcl
 QDiffusion	PyPI	diffusion
 QDiffusion	PyPI	diffusionLM
@@ -4654,6 +4661,7 @@ RainDrop	PyPI	raindrop
 RainDrop	PyPI	raindrop-ai
 RainDrop	PyPI	raindrop-io-py
 RainDrop	PyPI	raindrop.py
+RainDrop	PyPI	raindropio-mcp
 RainDrop	PyPI	raindropmd
 RainDrop	PyPI	raindrops
 RainDrop	PyPI	rainod
@@ -4674,6 +4682,7 @@ Randomly	PyPI	randomtools
 Randomly	PyPI	randomwalk
 Randomly	PyPI	randy
 RankCorr	PyPI	rankor
+RankCorr	PyPI	rankvectors
 RcppML	CRAN	Rcpp
 RcppML	CRAN	RcppDL
 RcppML	CRAN	RcppGSL
@@ -4771,6 +4780,7 @@ SAMap	PyPI	samps
 SAMap	PyPI	sampy
 SAMap	PyPI	samsa
 SAMap	PyPI	seamapi
+SAMap	PyPI	shamapi
 SAMap	PyPI	sparmap
 SAMap	PyPI	stacmap
 SAMap	PyPI	starmap
@@ -4850,6 +4860,7 @@ SCALA	CRAN	gscaLCA
 SCALA	CRAN	sca
 SCALE	Bioc	SCATE
 SCALE	Bioc	Scale4C
+SCALE	Bioc	scLANE
 SCALE	CRAN	Scale
 SCALE	CRAN	Scalelink
 SCALE	CRAN	bdscale
@@ -4871,6 +4882,7 @@ SCALEX	PyPI	scaler
 SCALEX	PyPI	scales
 SCALEX	PyPI	scalpel
 SCANet	Bioc	SCATE
+SCANet	Bioc	scLANE
 SCANet	CRAN	SCEnt
 SCANet	CRAN	scan
 SCANet	PyPI	SCET
@@ -4966,6 +4978,7 @@ SCASL	PyPI	sca
 SCASL	PyPI	scaks
 SCASL	PyPI	scal
 SCASL	PyPI	scalc
+SCASL	PyPI	scald
 SCASL	PyPI	scale
 SCASL	PyPI	scales
 SCASL	PyPI	scalg
@@ -5025,6 +5038,7 @@ SCHiRM	PyPI	schima
 SCHiRM	PyPI	schimpy
 SCHiRM	PyPI	schirmshots
 SCHiRM	PyPI	schism
+SCHiRM	PyPI	schr
 SCHiRM	PyPI	scim
 SCHiRM	PyPI	scir
 SCHiRM	PyPI	scircm
@@ -5063,6 +5077,7 @@ SCIM	PyPI	scimpy
 SCIM	PyPI	scinum
 SCIM	PyPI	scircm
 SCIM	PyPI	scrim
+SCIM	PyPI	scsim
 SCIM	PyPI	scsims
 SCIM	PyPI	sim
 SCIMITAR	PyPI	Scimitar
@@ -5077,6 +5092,7 @@ SCING	PyPI	scoping
 SCING	PyPI	scoring
 SCING	PyPI	scrying
 SCING	PyPI	sing
+SCING	PyPI	spacing
 SCING-pipeline	PyPI	cli-pipeline
 SCING-pipeline	PyPI	sdi-pipeline
 SCISSORS	CRAN	scISR
@@ -5099,6 +5115,7 @@ SCMAPpy	PyPI	smppy
 SCMAPpy	PyPI	somappy
 SCMER	PyPI	SCM
 SCMER	PyPI	scmver
+SCMarker	Bioc	markeR
 SCMarker	CRAN	schumaker
 SCNS	Conda	scons
 SCNS	Conda	scs
@@ -5145,6 +5162,7 @@ SCOUT	CRAN	scout
 SCOUT	PyPI	SCOIT
 SCOUT	PyPI	Scoot
 SCOUT	PyPI	aiscout
+SCOUT	PyPI	nscout
 SCOUT	PyPI	pyscout
 SCOUT	PyPI	sco
 SCOUT	PyPI	scopt
@@ -5155,6 +5173,7 @@ SCOUT	PyPI	scour
 SCOUT	PyPI	scout
 SCOUT	PyPI	scout-apm
 SCOUT	PyPI	scout-cli
+SCOUT	PyPI	scout-mcp
 SCOUT	PyPI	scout.py
 SCOUT	PyPI	scout_api
 SCOUT	PyPI	scoutapm
@@ -5207,6 +5226,7 @@ SCREEN	PyPI	ScreenX3
 SCREEN	PyPI	imscreen
 SCREEN	PyPI	ioscreen
 SCREEN	PyPI	mpscreen
+SCREEN	PyPI	myscreen
 SCREEN	PyPI	pyscreen
 SCREEN	PyPI	qdscreen
 SCREEN	PyPI	scene
@@ -5295,6 +5315,7 @@ SCRIPro	PyPI	scripx
 SCSA	Conda	scs
 SCSA	PyPI	SC2Spa
 SCSA	PyPI	SCSA
+SCSA	PyPI	sc-sam
 SCSA	PyPI	scGSEA
 SCSA	PyPI	scSAMP
 SCSA	PyPI	scSLAT
@@ -5346,6 +5367,8 @@ SCope	PyPI	ndscope
 SCope	PyPI	niscope
 SCope	PyPI	piScope
 SCope	PyPI	pyscope
+SCope	PyPI	quscope
+SCope	PyPI	rfscope
 SCope	PyPI	rscope
 SCope	PyPI	scOpen
 SCope	PyPI	scScope
@@ -5364,6 +5387,7 @@ SCope	PyPI	scope-ml
 SCope	PyPI	scope-py
 SCope	PyPI	scope-rl
 SCope	PyPI	scope3ai
+SCope	PyPI	scopeai
 SCope	PyPI	scopebin
 SCope	PyPI	scopectx
 SCope	PyPI	scoped
@@ -5371,12 +5395,14 @@ SCope	PyPI	scopedlog
 SCope	PyPI	scopelets
 SCope	PyPI	scopelist
 SCope	PyPI	scopemate
+SCope	PyPI	scopeon
 SCope	PyPI	scopeprof
 SCope	PyPI	scoper
 SCope	PyPI	scopes
 SCope	PyPI	scopes-py
 SCope	PyPI	scopetest
 SCope	PyPI	scopeton
+SCope	PyPI	scopey
 SCope	PyPI	scopez
 SCope	PyPI	scopie
 SCope	PyPI	scopper
@@ -5387,6 +5413,7 @@ SCope	PyPI	scorep
 SCope	PyPI	scpe
 SCope	PyPI	skscope
 SCope	PyPI	sscopes
+SCope	PyPI	tiscope
 SCope	PyPI	tscope
 SCope	PyPI	vnscope
 SCpubr	CRAN	scipub
@@ -5483,6 +5510,7 @@ SIMBA	PyPI	simbak
 SIMBA	PyPI	simbapy
 SIMBA	PyPI	simbayesp
 SIMBA	PyPI	simbi
+SIMBA	PyPI	simboba
 SIMBA	PyPI	simdb
 SIMBA	PyPI	simjb
 SIMBA	PyPI	simoa
@@ -5502,6 +5530,7 @@ SIMPLEs	Bioc	simpleSeg
 SIMPLEs	CRAN	SIMle
 SIMPLEs	CRAN	SIMplyBee
 SIMPLEs	CRAN	SimPhe
+SIMPLEs	CRAN	SimpleUpset
 SIMPLEs	CRAN	simplace
 SIMPLEs	CRAN	simpleFDR
 SIMPLEs	CRAN	simpleMH
@@ -5545,6 +5574,7 @@ SIMS	PyPI	sms
 SINC	PyPI	asinc
 SINC	PyPI	fsinc
 SINC	PyPI	inc
+SINC	PyPI	qsinc
 SINC	PyPI	sic
 SINC	PyPI	signac
 SINC	PyPI	siinc
@@ -5562,6 +5592,7 @@ SIP	CRAN	MSiP
 SIP	CRAN	RSIP
 SIP	CRAN	SHIP
 SIP	CRAN	SI
+SIP	CRAN	SIP
 SIP	CRAN	SIPmg
 SIP	CRAN	silp
 SIP	Conda	sip
@@ -5647,6 +5678,7 @@ SMILE	PyPI	smilepack
 SMILE	PyPI	smileql
 SMILE	PyPI	smiler
 SMILE	PyPI	smiles
+SMILE	PyPI	smiles-fp
 SMILE	PyPI	smilewebp
 SMILE	PyPI	smiley
 SMILE	PyPI	smilez
@@ -5654,6 +5686,7 @@ SMILE	PyPI	smilite
 SMILE	PyPI	smily
 SMILE	PyPI	smime
 SMILE	PyPI	smite
+SMILE	PyPI	smle
 SMILE	PyPI	stSMILE
 SMILE	PyPI	symile
 SMILE	PyPI	xsmiles
@@ -5690,6 +5723,7 @@ SPADE	CRAN	space
 SPADE	CRAN	spate
 SPADE	PyPI	SPADE
 SPADE	PyPI	spade
+SPARSim	Bioc	spARI
 SPARSim	Bioc	spaSim
 SPARSim	CRAN	SPAr
 SPARSim	CRAN	SparseICA
@@ -5711,6 +5745,7 @@ SPECK	Bioc	speckle
 SPECK	CRAN	spec
 SPECK	CRAN	specr
 SPECK	CRAN	specs
+SPECTRA	Conda	spectral-cube
 SPECTRA	PyPI	Specter
 SPECTRA	PyPI	Specto
 SPECTRA	PyPI	SpectraFP
@@ -5769,6 +5804,7 @@ SPECTRA	PyPI	spectralETD
 SPECTRA	PyPI	spectralLib
 SPECTRA	PyPI	spectralib
 SPECTRA	PyPI	spectralign
+SPECTRA	PyPI	spectralio
 SPECTRA	PyPI	spectrally
 SPECTRA	PyPI	spectralmatch
 SPECTRA	PyPI	spectralnet
@@ -5779,10 +5815,12 @@ SPECTRA	PyPI	spectralview
 SPECTRA	PyPI	spectralyze
 SPECTRA	PyPI	spectramap
 SPECTRA	PyPI	spectran
+SPECTRA	PyPI	spectrans
 SPECTRA	PyPI	spectrapepper
 SPECTRA	PyPI	spectrasketch
 SPECTRA	PyPI	spectrautils
 SPECTRA	PyPI	spectrax
+SPECTRA	PyPI	spectraxgk
 SPECTRA	PyPI	spectre
 SPECTRA	PyPI	spectre-ai
 SPECTRA	PyPI	spectre-api
@@ -5792,7 +5830,9 @@ SPECTRA	PyPI	spectrepy
 SPECTRA	PyPI	spectres
 SPECTRA	PyPI	spectresc
 SPECTRA	PyPI	spectrify
+SPECTRA	PyPI	spectrin
 SPECTRA	PyPI	spectro
+SPECTRA	PyPI	spectroapi
 SPECTRA	PyPI	spectroflat
 SPECTRA	PyPI	spectrogram
 SPECTRA	PyPI	spectrogramer
@@ -5807,6 +5847,7 @@ SPECTRA	PyPI	spectrumm
 SPECTRA	PyPI	spectrumwars
 SPECTRA	PyPI	spectrumx
 SPECTRA	PyPI	spectrust
+SPECTRA	PyPI	spectuner
 SPECTRA	PyPI	spektral
 SPECTRA	PyPI	spetrans
 SPEEDI	CRAN	SPEI
@@ -5830,6 +5871,9 @@ SPLASH	PyPI	splashio
 SPLASH	PyPI	splashlab
 SPLASH	PyPI	splashpaper
 SPLASH	PyPI	splashpy
+SPLASH	PyPI	splashstand
+SPLASH	PyPI	splatbrush
+SPLASH	PyPI	splats
 SPLASH	PyPI	tksplash
 SPLASH	PyPI	unsplash
 SPRING	Conda	spin
@@ -5864,6 +5908,7 @@ SPRING	PyPI	springer
 SPRING	PyPI	springerdl
 SPRING	PyPI	springfield
 SPRING	PyPI	springform
+SPRING	PyPI	springgen
 SPRING	PyPI	springheel
 SPRING	PyPI	springleaf
 SPRING	PyPI	springpy
@@ -5907,6 +5952,7 @@ SPmarker	PyPI	pymarker
 SPmarker	PyPI	spark-emr
 SPmarker	PyPI	sparkler
 SPmarker	PyPI	sparklier
+SPmarker	PyPI	specmaker
 SR2	CRAN	sr
 SSBER	CRAN	SSNbler
 SSrGE	PyPI	issurge
@@ -5987,7 +6033,9 @@ STREAM	PyPI	ofstream
 STREAM	PyPI	ostream
 STREAM	PyPI	pistream
 STREAM	PyPI	pstream
+STREAM	PyPI	pvstream
 STREAM	PyPI	pystream
+STREAM	PyPI	qstream
 STREAM	PyPI	stam
 STREAM	PyPI	stea
 STREAM	PyPI	steam
@@ -6018,6 +6066,7 @@ STREAM	PyPI	stream2hop
 STREAM	PyPI	stream2msg
 STREAM	PyPI	stream2py
 STREAM	PyPI	stream33
+STREAM	PyPI	stream4py
 STREAM	PyPI	streamAPI
 STREAM	PyPI	streamViz
 STREAM	PyPI	stream_tap
@@ -6027,6 +6076,7 @@ STREAM	PyPI	streamai
 STREAM	PyPI	streamapp
 STREAM	PyPI	streamarch
 STREAM	PyPI	streamauc
+STREAM	PyPI	streamax
 STREAM	PyPI	streamback
 STREAM	PyPI	streambatch
 STREAM	PyPI	streambed
@@ -6054,6 +6104,7 @@ STREAM	PyPI	streamerate
 STREAM	PyPI	streamers
 STREAM	PyPI	streamfig
 STREAM	PyPI	streamflow
+STREAM	PyPI	streamforge
 STREAM	PyPI	streamfuels
 STREAM	PyPI	streamfy
 STREAM	PyPI	streamgen
@@ -6074,6 +6125,7 @@ STREAM	PyPI	streamkit
 STREAM	PyPI	streamlake
 STREAM	PyPI	streamlamp
 STREAM	PyPI	streamlana
+STREAM	PyPI	streamlat
 STREAM	PyPI	streamline
 STREAM	PyPI	streamlined
 STREAM	PyPI	streamlines
@@ -6110,6 +6162,7 @@ STREAM	PyPI	streamsad
 STREAM	PyPI	streamsbpy
 STREAM	PyPI	streamseqs
 STREAM	PyPI	streamsets
+STREAM	PyPI	streamshape
 STREAM	PyPI	streamshift
 STREAM	PyPI	streamside
 STREAM	PyPI	streamsight
@@ -6125,9 +6178,11 @@ STREAM	PyPI	streamtape
 STREAM	PyPI	streamtask
 STREAM	PyPI	streamtasks
 STREAM	PyPI	streamtest
+STREAM	PyPI	streamtick
 STREAM	PyPI	streamtools
 STREAM	PyPI	streamui
 STREAM	PyPI	streamviz
+STREAM	PyPI	streamware
 STREAM	PyPI	streamwatch
 STREAM	PyPI	streamwee
 STREAM	PyPI	streamx
@@ -6171,6 +6226,7 @@ SageNet	PyPI	sageinspector
 SageNet	PyPI	sagetex
 SageNet	PyPI	sgenet
 SampleQC	CRAN	sampler
+SampleQC	CRAN	samplex
 ScType	CRAN	scTEP
 Scanpro	PyPI	canprog
 Scanpro	PyPI	sanpo
@@ -6242,6 +6298,7 @@ Scribe	PyPI	scribehog
 Scribe	PyPI	scribelex
 Scribe	PyPI	scribemi
 Scribe	PyPI	scriber
+Scribe	PyPI	scriber-pdf
 Scribe	PyPI	scribes
 Scribe	PyPI	scribeutil
 Scribe	PyPI	scribl
@@ -6297,11 +6354,14 @@ ShareNet	PyPI	shapenet
 ShareNet	PyPI	share
 ShareNet	PyPI	shareconnect
 ShareNet	PyPI	shared-beta
+ShareNet	PyPI	shared_event
 ShareNet	PyPI	sharedcount
 ShareNet	PyPI	shareinator
 ShareNet	PyPI	shareit
 ShareNet	PyPI	sharemint
+ShareNet	PyPI	sharenotelib
 ShareNet	PyPI	sharepoint
+ShareNet	PyPI	sharepointer
 ShareNet	PyPI	sharesecret
 ShareNet	PyPI	sharnote
 ShareNet	PyPI	sharpen
@@ -6318,6 +6378,7 @@ Sharq	PyPI	sharc
 Sharq	PyPI	shard
 Sharq	PyPI	share
 Sharq	PyPI	sharedql
+Sharq	PyPI	shareql
 Sharq	PyPI	sharh
 Sharq	PyPI	shark
 Sharq	PyPI	sharkiq
@@ -6380,6 +6441,8 @@ SimiC	PyPI	simil
 SimiC	PyPI	simim
 SimiC	PyPI	simio
 SimiC	PyPI	simiotics
+SimiC	PyPI	simiq
+SimiC	PyPI	simiq-mcp
 SimiC	PyPI	simvi
 SimiC	PyPI	sismic
 SinCMat	Bioc	SIMAT
@@ -6390,6 +6453,7 @@ SinQC	PyPI	sin
 SinQC	PyPI	sinc
 SinQC	PyPI	since
 SinQC	PyPI	sinch
+SinQC	PyPI	sinq
 SinQC	PyPI	siqc
 SingCellaR	Bioc	SingleR
 SingCellaR	Bioc	sincell
@@ -6422,6 +6486,7 @@ SoCube	PyPI	shopcube
 SoloTE	PyPI	SoloPyTest
 SoloTE	PyPI	solite
 SoloTE	PyPI	solo
+SoloTE	PyPI	solokit
 SoloTE	PyPI	solt
 SoupX	CRAN	SOUP
 SpaOTsc	PyPI	spasco
@@ -6438,6 +6503,7 @@ SpatialScope	PyPI	spatial
 SpatialScope	PyPI	spatial-ops
 SpatialScope	PyPI	spatial-spec
 SpatialScope	PyPI	spatialcell
+SpatialScope	PyPI	spatialcl
 SpatialScope	PyPI	spatialcorr
 SpatialScope	PyPI	spatialcsv
 SpatialScope	PyPI	spatialise
@@ -6448,6 +6514,7 @@ SpatialScope	PyPI	spatialtis-core
 SpatialScope	PyPI	spatialtsp
 Spectre	Bioc	Spectra
 Spectre	Bioc	SpectraQL
+Spectre	Bioc	SpectriPy
 Spectre	CRAN	SCEPtER
 Spectre	CRAN	Spectran
 Spectre	CRAN	Spectrum
@@ -6470,6 +6537,7 @@ StationaryOT	PyPI	station
 StationaryOT	PyPI	stationarityToolkit
 StationaryOT	PyPI	stationaritytoolkit
 StationaryOT	PyPI	stationdata
+SuperCell	Bioc	SuperCellCyto
 SuperCell	CRAN	superMICE
 SuperCell	CRAN	supercells
 SuperCell	CRAN	superml
@@ -6518,6 +6586,7 @@ Superscan	PyPI	supersonic
 Superscan	PyPI	superss
 Superscan	PyPI	superstac
 Superscan	PyPI	superstar
+Superscan	PyPI	superstat
 SymSim	CRAN	symSEM
 Symphony	CRAN	Rsymphony
 Symphony	Conda	sympy
@@ -6525,7 +6594,9 @@ TACTiCS	PyPI	statics
 TACTiCS	PyPI	tact
 TACTiCS	PyPI	tactic
 TACTiCS	PyPI	tactics2d
+TACTiCS	PyPI	tactik
 TACTiCS	PyPI	tactis
+TACTiCS	PyPI	tactus
 TCM	CRAN	TDCM
 TCM	PyPI	tcm
 TDEseq	Bioc	tradeSeq
@@ -6542,7 +6613,9 @@ TDL	PyPI	tdil
 TDL	PyPI	tdl
 TDL	PyPI	tdlib
 TDL	PyPI	tdml
+TDL	PyPI	tgdl
 TDL	PyPI	thdl
+TDL	PyPI	tmdl
 TDL	PyPI	tqdl
 TDL	PyPI	tsdl
 TDL	PyPI	ttdl
@@ -6560,6 +6633,7 @@ TENET	PyPI	telnet2
 TENET	PyPI	ten
 TENET	PyPI	ten8t
 TENET	PyPI	tencent
+TENET	PyPI	tenement
 TENET	PyPI	tenet
 TENET	PyPI	tenetan
 TENET	PyPI	teneto
