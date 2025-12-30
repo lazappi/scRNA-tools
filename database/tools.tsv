@@ -1647,7 +1647,7 @@ scRAS	R	https://github.com/AristoQian/scRAS	The goal of scRAS is to measure the 
 scRCA	Python	https://github.com/LMC0705/scRCA	A Siamese network-based pipeline for the annotation of cell types using imperfect single-cell RNA-seq reference data	NA	2024-04-26	2025-04-13
 scRCMF	MATLAB	https://github.com/XiaoyingZheng121/scRCMF	An unsupervised method that identifies stable cell states and transition cells by adopting a nonlinear optimization model that infers the latent substructures from a gene-cell matrix.	MIT	2019-09-02	2019-09-02
 scREhurdle	R/Stan/C++	https://github.com/mnsekula/scREhurdle	scREhurdle is an R package for detecting differentially expressed genes in discrete single-cell RNA sequencing data	GPL-3.0-or-later	2019-04-07	2019-04-07
-scRL	Python	https://github.com/PeterPonyu/scRL	scRL: deep reinforcement learning in single cell data analysis for fate decision evaluation	MIT	2024-09-15	2024-09-15
+scRL	Python	https://github.com/PeterPonyu/scRL	scRL: deep reinforcement learning in single cell data analysis for fate decision evaluation	MIT	2024-09-15	2025-12-30
 scRMD	R	https://github.com/ChongC1990/scRMD	scRMD: Imputation for single cell RNA-seq data via restricted robust matrix decomposition	GPL-1.0	2018-11-13	2018-11-13
 scRNA	Python	https://github.com/nicococo/scRNA	scRNA - Transfer learning for clustering single-cell RNA-Seq data	MIT	2020-01-10	2020-01-10
 scRNABatchQC	R	https://github.com/liuqivandy/scRNABatchQC	scRNABatchQC is an R package for generating a HTML QC report to check and compare quality of multiple single cell RNA-seq datasets	LGPL-2.0	2019-08-12	2019-08-12
