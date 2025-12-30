@@ -1416,6 +1416,7 @@ scArches	Python	https://github.com/theislab/scarches	scArches is a package to in
 scBASE	Python/Stan	https://github.com/churchill-lab/scBASE	scBASE is a python implementation of three-component Beta-Binomial mixture model for accurate quantitation of allele-specific expression (ASE) from scRNA-Seq data.	MIT	2018-08-10	2019-11-27
 scBERT	Python	https://github.com/TencentAILabHealthcare/scBERT	A Large-scale Pretrained Deep Langurage Model for Cell Type Annotation of Single-cell RNA-seq Data	GPL-3.0	2022-06-10	2023-12-22
 scBGEDA	Python/MATLAB	https://github.com/wangyh082/scBGEDA	A single-cell deep clustering model via a dual denoising autoencoder with bipartite graph ensemble clustering	NA	2023-02-10	2023-02-10
+scBIOT	Python	https://github.com/haihuilab/scbiot	scBIOT is a lightweight Python library for single-cell omics integration	BSD-3-Clause	2025-12-30	2025-12-30
 scBOA	Python/R	https://github.com/QiangSu/scBOA	scBOA is an integrated, two-stage computational pipeline for single-cell RNA sequencing (scRNA-seq) analysis using Bayesian Optimization	MIT	2025-12-30	2025-12-30
 scBT	R	https://github.com/satabdisaha1288/scBT	This package implements a new Bayesian test for detecting differential gene expression over multiple dose groups in single cell gene expression studies	NA	2021-09-17	2022-03-04
 scBTF	Python	https://github.com/klarman-cell-observatory/scBTF	Robust Bayesian Tensor Factorization with Zero-Inflated Poisson Model and Consensus Aggregation	MIT	2023-08-24	2023-08-24
