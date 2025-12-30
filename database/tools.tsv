@@ -1333,7 +1333,7 @@ mvTCR	Python	https://github.com/SchubertLab/mvTCR	A multimodal generative model 
 netNMF-sc	Python	https://github.com/raphael-group/netNMF-sc	netNMF-sc: A network regularization algorithm for dimensionality reduction and imputation of single-cell expression data	BSD-3-Clause	2019-02-11	2019-10-02
 netSmooth	R	https://github.com/BIMSBbioinfo/netSmooth	A Network smoothing based method for single cell RNA-seq	GPL-3.0	2017-12-20	2017-12-20
 netsne	C++	https://github.com/hhcho/netsne	net-SNE, a neural network-based visualization tool developed for single cell RNA sequencing datasets.	MIT	2018-06-27	2018-06-27
-nicheformer	Python	https://github.com/theislab/nicheformer	Nicheformer: a foundation model for single-cell and spatial omics	BSD-3-Clause	2024-04-26	2024-04-26
+nicheformer	Python	https://github.com/theislab/nicheformer	Nicheformer: a foundation model for single-cell and spatial omics	BSD-3-Clause	2024-04-26	2025-12-30
 nichenetr	R	https://github.com/saeyslab/nichenetr	NicheNet uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths.	GPL-3.0	2019-12-16	2024-05-06
 nimfa	Python/R	https://github.com/ccshao/nimfa	Nimfa is a Python module that implements many algorithms for nonnegative matrix factorization	BSD-3-Clause	2018-11-13	2018-11-13
 northstar	Python	https://github.com/northstaratlas/northstar	northstar is a Python package to identify cell types within single cell transcriptomics datasets. northstar's superpower is that it learns from cell atlases but still allows queer cells to make their own cluster if they want to.	MIT	2019-11-03	2019-11-03
