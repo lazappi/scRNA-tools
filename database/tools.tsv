@@ -248,7 +248,7 @@ DAARIO	Python	https://github.com/sottorivalab/daario	DARRIO is a package designe
 DALI	R	https://github.com/vibscc/DALI	DALI (Diversity AnaLysis Interface): a novel tool for the integrated analysis of multimodal single cell RNAseq data and immune receptor profiling	GPL-3.0	2021-12-10	2021-12-10
 DANCE	Python	https://github.com/OmicsML/dance	DANCE is a Python toolkit to support deep learning models for analyzing single-cell gene expression at scale	BSD-2-Clause	2022-10-28	2024-05-06
 DAPCA	Python/MATLAB	https://github.com/mirkes/DAPCA	Domain Adaptation Principal Component Analysis is a new base linear method for domain adaptation (learning on out-of-distribution data)	GPL-3.0	2022-09-09	2022-09-09
-DAZZLE	Python	https://github.com/TuftsBCB/dazzle	Improving Gene Regulatory Network Inference using Dropout Augmentation	MIT	2023-10-27	2023-10-27
+DAZZLE	Python	https://github.com/TuftsBCB/dazzle	Improving Gene Regulatory Network Inference using Dropout Augmentation	MIT	2023-10-27	2025-12-30
 DC3	Python	https://github.com/SUwonglab/DC3	DC3: Deconvolution and coupled clustering from bulk and single cell genomics data	NA	2019-10-29	2019-10-29
 DCA	Python	https://github.com/theislab/dca	A deep count autoencoder network to denoise scRNA-seq data and remove the dropout effect by taking the count structure, overdispersed nature and sparsity of the data into account using a deep autoencoder with zero-inflated negative binomial (ZINB) loss function.	Apache-2.0	2018-04-17	2019-01-25
 DCATS	R	https://github.com/holab-hku/DCATS	Methods to detect the differential composition abundances between multiple conditions in singel-cell experiments	MIT	2021-11-05	2023-10-27
