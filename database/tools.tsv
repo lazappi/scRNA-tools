@@ -1665,7 +1665,7 @@ scSDAE	Python	https://github.com/klovbe/scSDAE	Sparsity-penalized stacked denois
 scSHARP	Python/R	https://github.com/mperozek11/scSHARP_tool	Consensus Label Propagation with Graph Convolutional Networks for Single-Cell RNA Sequencing Cell Type Annotation	MIT	2023-06-02	2024-01-05
 scSNPdemux	Shell/R	https://github.com/wkljohn/scSNPdemux	Bioinformatically demultiplex samples from single cell sequencing using SNP information and genotype information	GPL-3.0	2023-09-08	2023-09-08
 scSO	MATLAB/Python/C++/Fortran	https://github.com/QuKunLab/scSO	scSO is a new algorithm for scRNA-seq data clustering based on Sparse Optimization and low-rank matrix factorization	BSD-2-Clause	2021-04-12	2021-04-12
-scSPARKL	Python	https://github.com/asif7adil/scSparkl	scSPARKL is a simple framework for conducting variety of analysis on scRNA-seq data	MIT	2023-05-05	2023-05-05
+scSPARKL	Python	https://github.com/asif7adil/scSparkl	scSPARKL is a simple framework for conducting variety of analysis on scRNA-seq data	MIT	2023-05-05	2025-12-30
 scSTEM	R	https://github.com/alexQiSong/scSTEM	Single cell STEM (scSTEM) is a shiny app based R package for visualizing and clustering genes in pseudotime ordered single cell RNA-seq data	GPL-3.0-or-later	2022-08-12	2022-08-12
 scSVA	R	https://github.com/klarman-cell-observatory/scSVA	An R package for interactive two- and three-dimensional visualization and exploration of massive single-cell omics data.	GPL-3.0	2019-01-14	2019-01-14
 scSampler	Python	https://github.com/SONGDONGYUAN1994/scsampler	scSampler is a Python pacakge for fast diversity-preserving subsampling of large-scale single-cell transcriptomic data	MIT	2022-01-22	2022-04-30
