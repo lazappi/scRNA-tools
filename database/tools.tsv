@@ -1299,7 +1299,7 @@ leader	R	https://github.com/camlab-bioml/leader	CelL sEletion viA aDaptivE Rewei
 learn2count	R	https://github.com/drisso/learn2count	Structure learning of graphical models for count data	Artistic-2.0	2020-11-29	2020-11-29
 lemur	R/C++	https://github.com/const-ae/lemur	The goal of lemur is to enable easy analysis of multi-condition single-cell data	GPL-3.0	2023-03-10	2025-04-13
 locCSN	Python/R	https://github.com/xuranw/locCSN	locCSN is a refined approach for generating co-expression networks at the level of the individual cell by sharing strength at the level of the gene pair	MIT	2021-06-25	2021-12-17
-locaTE	Julia	https://github.com/zsteve/locaTE.jl	Cell-specific network inference using local Transfer Entropy	MIT	2023-01-13	2023-01-13
+locaTE	Julia	https://github.com/zsteve/locaTE.jl	Cell-specific network inference using local Transfer Entropy	MIT	2023-01-13	2025-12-30
 mLLMCelltype	R/Python	https://github.com/cafferychen777/mLLMCelltype	An iterative multi-LLM consensus framework for cell type annotation in single-cell RNA sequencing data. By leveraging multiple large language models (GPT, Claude, Gemini, Qwen), it significantly improves annotation accuracy while providing transparent uncertainty quantification.	MIT	2025-04-18	2025-04-24
 mastR	R	https://github.com/DavisLaboratory/mastR	An R package for automatically screening group specific signature for specific tissues	MIT	2024-05-06	2025-04-13
 matchSCore	R	NA	matchSCore is a easy-to-use R package for the comparison of single cell RNA-seq data across tools and experiments	NA	2018-05-11	2021-06-28
