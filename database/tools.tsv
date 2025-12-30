@@ -1515,7 +1515,7 @@ scGAE	Python	https://github.com/ZixiangLuo1161/scGAE	single-cell graph autoencod
 scGALA	Python	https://github.com/mcgilldinglab/scGALA	scGala: Graph Link Prediction Based Cell Alignment for Comprehensive Data Integration	MIT	2025-04-12	2025-04-12
 scGAN	Python	https://github.com/imsb-uke/scGAN	Realistic in silico generation and augmentation of single cell RNA-seq data using Generative Adversarial Neural Networks	MIT	2019-05-17	2019-05-17
 scGATE	R	https://github.com/CompBioIPM/scGATE	A logic-based model for deciphering tissue- and cell-type-specific gene regulatory networks from single-cell RNA sequencing	NA	2024-04-26	2024-04-26
-scGBM	R	https://github.com/phillipnicol/scGBM	Dimensionality Reduction for Single-cell RNA-seq using Generalized Bilinear Models	GPL-2.0-or-later	2023-05-12	2023-05-12
+scGBM	R	https://github.com/phillipnicol/scGBM	Dimensionality Reduction for Single-cell RNA-seq using Generalized Bilinear Models	GPL-2.0-or-later	2023-05-12	2025-12-30
 scGCL	Python	https://github.com/zehaoxiong123/scGCL	Integrates graph contrastive learning and Zero-inflated Negative Binomial (ZINB) autoencoder to estimate dropout values	NA	2023-03-03	2023-03-03
 scGEAToolbox	MATLAB	https://github.com/jamesjcai/scGEAToolbox	scGEAToolbox is a Matlab toolbox for scRNA-seq data analysis	MIT	2019-02-25	2021-06-28
 scGESTALT	Scala	https://github.com/aaronmck/SC_GESTALT	This Docker image processes GESTALT barcode sequencing data. Reads are merged by UMI, aligned to the reference file, and aggregated into plots describing the overall editing, as well as trees describing the relative lineage relationships within your data.	NA	2018-10-29	2018-10-29
