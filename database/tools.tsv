@@ -1142,7 +1142,7 @@ cellassign	R	https://github.com/irrationone/cellassign	cellassign automatically 
 cellatlas	Python	https://github.com/cellatlas/cellatlas	The cellatlas tool uses seqspec and kallisto bustools to facilitate universal preprocessing of single-cell genomics data	NA	2023-10-20	2025-04-13
 cellenium	TypeScript/Python	https://github.com/Bayer-Group/cellenium	Cellenium is a FAIR and scalable interactive visual analytics app for scRNA-Seq data	MIT	2023-07-01	2023-07-01
 cellgrid	Python	https://github.com/Brodinlab/cellgrid	Cell classification by learning known phenotypes	MIT	2020-07-31	2020-07-31
-cellmarkeraccordion	R	https://github.com/TebaldiLab/cellmarkeraccordion	R package for automatically annotating and interpreting single-cell populations	MIT	2024-03-15	2024-03-15
+cellmarkeraccordion	R	https://github.com/TebaldiLab/cellmarkeraccordion	R package for automatically annotating and interpreting single-cell populations	MIT	2024-03-15	2025-12-30
 cellograph	Python	https://github.com/jashahir/cellograph	Cellograph is a graph neural network model that uses a two-layer graph convolutional network to analyze single-cell RNA sequencing data	MIT	2023-03-03	2024-05-06
 cellpypes	R	https://github.com/FelixTheStudent/cellpypes	Cellpypes uses the popular piping operator %>% to manually annotate cell types in single-cell RNA sequencing data	GPL-3.0	2022-06-17	2022-06-17
 cellsnake	Python	https://github.com/sinanugur/cellsnake	A command line tool for easy and scalable single cell RNA sequencing analysis	MIT	2023-05-26	2024-01-05
