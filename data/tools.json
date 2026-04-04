@@ -449,7 +449,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 5629
+        "Citations": 5630
       }
     ],
     "Preprints": [
@@ -459,7 +459,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 5649,
+    "Citations": 5650,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "AUCell",
@@ -4366,7 +4366,7 @@
         "Title": "Unsupervised removal of systematic background noise from droplet-based single-cell experiments using CellBender",
         "DOI": "10.1038/s41592-023-01943-7",
         "Date": "2023-08-07",
-        "Citations": 674
+        "Citations": 675
       }
     ],
     "Preprints": [
@@ -4376,7 +4376,7 @@
         "Citations": 154
       }
     ],
-    "Citations": 828,
+    "Citations": 829,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "cellbender",
@@ -5368,7 +5368,7 @@
         "Title": "Cross-tissue immune cell analysis reveals tissue-specific features in humans",
         "DOI": "10.1126/science.abl5197",
         "Date": "2022-05-13",
-        "Citations": 931
+        "Citations": 932
       }
     ],
     "Preprints": [
@@ -5378,7 +5378,7 @@
         "Citations": 16
       }
     ],
-    "Citations": 947,
+    "Citations": 948,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "celltypist",
@@ -7142,10 +7142,10 @@
       {
         "Title": "Optimal tuning of weighted kNN- and diffusion-based methods for denoising single cell genomics data",
         "DOI": "10.1101/2020.02.28.970202",
-        "Citations": 4
+        "Citations": 3
       }
     ],
-    "Citations": 29,
+    "Citations": 28,
     "NumPubs": 1,
     "NumPreprints": 1,
     "PyPI": "DEWAKSS"
@@ -10872,11 +10872,11 @@
         "Title": "GSEApy: a comprehensive package for performing gene set enrichment analysis in Python",
         "DOI": "10.1093/bioinformatics/btac757",
         "Date": "2022-11-25",
-        "Citations": 942
+        "Citations": 943
       }
     ],
     "Preprints": [],
-    "Citations": 942,
+    "Citations": 943,
     "NumPubs": 1,
     "NumPreprints": 0,
     "PyPI": "gseapy",
@@ -11790,7 +11790,7 @@
         "Title": "Fast, sensitive and accurate integration of single-cell data with Harmony",
         "DOI": "10.1038/s41592-019-0619-0",
         "Date": "2019-11-18",
-        "Citations": 8785
+        "Citations": 8786
       }
     ],
     "Preprints": [
@@ -11800,7 +11800,7 @@
         "Citations": 107
       }
     ],
-    "Citations": 8892,
+    "Citations": 8893,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "harmony",
@@ -15803,7 +15803,7 @@
         "Title": "Reversed graph embedding resolves complex single-cell trajectories",
         "DOI": "10.1038/nmeth.4402",
         "Date": "2017-08-21",
-        "Citations": 4336
+        "Citations": 4337
       }
     ],
     "Preprints": [
@@ -15813,7 +15813,7 @@
         "Citations": 63
       }
     ],
-    "Citations": 12820,
+    "Citations": 12821,
     "NumPubs": 3,
     "NumPreprints": 1,
     "Bioc": "monocle",
@@ -19730,7 +19730,7 @@
         "Title": "The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads",
         "DOI": "10.1093/nar/gkz114",
         "Date": "2019-02-20",
-        "Citations": 2763
+        "Citations": 2764
       }
     ],
     "Preprints": [
@@ -19740,7 +19740,7 @@
         "Citations": 53
       }
     ],
-    "Citations": 2816,
+    "Citations": 2817,
     "NumPubs": 1,
     "NumPreprints": 1,
     "Bioc": "Rsubread"
@@ -20627,7 +20627,7 @@
         "Title": "SCENIC: single-cell regulatory network inference and clustering",
         "DOI": "10.1038/nmeth.4463",
         "Date": "2017-10-09",
-        "Citations": 5629
+        "Citations": 5630
       },
       {
         "Title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis",
@@ -20643,7 +20643,7 @@
         "Citations": 20
       }
     ],
-    "Citations": 6825,
+    "Citations": 6826,
     "NumPubs": 2,
     "NumPreprints": 1,
     "PyPI": "pyscenic",
@@ -23510,7 +23510,7 @@
         "Title": "STAR: ultrafast universal RNA-seq aligner",
         "DOI": "10.1093/bioinformatics/bts635",
         "Date": "2012-10-25",
-        "Citations": 48416
+        "Citations": 48422
       }
     ],
     "Preprints": [
@@ -23520,7 +23520,7 @@
         "Citations": 381
       }
     ],
-    "Citations": 48797,
+    "Citations": 48803,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "alexdobin/STAR"
@@ -24382,7 +24382,7 @@
         "Title": "Integrated analysis of multimodal single-cell data",
         "DOI": "10.1016/j.cell.2021.04.048",
         "Date": "2021-06",
-        "Citations": 13707
+        "Citations": 13709
       },
       {
         "Title": "Spatial reconstruction of single-cell gene expression data",
@@ -24400,13 +24400,13 @@
         "Title": "Dictionary learning for integrative, multimodal and scalable single-cell analysis",
         "DOI": "10.1038/s41587-023-01767-y",
         "Date": "2023-05-25",
-        "Citations": 4120
+        "Citations": 4122
       },
       {
         "Title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression",
         "DOI": "10.1186/s13059-019-1874-1",
         "Date": "2019-12-23",
-        "Citations": 4088
+        "Citations": 4089
       }
     ],
     "Preprints": [
@@ -24436,7 +24436,7 @@
         "Citations": 105
       }
     ],
-    "Citations": 55764,
+    "Citations": 55769,
     "NumPubs": 6,
     "NumPreprints": 5,
     "CRAN": "Seurat",
@@ -25441,7 +25441,7 @@
         "Title": "SoupX removes ambient RNA contamination from droplet-based single-cell RNA sequencing data",
         "DOI": "10.1093/gigascience/giaa151",
         "Date": "2020-12-26",
-        "Citations": 1395
+        "Citations": 1397
       }
     ],
     "Preprints": [
@@ -25451,7 +25451,7 @@
         "Citations": 79
       }
     ],
-    "Citations": 1474,
+    "Citations": 1476,
     "NumPubs": 1,
     "NumPreprints": 1,
     "CRAN": "SoupX",
@@ -36645,7 +36645,7 @@
         "Title": "Salmon provides fast and bias-aware quantification of transcript expression",
         "DOI": "10.1038/nmeth.4197",
         "Date": "2017-03-06",
-        "Citations": 11634
+        "Citations": 11636
       },
       {
         "Title": "A Bayesian framework for inter-cellular information sharing improves dscRNA-seq quantification",
@@ -36677,7 +36677,7 @@
         "Citations": 2
       }
     ],
-    "Citations": 12026,
+    "Citations": 12028,
     "NumPubs": 3,
     "NumPreprints": 3,
     "GitHub": "COMBINE-lab/salmon"
@@ -39316,11 +39316,11 @@
         "Title": "Doublet identification in single-cell sequencing data using scDblFinder",
         "DOI": "10.12688/f1000research.73600.1",
         "Date": "2021-09-28",
-        "Citations": 702
+        "Citations": 703
       }
     ],
     "Preprints": [],
-    "Citations": 702,
+    "Citations": 703,
     "NumPubs": 1,
     "NumPreprints": 0,
     "Bioc": "scDblFinder",
@@ -41292,10 +41292,10 @@
       {
         "Title": "Interpretable trajectory inference with single-cell Linear Adaptive Negative-binomial Expression (scLANE) testing",
         "DOI": "10.1101/2023.12.19.572477",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 1,
+    "Citations": 0,
     "NumPubs": 0,
     "NumPreprints": 1,
     "Bioc": "scLANE",
@@ -46471,10 +46471,10 @@
       {
         "Title": "Scope+: An open source generalizable architecture for single-cell atlases at sample and cell levels",
         "DOI": "10.1101/2022.12.03.518997",
-        "Citations": 1
+        "Citations": 0
       }
     ],
-    "Citations": 3,
+    "Citations": 2,
     "NumPubs": 1,
     "NumPreprints": 1,
     "GitHub": "hiyin/scopeplus"
